@@ -1,0 +1,11 @@
+* text=auto eol=lf
+
+# Binärdateien nie normalisieren
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.nef binary
+*.mp4 binary
+*.docx binary
+*.pdf binary

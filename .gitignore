@@ -1,0 +1,10 @@
+# Fotos werden mit ins (private!) Repo übertragen, außer:
+# - Videos/GIFs (533 MB, einzelne Dateien > 100 MB – GitHub-Limit)
+# - _Nicht-verwenden (u. a. Foto mit Führerscheinen – Ausweisdaten gehören nicht ins Repo)
+# - Sonstiges (für die Karten nicht benötigt)
+Fotos/_Videos/
+Fotos/_Nicht-verwenden/
+Fotos/Sonstiges/
+
+# Office-Sperrdateien
+~$*

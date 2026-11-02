@@ -1,0 +1,49 @@
+Gruppe;Anzahl;Karte;Typ;Varianten;Person;Flavorname;Warum die Mechanik passt / Flavor-Idee
+Izzet-Kern;4;Steam Vents;Land;Prowess+Spellementals;Johann;Johanns Sauna;Insel+Berg, kostet 2 Leben = Aufguss
+Izzet-Kern;4;Spirebluff Canal;Land;Prowess+Spellementals;Max;Kroatische Küste;Max' Arbeitsort bei Bugatti
+Izzet-Kern;4;Riverpyre Verge;Land;Prowess+Spellementals;Gruppe;Saaleufer Jena;Jena liegt an der Saale – Fluss + Lagerfeuer
+Izzet-Kern;2;Multiversal Passage;Land;Prowess+Spellementals;Gruppe;WhatsApp-Gruppe „Projekt Reichtum“;wird zu jedem Landtyp = Überschrift für alles
+Izzet-Kern;5;Island;Basic Land;Prowess+Spellementals;Gruppe;Mallorca (JGA);randlose Gruppenfotos vom Junggesellenabschied
+Izzet-Kern;1;Mountain;Basic Land;Prowess+Spellementals;Paul+Robin;Alpenpass;Rennradtour über die Alpen
+Izzet-Kern;4;Eddymurk Crab;Creature;Prowess+Spellementals;Hermann;Das eingestaubte Rennrad;wird billiger mit jeder Ausrede (Spontanzauber/Hexerei) im Friedhof
+Izzet-Kern;4;Opt;Instant;Prowess+Spellementals;Robin;Rendite-Spezialisten Gold (PDF);Hellsicht 1, Karte ziehen = Robin hält alle auf dem Laufenden; 4 Exemplare = 4 Ausgaben
+Izzet-Kern;4;Sleight of Hand;Sorcery;Prowess+Spellementals;Max;Max philosophiert;zwei Gedanken ansehen, einer bleibt
+Izzet-Kern;4;Burst Lightning;Instant;Prowess+Spellementals;Paul;Pauls Ausraster;2 Schaden; Kicker = die Kinder sitzen mit im Auto (4 Schaden)
+Izzet-Kern;2;Spell Snare;Instant;Prowess+Spellementals;Johann;Das Glas ist halb leer;neutralisiert gezielt – der gesunde Pessimist
+Izzet-Kern;2;Impractical Joke;Sorcery;Prowess+Spellementals;Johann / Robin;Ex. 1: Helge-Schneider-Zitat (Johann) · Ex. 2: Robins Joker;Schaden kann nicht verhindert werden – Helge auch nicht / Joke + Joker-Schminke aus Robins YouTube-Zeit
+Izzet-Kern;2;Flow State;Sorcery;Prowess+Spellementals;Hermann;„Da les ich mich mal ein“;3 ansehen, 1 behalten – der Deep Dive
+Modul Prowess;4;Slickshot Show-Off;Creature;Prowess;Johann;Klippenspringer von Mallorca;Flugfähigkeit, Eile, +2/+0 bei jedem Zauber = jedes Mal höher
+Modul Prowess;4;Elusive Otter;Creature;Prowess;Robin;Arena, Runde 100;Bonus bei jedem Zauber, wird mit jedem Spiel stärker; Kleinere blocken ihn nicht
+Modul Prowess;2;Pompous Battlemage;Creature;Prowess;Paul;„Das ist die einzig logische Meinung“;Pompous = selbstüberzeugt; vorbereitet = hat das Argument schon parat
+Modul Prowess;3;Wild Ride;Sorcery;Prowess;Paul;Zocken mit Spielgeld;+3/+0 und Eile; Harmonize = geht schief, kommt aus dem Friedhof wieder
+Modul Prowess;2;Vibrant Outburst;Instant;Prowess;Paul+Johann;Seifenblasenkanone;3 Schaden + Kreatur tappen = Publikum eingeseift (Hochzeit)
+Modul Prowess;2;Bounce Off;Instant;Prowess;Robin;Wiesn-Ablenkung;Kreatur zurück auf die Hand – kurz abgelenkt. Flavor-Idee: „Schleife links heißt Single, oder? Ich frag ja nur für die Statistik.“ – Robin / „Die Maß steht hier vorne, Schatz.“ – Viktoria (frech erlaubt)
+Modul Prowess;1;Stock Up;Sorcery;Prowess;Robin;Stock Up – Sparplan ausgeführt;Wortspiel: Aktien nachkaufen, 5 ansehen, 2 nehmen
+Modul Spellementals;4;Hearth Elemental;Creature;Spellementals;Gruppe;Lagerfeuer im Garten in Jena;Hearth = Feuerstelle; wird billiger mit jeder Geschichte im Friedhof
+Modul Spellementals;4;Sunderflock;Creature;Spellementals;Hermann;Hermanns Luftschloss;sieht teuer aus (9), fliegt, und schickt alle zurück an den Anfang
+Modul Spellementals;3;Colorstorm Stallion;Creature;Spellementals;Max;Die kesse Sohle;Eile; ab 5 Mana kopiert er sich = die ganze Hochzeit tanzt mit
+Modul Spellementals;4;Prismari Charm;Instant;Spellementals;Hermann;Themencocktail nach Sonderwunsch;wähle eins von drei – der Barkeeper seit 2019
+Modul Spellementals;3;Traumatic Critique;Instant;Spellementals;Paul;Pauls Feedbackgespräch;X Schaden, 2 ziehen, 1 abwerfen
+Landfall Main;4;Llanowar Elves;Creature;Landfall Stock+Anti-Izzet;Robin;Robins Siebträger: Knopf drücken;tappen, Mana kommt – braunes Gold ohne Drumherum
+Landfall Main;4;Sazh's Chocobo;Creature;Landfall Stock+Anti-Izzet;Robin+Hermann;Der ETF-Sparplan;wächst still mit jedem Land
+Landfall Main;4;Carnivorous Cultivator;Creature;Landfall Stock+Anti-Izzet;Johann;Johann im Kundentermin;Todesberührung = Abschluss; holt Länder zurück
+Landfall Main;2;Keen-Eyed Curator;Creature;Landfall Stock+Anti-Izzet;Max;Max im Sternerestaurant;der Kenner: sammelt 4 Kartentypen = 4 Gänge, dann +4/+4
+Landfall Main;3;Mossborn Hydra;Creature;Landfall Stock+Anti-Izzet;Max;Der Turbolader;verdoppelt die Marken bei jedem Land
+Landfall Main;4;Icetill Explorer;Creature;Landfall Stock+Anti-Izzet;Johann;Johann der Heimwerker;spielt Länder aus dem Friedhof = macht Baufälliges wieder bewohnbar
+Landfall Main;4;Mightform Harmonizer;Creature;Landfall Stock+Anti-Izzet;Robin;Der Zinseszins;verdoppelt die Stärke bei jedem Land
+Landfall Main;3;Esper Origins;Sorcery;Landfall Stock+Anti-Izzet;Hermann;Der Puzzle-Adventskalender;kommt verwandelt aus dem Friedhof zurück = nach 2 Puzzles jetzt dieser Kalender
+Landfall Main;1;Lumbering Worldwagon;Artifact;Landfall Stock+Anti-Izzet;Max;Bugatti (Prototyp);Fahrzeug; Bemannen 4 = braucht 4 Mann zum Anschieben
+Landfall Main;1;Meltstrider's Resolve;Enchantment;Landfall Stock+Anti-Izzet;Robin+Johann;LoL, Runde 20;Kampf
+Landfall Main;4;Earthbender Ascension;Enchantment;Landfall Stock+Anti-Izzet;Robin+Paul+Hermann;Projekt „Zur erfolgreichen Praxis“;Die Karte zählt selbst bis 4 Quest-Marken – Fortschrittsleiste auf der Karte: 1 Referenzen für SEO, 2 Vertrieb schulen + Gebiete, 3 Werbekampagne, 4 REICHTUM! (= +1/+1 und Trampelschaden). 4 Exemplare = 4 Vertriebsgebiete im Bild: Aachen (Hermann), Leipzig (Paul), München (Robin), Jena (Johann, „kommt später dazu“)
+Landfall Main;3;Ba Sing Se;Land;Landfall Stock+Anti-Izzet;Johann;Johanns Haus;Erdbändigen = Renovieren
+Landfall Main;1;Demolition Field;Land;Landfall Stock+Anti-Izzet;Johann;Das Baugutachten;zerstört ein nicht-einfaches Land
+Landfall Main;3;Elven Passage;Land;Landfall Stock+Anti-Izzet;Gruppe;Flughafen Palma;opfern, einfaches Land suchen = ab nach Mallorca
+Landfall Main;2;Escape Tunnel;Land;Landfall Stock+Anti-Izzet;Johann;Der Weg zum Pool;opfern, Land suchen; oder: kleine Kreatur unblockbar
+Landfall Main;4;Fabled Passage;Land;Landfall Stock+Anti-Izzet;Robin;A9 München–Jena;opfern, einfaches Land suchen = Anfahrt zum Geburtstag
+Landfall Main;13;Forest;Basic Land;Landfall Stock+Anti-Izzet;Gruppe;Garten in Jena;randlose Gruppenfotos von den Geburtstagen
+Landfall Sideboard;3;Meltstrider's Resolve;Enchantment;Anti-Izzet;Robin+Johann;LoL, Runde 20;wie oben, weitere Runden
+Landfall Sideboard;2;Surrak, Elusive Hunter;Creature;Anti-Izzet;Paul;Paul, nicht diskutierbar;kann nicht neutralisiert werden; zieht eine Karte, wenn man es trotzdem versucht
+Landfall Sideboard;2;Torpor Orb;Artifact;Anti-Izzet;Max;Max zieht den Stecker;Kreaturen lösen beim Ins-Spiel-Kommen nichts aus
+Landfall Sideboard;2;Hard-Hitting Question;Sorcery;Anti-Izzet;Paul;„Geht das nicht effizienter?“;eigene Kreatur fügt Schaden in Höhe ihrer Stärke zu
+Landfall Sideboard;1;Mossborn Hydra;Creature;Anti-Izzet;Max;Der Turbolader;wie oben
+Landfall Sideboard;2;Sapling Nursery;Enchantment;Anti-Izzet;Robin;Oktoberfest;jedes Land = ein neuer 3/4-Spielstein (Maßkrug mit Reichweite)
