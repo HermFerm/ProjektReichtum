@@ -1,0 +1,135 @@
+﻿[
+    {
+        "ziel":  "Bilder/_Charakterblatt_Paul.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Fotos/Paul/Paul_portrait_02.jpg",
+                       "Fotos/Paul/Paul_portrait_04.jpg",
+                       "Fotos/Nachlieferung/Paul_Genervt.jpg"
+                   ],
+        "prompt":  "Charakterblatt von Paul (die Person auf allen drei Fotos) im festgelegten Stil: nebeneinander Kopf frontal, Kopf im Profil und Ganzkörper stehend, auf ruhigem, hellem Hintergrund. Gesicht, Frisur, Bart, Brille und Statur exakt wie auf den Fotos. Schlichte dunkle Kleidung. Das Blatt ist die Referenz für alle weiteren Bilder von Paul. Ausnahmsweise darf das Motiv bis an die Ränder gehen."
+    },
+    {
+        "ziel":  "Bilder/Burst Lightning_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Paul.png",
+                       "Fotos/Nachlieferung/Paul_Genervt.jpg"
+                   ],
+        "prompt":  "Paul, aus dessen Kopf ein Blitz schießt, mitten in einer Situation, die gerade eskaliert; die Umgebung wird von roter Energie erfasst. Humorvoll überzeichnet, nicht wütend-bedrohlich.\nV1 Konzern-Meeting · V2 kaputte Fahrradkette · V3 Stau · V4 (Kicker) im Auto, auf der Rückbank nur zwei kleine Silhouetten mit Zöpfen, von hinten.\n\nDies ist Variante V1 von 4.\nGesichtsausdruck wie auf dem Foto.\nDie ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Drei Gremien für eine Freigabe?!“ — Paul, Konzern-Montag"
+    },
+    {
+        "ziel":  "Bilder/Burst Lightning_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Paul.png",
+                       "Fotos/Nachlieferung/Paul_Genervt.jpg"
+                   ],
+        "prompt":  "Paul, aus dessen Kopf ein Blitz schießt, mitten in einer Situation, die gerade eskaliert; die Umgebung wird von roter Energie erfasst. Humorvoll überzeichnet, nicht wütend-bedrohlich.\nV1 Konzern-Meeting · V2 kaputte Fahrradkette · V3 Stau · V4 (Kicker) im Auto, auf der Rückbank nur zwei kleine Silhouetten mit Zöpfen, von hinten.\n\nDies ist Variante V2 von 4.\nGesichtsausdruck wie auf dem Foto.\nDie ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Die Kette sprang bei Kilometer 3. Der Wortschatz bei Kilometer 3,1."
+    },
+    {
+        "ziel":  "Bilder/Burst Lightning_3.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Paul.png",
+                       "Fotos/Nachlieferung/Paul_Genervt.jpg"
+                   ],
+        "prompt":  "Paul, aus dessen Kopf ein Blitz schießt, mitten in einer Situation, die gerade eskaliert; die Umgebung wird von roter Energie erfasst. Humorvoll überzeichnet, nicht wütend-bedrohlich.\nV1 Konzern-Meeting · V2 kaputte Fahrradkette · V3 Stau · V4 (Kicker) im Auto, auf der Rückbank nur zwei kleine Silhouetten mit Zöpfen, von hinten.\n\nDies ist Variante V3 von 4.\nGesichtsausdruck wie auf dem Foto.\nDie ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Linke Spur, Leute! LINKE SPUR!“ — Paul"
+    },
+    {
+        "ziel":  "Bilder/Burst Lightning_4.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Paul.png",
+                       "Fotos/Nachlieferung/Paul_Genervt.jpg"
+                   ],
+        "prompt":  "Paul, aus dessen Kopf ein Blitz schießt, mitten in einer Situation, die gerade eskaliert; die Umgebung wird von roter Energie erfasst. Humorvoll überzeichnet, nicht wütend-bedrohlich.\nV1 Konzern-Meeting · V2 kaputte Fahrradkette · V3 Stau · V4 (Kicker) im Auto, auf der Rückbank nur zwei kleine Silhouetten mit Zöpfen, von hinten.\n\nDies ist Variante V4 von 4.\nGesichtsausdruck wie auf dem Foto.\nDie ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Mit Kicker: Von der Rückbank kommt zum fünften Mal „Sind wir bald da?“"
+    },
+    {
+        "ziel":  "Bilder/Pompous Battlemage_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Paul.png",
+                       "Fotos/Nachlieferung/Paul_gestikuliert.png"
+                   ],
+        "prompt":  "Paul als selbstbewusster Kampfmagier auf einem kleinen Podest, eine Hand erhoben, über ihm schwebt ein leuchtendes Flipchart; eine Gruppe Zuhörer nickt hypnotisiert mit leuchtenden Augen. Rotes Feuerlicht, leicht ironische Heldenpose.\n\nDies ist Exemplar 1 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nGestik aus dem Foto übernehmen.\nDie ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Das ist nicht meine Meinung. Das ist Logik.“ — Paul"
+    },
+    {
+        "ziel":  "Bilder/Pompous Battlemage_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Paul.png",
+                       "Fotos/Nachlieferung/Paul_gestikuliert.png"
+                   ],
+        "prompt":  "Paul als selbstbewusster Kampfmagier auf einem kleinen Podest, eine Hand erhoben, über ihm schwebt ein leuchtendes Flipchart; eine Gruppe Zuhörer nickt hypnotisiert mit leuchtenden Augen. Rotes Feuerlicht, leicht ironische Heldenpose.\n\nDies ist Exemplar 2 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nGestik aus dem Foto übernehmen.\nDie ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Nach zehn Minuten war es auch eure Meinung."
+    },
+    {
+        "ziel":  "Bilder/Surrak, Elusive Hunter_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Paul.png",
+                       "Fotos/Gruppe/Alpen-Rennrad/Paul__IMG-20260726-WA0024.jpg"
+                   ],
+        "prompt":  "Paul als unaufhaltsamer Jäger in Rennrad-Rüstung, der einen steilen Bergpass hochstürmt; Gegenzauber von Gegnern zerplatzen wirkungslos an ihm wie Seifenblasen. Entschlossener Blick, grüne Kraftaura.\n\nDies ist Exemplar 1 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nTrikot und Pose aus dem Foto übernehmen.\nDie ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Ich hab mir das angehört. Wir machen es trotzdem so.“ — Paul"
+    },
+    {
+        "ziel":  "Bilder/Surrak, Elusive Hunter_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Paul.png",
+                       "Fotos/Gruppe/Alpen-Rennrad/Paul__IMG-20260606-WA0021.jpg"
+                   ],
+        "prompt":  "Paul als unaufhaltsamer Jäger in Rennrad-Rüstung, der einen steilen Bergpass hochstürmt; Gegenzauber von Gegnern zerplatzen wirkungslos an ihm wie Seifenblasen. Entschlossener Blick, grüne Kraftaura.\n\nDies ist Exemplar 2 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nTrikot und Pose aus dem Foto übernehmen.\nDie ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Wer ihm widerspricht, liefert ihm nur neue Argumente."
+    },
+    {
+        "ziel":  "Bilder/Traumatic Critique_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Paul.png",
+                       "Fotos/Paul/Paul_portrait_05.jpg"
+                   ],
+        "prompt":  "Paul als ruhiger, aber unerbittlicher Inquisitor an einem langen Tisch, vor ihm ein Gegenüber, das unter einem Strahl aus blau-roter Energie zusammenschrumpft. Auf dem Tisch ein Kaffee aus dem Siebträger. Ernst, aber mit Augenzwinkern.\n\nDies ist Exemplar 1 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nDie Kaffeetasse vom Foto als Requisite.\nDie ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Ich sag\u0027s dir jetzt mal ganz offen, weil ich dich schätze.“ — Paul, kurz vor X Schaden"
+    },
+    {
+        "ziel":  "Bilder/Traumatic Critique_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Paul.png",
+                       "Fotos/Paul/Paul_portrait_05.jpg"
+                   ],
+        "prompt":  "Paul als ruhiger, aber unerbittlicher Inquisitor an einem langen Tisch, vor ihm ein Gegenüber, das unter einem Strahl aus blau-roter Energie zusammenschrumpft. Auf dem Tisch ein Kaffee aus dem Siebträger. Ernst, aber mit Augenzwinkern.\n\nDies ist Exemplar 2 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nDie Kaffeetasse vom Foto als Requisite.\nDie ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Zwei Erkenntnisse nimmst du mit, eine verdrängst du. Paul hat sie trotzdem protokolliert."
+    },
+    {
+        "ziel":  "Bilder/Traumatic Critique_3.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Paul.png",
+                       "Fotos/Paul/Paul_portrait_05.jpg"
+                   ],
+        "prompt":  "Paul als ruhiger, aber unerbittlicher Inquisitor an einem langen Tisch, vor ihm ein Gegenüber, das unter einem Strahl aus blau-roter Energie zusammenschrumpft. Auf dem Tisch ein Kaffee aus dem Siebträger. Ernst, aber mit Augenzwinkern.\n\nDies ist Exemplar 3 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nDie Kaffeetasse vom Foto als Requisite.\nDie ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Als ehemaliger Krankenpfleger weiß Paul: erst die Diagnose, dann die Behandlung. Betäubung gibt\u0027s keine."
+    },
+    {
+        "ziel":  "Bilder/Wild Ride_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Paul.png"
+                   ],
+        "prompt":  "Paul reitet lachend auf einem feurigen, wilden Bullen aus roter Energie über ein Börsenparkett aus Kristall, um ihn fliegen Münzen und brennende Kurs-Pfeile. Rasante Bewegung, Geschwindigkeit.\nV1 Pfeile nach oben · V2 Pfeile nach unten, Paul fällt · V3 er steigt wieder auf.\n\nDies ist Variante V1 von 3.\nDie ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Plus 40 Prozent! Hab ich doch gesagt.“ — Paul"
+    },
+    {
+        "ziel":  "Bilder/Wild Ride_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Paul.png"
+                   ],
+        "prompt":  "Paul reitet lachend auf einem feurigen, wilden Bullen aus roter Energie über ein Börsenparkett aus Kristall, um ihn fliegen Münzen und brennende Kurs-Pfeile. Rasante Bewegung, Geschwindigkeit.\nV1 Pfeile nach oben · V2 Pfeile nach unten, Paul fällt · V3 er steigt wieder auf.\n\nDies ist Variante V2 von 3.\nDie ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Ist doch Spielgeld.“ — Paul, etwas leiser"
+    },
+    {
+        "ziel":  "Bilder/Wild Ride_3.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Paul.png"
+                   ],
+        "prompt":  "Paul reitet lachend auf einem feurigen, wilden Bullen aus roter Energie über ein Börsenparkett aus Kristall, um ihn fliegen Münzen und brennende Kurs-Pfeile. Rasante Bewegung, Geschwindigkeit.\nV1 Pfeile nach oben · V2 Pfeile nach unten, Paul fällt · V3 er steigt wieder auf.\n\nDies ist Variante V3 von 3.\nDie ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Spielgeld wächst nach.“ — Paul"
+    }
+]

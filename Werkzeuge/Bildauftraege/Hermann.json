@@ -1,0 +1,152 @@
+﻿[
+    {
+        "ziel":  "Bilder/_Charakterblatt_Hermann.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Fotos/Hermann/Hermann_ref_01.jpg",
+                       "Fotos/Hermann/Hermann_portrait_01.jpg",
+                       "Fotos/Hermann/Hermann_portrait_11.jpg"
+                   ],
+        "prompt":  "Charakterblatt von Hermann (die Person auf allen drei Fotos) im festgelegten Stil: nebeneinander Kopf frontal, Kopf im Profil und Ganzkörper stehend, auf ruhigem, hellem Hintergrund. Gesicht, Frisur, Bart, Brille und Statur exakt wie auf den Fotos. Schlichte dunkle Kleidung. Das Blatt ist die Referenz für alle weiteren Bilder von Hermann. Ausnahmsweise darf das Motiv bis an die Ränder gehen."
+    },
+    {
+        "ziel":  "Bilder/Eddymurk Crab_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Hermann.png",
+                       "Fotos/Themen/Rennrad-Werkstatt/Hermann-Rennrad__IMAG0093.jpg"
+                   ],
+        "prompt":  "Eine riesige, freundliche Krabbe aus Moos, Staub und Spinnweben, die sich langsam aus einer Garage erhebt; auf ihrem Panzer hängt ein komplett eingestaubtes Rennrad. Im Hintergrund schaut Hermann schuldbewusst mit einer Tasse Espresso zu. Blau-grünes Licht, humorvoll.\nV1–V4: Staubschicht wird mit jeder Variante dicker, V4 mit Pflanzen, die aus den Speichen wachsen.\n\nDies ist Variante V1 von 4.\nNur eine hauchdünne Staubschicht, kaum Moos, keine Spinnweben – das Rad glänzt noch. Hermann steht nah an der Bildmitte, nicht am Rand.\nDie ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Ein Rennrad gehört zu jedem 37-Jährigen. Fahren steht nicht im Vertrag."
+    },
+    {
+        "ziel":  "Bilder/Eddymurk Crab_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Hermann.png",
+                       "Fotos/Themen/Rennrad-Werkstatt/Hermann-Rennrad__IMAG0093.jpg"
+                   ],
+        "prompt":  "Eine riesige, freundliche Krabbe aus Moos, Staub und Spinnweben, die sich langsam aus einer Garage erhebt; auf ihrem Panzer hängt ein komplett eingestaubtes Rennrad. Im Hintergrund schaut Hermann schuldbewusst mit einer Tasse Espresso zu. Blau-grünes Licht, humorvoll.\nV1–V4: Staubschicht wird mit jeder Variante dicker, V4 mit Pflanzen, die aus den Speichen wachsen.\n\nDies ist Variante V2 von 4.\nDeutliche Staubschicht, erste Spinnweben, etwas Moos.\nDie ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Morgen fahr ich. Wenn\u0027s nicht regnet. Oder zu warm ist.“ — Hermann"
+    },
+    {
+        "ziel":  "Bilder/Eddymurk Crab_3.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Hermann.png",
+                       "Fotos/Themen/Rennrad-Werkstatt/Hermann-Rennrad__IMAG0093.jpg"
+                   ],
+        "prompt":  "Eine riesige, freundliche Krabbe aus Moos, Staub und Spinnweben, die sich langsam aus einer Garage erhebt; auf ihrem Panzer hängt ein komplett eingestaubtes Rennrad. Im Hintergrund schaut Hermann schuldbewusst mit einer Tasse Espresso zu. Blau-grünes Licht, humorvoll.\nV1–V4: Staubschicht wird mit jeder Variante dicker, V4 mit Pflanzen, die aus den Speichen wachsen.\n\nDies ist Variante V3 von 4.\nDicke Staubschicht, viel Moos und Spinnweben.\nDie ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Paul fährt über die Alpen. Hermanns Rad sammelt Hausstaub."
+    },
+    {
+        "ziel":  "Bilder/Eddymurk Crab_4.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Hermann.png",
+                       "Fotos/Themen/Rennrad-Werkstatt/Hermann-Rennrad__IMAG0093.jpg"
+                   ],
+        "prompt":  "Eine riesige, freundliche Krabbe aus Moos, Staub und Spinnweben, die sich langsam aus einer Garage erhebt; auf ihrem Panzer hängt ein komplett eingestaubtes Rennrad. Im Hintergrund schaut Hermann schuldbewusst mit einer Tasse Espresso zu. Blau-grünes Licht, humorvoll.\nV1–V4: Staubschicht wird mit jeder Variante dicker, V4 mit Pflanzen, die aus den Speichen wachsen.\n\nDies ist Variante V4 von 4.\nDas Rad ist fast unter Moos verschwunden, aus den Speichen wachsen Pflanzen.\nDie ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Gib her, zehn Minuten.“ — Max · „Ich will\u0027s selbst verstehen.“ — Hermann"
+    },
+    {
+        "ziel":  "Bilder/Esper Origins_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Hermann.png",
+                       "Fotos/Nachlieferung/Advents-Puzzle.jpg"
+                   ],
+        "prompt":  "Ein magischer Adventskalender aus Holz, dessen Türchen aus Puzzleteilen bestehen; aus einem geöffneten Türchen steigt ein Geistwesen aus leuchtenden Karten empor. Hermann zündet daneben eine Kerze an. Warmes Winterlicht, Schneeflocken.\n\nDies ist Exemplar 1 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nDie Puzzlebilder vom Foto dürfen als leuchtende Kacheln im Kalender erscheinen.\nDie ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Jahr 1: Puzzle."
+    },
+    {
+        "ziel":  "Bilder/Esper Origins_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Hermann.png",
+                       "Fotos/Nachlieferung/Advents_Puzzle_mit_Finger.jpg"
+                   ],
+        "prompt":  "Ein magischer Adventskalender aus Holz, dessen Türchen aus Puzzleteilen bestehen; aus einem geöffneten Türchen steigt ein Geistwesen aus leuchtenden Karten empor. Hermann zündet daneben eine Kerze an. Warmes Winterlicht, Schneeflocken.\n\nDies ist Exemplar 2 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nDie Puzzlebilder vom Foto dürfen als leuchtende Kacheln im Kalender erscheinen.\nDie ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Jahr 2: wieder Puzzle."
+    },
+    {
+        "ziel":  "Bilder/Esper Origins_3.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Hermann.png",
+                       "Fotos/Nachlieferung/Advents-Puzzle.jpg",
+                       "Fotos/Nachlieferung/Advents_Puzzle_mit_Finger.jpg"
+                   ],
+        "prompt":  "Ein magischer Adventskalender aus Holz, dessen Türchen aus Puzzleteilen bestehen; aus einem geöffneten Türchen steigt ein Geistwesen aus leuchtenden Karten empor. Hermann zündet daneben eine Kerze an. Warmes Winterlicht, Schneeflocken.\n\nDies ist Exemplar 3 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nDie Puzzlebilder vom Foto dürfen als leuchtende Kacheln im Kalender erscheinen.\nDie ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Jahr 3: Du hältst es in der Hand."
+    },
+    {
+        "ziel":  "Bilder/Flow State_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Hermann.png"
+                   ],
+        "prompt":  "Hermann sitzt im Schneidersitz in einem Strudel aus schwebenden Büchern, Bauplänen, Kaffeebohnen und Cocktailrezepten, die Augen leuchten blau, völlig vertieft. Ruhiges, meditatives Licht.\n\nDies ist Exemplar 1 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nDie ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Drei Tabs offen. Dann dreißig. Dann Wochenende."
+    },
+    {
+        "ziel":  "Bilder/Flow State_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Hermann.png"
+                   ],
+        "prompt":  "Hermann sitzt im Schneidersitz in einem Strudel aus schwebenden Büchern, Bauplänen, Kaffeebohnen und Cocktailrezepten, die Augen leuchten blau, völlig vertieft. Ruhiges, meditatives Licht.\n\nDies ist Exemplar 2 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nDie ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Ich will verstehen, warum das geht.“ — Hermann"
+    },
+    {
+        "ziel":  "Bilder/Prismari Charm_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Hermann.png",
+                       "Fotos/Gruppe/Mallorca-JGA/Hermann-Robin__IMG_20250601_201109.jpg"
+                   ],
+        "prompt":  "Hermann als Alchemist-Barkeeper hinter einer Gartenbar aus Holz bei Lagerfeuerlicht, vor ihm drei magische Cocktails: einer blau mit Wirbel, einer feuerrot mit Funken, einer schillernd mit Wellen. Er schüttelt einen Shaker, aus dem Zauberfunken sprühen.\nV1–V4: verschiedene Cocktail-Themen (Mallorca-Sonnenuntergang, Jena-Lagerfeuer, Hochzeit, Winter).\n\nDies ist Variante V1 von 4.\nDas Foto ist Vorlage für Ort, Stimmung und Getränk; im Vordergrund steht nur Hermann.\nDie ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Espresso Martini. Weil Kaffee und Cocktail sich nicht ausschließen müssen.“ — Hermann"
+    },
+    {
+        "ziel":  "Bilder/Prismari Charm_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Hermann.png",
+                       "Fotos/Gruppe/Garten-Jena/Hermann__IMG-20220815-WA0004.jpg"
+                   ],
+        "prompt":  "Hermann als Alchemist-Barkeeper hinter einer Gartenbar aus Holz bei Lagerfeuerlicht, vor ihm drei magische Cocktails: einer blau mit Wirbel, einer feuerrot mit Funken, einer schillernd mit Wellen. Er schüttelt einen Shaker, aus dem Zauberfunken sprühen.\nV1–V4: verschiedene Cocktail-Themen (Mallorca-Sonnenuntergang, Jena-Lagerfeuer, Hochzeit, Winter).\n\nDies ist Variante V2 von 4.\nDas Foto ist Vorlage für Ort, Stimmung und Getränk; im Vordergrund steht nur Hermann.\nDie ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Barkeeper seit 2019. Die Karte hat drei Cocktails. Bestellt wird trotzdem ein vierter."
+    },
+    {
+        "ziel":  "Bilder/Prismari Charm_3.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Hermann.png",
+                       "Fotos/Gruppe/Hochzeit/Hermann-Robin-Johann-Paul__IMG-20250914-WA0015.jpg"
+                   ],
+        "prompt":  "Hermann als Alchemist-Barkeeper hinter einer Gartenbar aus Holz bei Lagerfeuerlicht, vor ihm drei magische Cocktails: einer blau mit Wirbel, einer feuerrot mit Funken, einer schillernd mit Wellen. Er schüttelt einen Shaker, aus dem Zauberfunken sprühen.\nV1–V4: verschiedene Cocktail-Themen (Mallorca-Sonnenuntergang, Jena-Lagerfeuer, Hochzeit, Winter).\n\nDies ist Variante V3 von 4.\nDas Foto ist Vorlage für Ort, Stimmung und Getränk; im Vordergrund steht nur Hermann.\nDie ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Zur Hochzeit stand Hermann wieder an der Bar. Diesmal im Smoking, und Johann und Max mixten mit."
+    },
+    {
+        "ziel":  "Bilder/Prismari Charm_4.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Hermann.png",
+                       "Fotos/Gruppe/Garten-Jena/Hermann__333A6388.jpg"
+                   ],
+        "prompt":  "Hermann als Alchemist-Barkeeper hinter einer Gartenbar aus Holz bei Lagerfeuerlicht, vor ihm drei magische Cocktails: einer blau mit Wirbel, einer feuerrot mit Funken, einer schillernd mit Wellen. Er schüttelt einen Shaker, aus dem Zauberfunken sprühen.\nV1–V4: verschiedene Cocktail-Themen (Mallorca-Sonnenuntergang, Jena-Lagerfeuer, Hochzeit, Winter).\n\nDies ist Variante V4 von 4.\nDas Foto ist Vorlage für Ort, Stimmung und Getränk; im Vordergrund steht nur Hermann.\nDie ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Glühwein? Nein. Ich hab da was mit Zimt, Rauch und einer Geschichte.“ — Hermann"
+    },
+    {
+        "ziel":  "Bilder/Sunderflock_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Hermann.png"
+                   ],
+        "prompt":  "Ein prächtiges, schwebendes Schloss aus Wolken, Zahnrädern, Kaffeedampf und Cocktailgläsern hoch über einer Landschaft. Auf dem Balkon steht Hermann, verträumt lächelnd, mit einem Bauplan in der Hand. Unter dem Schloss sieht man, dass es auf sehr dünnen Fäden hängt. Blau-violetter Himmel, Sonnenuntergang.\nV1 im Bau · V2 fertig · V3 mit Kreditbriefen als Wolken · V4 seine Freunde schauen kopfschüttelnd von unten zu.\n\nDies ist Variante V1 von 4.\nDie ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Der Plan steht. Fast. Ich les mich da noch ein.“ — Hermann"
+    },
+    {
+        "ziel":  "Bilder/Sunderflock_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Hermann.png"
+                   ],
+        "prompt":  "Ein prächtiges, schwebendes Schloss aus Wolken, Zahnrädern, Kaffeedampf und Cocktailgläsern hoch über einer Landschaft. Auf dem Balkon steht Hermann, verträumt lächelnd, mit einem Bauplan in der Hand. Unter dem Schloss sieht man, dass es auf sehr dünnen Fäden hängt. Blau-violetter Himmel, Sonnenuntergang.\nV1 im Bau · V2 fertig · V3 mit Kreditbriefen als Wolken · V4 seine Freunde schauen kopfschüttelnd von unten zu.\n\nDies ist Variante V2 von 4.\nDie ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Es ist fertig. Es ist wunderschön. Es hat kein Fundament."
+    },
+    {
+        "ziel":  "Bilder/Sunderflock_3.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Hermann.png"
+                   ],
+        "prompt":  "Ein prächtiges, schwebendes Schloss aus Wolken, Zahnrädern, Kaffeedampf und Cocktailgläsern hoch über einer Landschaft. Auf dem Balkon steht Hermann, verträumt lächelnd, mit einem Bauplan in der Hand. Unter dem Schloss sieht man, dass es auf sehr dünnen Fäden hängt. Blau-violetter Himmel, Sonnenuntergang.\nV1 im Bau · V2 fertig · V3 mit Kreditbriefen als Wolken · V4 seine Freunde schauen kopfschüttelnd von unten zu.\n\nDies ist Variante V3 von 4.\nDie ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Getragen von drei Krediten und unerschütterlichem Optimismus."
+    }
+]

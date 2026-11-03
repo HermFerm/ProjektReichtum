@@ -1,0 +1,120 @@
+﻿[
+    {
+        "ziel":  "Bilder/_Charakterblatt_Johann.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Fotos/Johann/Johann_ref_01.jpg",
+                       "Fotos/Johann/Johann_portrait_07.jpg",
+                       "Fotos/Johann/Johann_portrait_04.jpg"
+                   ],
+        "prompt":  "Charakterblatt von Johann (die Person auf allen drei Fotos) im festgelegten Stil: nebeneinander Kopf frontal, Kopf im Profil und Ganzkörper stehend, auf ruhigem, hellem Hintergrund. Gesicht, Frisur, Bart, Brille und Statur exakt wie auf den Fotos. Schlichte dunkle Kleidung. Das Blatt ist die Referenz für alle weiteren Bilder von Johann. Ausnahmsweise darf das Motiv bis an die Ränder gehen."
+    },
+    {
+        "ziel":  "Bilder/Carnivorous Cultivator_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Johann.png"
+                   ],
+        "prompt":  "Johann als charmanter Waldläufer mit Ranken, die freundlich, aber unausweichlich einen Kunden umschlingen, der lächelnd einen Vertrag aus Blättern unterschreibt. Grünes Licht.\nV1–V4: Kunde aus verschiedenen Branchen (Bäcker, Handwerker, Arzt, Gastronom).\n\nDies ist Variante V1 von 4.\nDie ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Sie backen Brötchen. Wir backen Webseiten.“ — Johann"
+    },
+    {
+        "ziel":  "Bilder/Carnivorous Cultivator_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Johann.png"
+                   ],
+        "prompt":  "Johann als charmanter Waldläufer mit Ranken, die freundlich, aber unausweichlich einen Kunden umschlingen, der lächelnd einen Vertrag aus Blättern unterschreibt. Grünes Licht.\nV1–V4: Kunde aus verschiedenen Branchen (Bäcker, Handwerker, Arzt, Gastronom).\n\nDies ist Variante V2 von 4.\nDie ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Kam für ein Angebot. Ging mit Webseite und Wartungsvertrag."
+    },
+    {
+        "ziel":  "Bilder/Carnivorous Cultivator_3.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Johann.png"
+                   ],
+        "prompt":  "Johann als charmanter Waldläufer mit Ranken, die freundlich, aber unausweichlich einen Kunden umschlingen, der lächelnd einen Vertrag aus Blättern unterschreibt. Grünes Licht.\nV1–V4: Kunde aus verschiedenen Branchen (Bäcker, Handwerker, Arzt, Gastronom).\n\nDies ist Variante V3 von 4.\nDie ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Der Arzt wollte eine Zweitmeinung. Er bekam einen Vertrag."
+    },
+    {
+        "ziel":  "Bilder/Carnivorous Cultivator_4.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Johann.png"
+                   ],
+        "prompt":  "Johann als charmanter Waldläufer mit Ranken, die freundlich, aber unausweichlich einen Kunden umschlingen, der lächelnd einen Vertrag aus Blättern unterschreibt. Grünes Licht.\nV1–V4: Kunde aus verschiedenen Branchen (Bäcker, Handwerker, Arzt, Gastronom).\n\nDies ist Variante V4 von 4.\nDie ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Johann probiert den Gin. Der Wirt unterschreibt."
+    },
+    {
+        "ziel":  "Bilder/Icetill Explorer_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Johann.png"
+                   ],
+        "prompt":  "Johann als zäher Abenteurer mit Werkzeuggürtel, der ein halb verfallenes, mit Efeu bewachsenes Haus mit grüner Erdmagie wieder aufrichtet; Steine schweben zurück an ihren Platz. Im Garten im Hintergrund: Koi-Teich und Pool.\nV1–V4: Dach, Wände, Teich, Sauna.\n\nDies ist Variante V1 von 4.\nDie ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Das Haus war ein Schnäppchen. Das Dach war der Rest vom Preis."
+    },
+    {
+        "ziel":  "Bilder/Icetill Explorer_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Johann.png"
+                   ],
+        "prompt":  "Johann als zäher Abenteurer mit Werkzeuggürtel, der ein halb verfallenes, mit Efeu bewachsenes Haus mit grüner Erdmagie wieder aufrichtet; Steine schweben zurück an ihren Platz. Im Garten im Hintergrund: Koi-Teich und Pool.\nV1–V4: Dach, Wände, Teich, Sauna.\n\nDies ist Variante V2 von 4.\nDie ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Die Wand ist nicht schief. Die hat Charakter.“ — Johann"
+    },
+    {
+        "ziel":  "Bilder/Icetill Explorer_3.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Johann.png"
+                   ],
+        "prompt":  "Johann als zäher Abenteurer mit Werkzeuggürtel, der ein halb verfallenes, mit Efeu bewachsenes Haus mit grüner Erdmagie wieder aufrichtet; Steine schweben zurück an ihren Platz. Im Garten im Hintergrund: Koi-Teich und Pool.\nV1–V4: Dach, Wände, Teich, Sauna.\n\nDies ist Variante V3 von 4.\nJohann repariert mit Erdmagie die Steinumrandung eines Koi-Teichs mit orange-weißen Kois und Seerosen. Im Bild ist nur Johann, keine weiteren Personen.\nDie ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Erst das Haus retten? Nein, erst den Koi-Teich. Prioritäten."
+    },
+    {
+        "ziel":  "Bilder/Icetill Explorer_4.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Johann.png"
+                   ],
+        "prompt":  "Johann als zäher Abenteurer mit Werkzeuggürtel, der ein halb verfallenes, mit Efeu bewachsenes Haus mit grüner Erdmagie wieder aufrichtet; Steine schweben zurück an ihren Platz. Im Garten im Hintergrund: Koi-Teich und Pool.\nV1–V4: Dach, Wände, Teich, Sauna.\n\nDies ist Variante V4 von 4.\nDie ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Baufällig ist ein Zustand. Mit Sauna ist es ein Lebensstil."
+    },
+    {
+        "ziel":  "Bilder/Impractical Joke_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Johann.png"
+                   ],
+        "prompt":  "Johann als exzentrischer Barde mit Hut und Instrument auf einer kleinen Bühne, sein Lied erzeugt chaotische rote Funkenschnörkel, das Publikum aus Fantasywesen lacht und fällt um. Absurd, warm, verspielt. (Keine echte Person außer Johann darstellen.)\n\nDies ist Exemplar 1 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nDie ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Richtig, richtig, Popichtig.“ — Johann, frei nach Helge Schneider"
+    },
+    {
+        "ziel":  "Bilder/Slickshot Show-Off_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Johann.png",
+                       "Fotos/Nachlieferung/Johann_im_Sprung_3.png"
+                   ],
+        "prompt":  "Johann im Sprung von einer hohen Mittelmeerklippe, in perfekter Pose, mit Flammenspur wie ein Phönix; unten türkisblaues Wasser, oben jubelnde Freunde als kleine Figuren.\nV1–V4: Klippe jedes Mal höher, V4 Wolken unter ihm.\n\nDies ist Variante V1 von 4.\nKörperhaltung aus dem Foto übernehmen. Sportlicher, sicherer Urlaubs-Klippensprung ins tiefe Wasser: fröhlich, lachend, Freunde jubeln – Abenteuer und Spaß, keine Gefahr.\nDie ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Der Felsen da ist doch nicht hoch.“ — Johann"
+    },
+    {
+        "ziel":  "Bilder/Slickshot Show-Off_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Johann.png",
+                       "Fotos/Nachlieferung/Johann_im_Sprung_2.png"
+                   ],
+        "prompt":  "Johann im Sprung von einer hohen Mittelmeerklippe, in perfekter Pose, mit Flammenspur wie ein Phönix; unten türkisblaues Wasser, oben jubelnde Freunde als kleine Figuren.\nV1–V4: Klippe jedes Mal höher, V4 Wolken unter ihm.\n\nDies ist Variante V2 von 4.\nKörperhaltung aus dem Foto übernehmen. Sportlicher, sicherer Urlaubs-Klippensprung ins tiefe Wasser: fröhlich, lachend, Freunde jubeln – Abenteuer und Spaß, keine Gefahr.\nDie ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Der daneben ist höher.“ — Johann"
+    },
+    {
+        "ziel":  "Bilder/Slickshot Show-Off_3.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Johann.png",
+                       "Fotos/Nachlieferung/Johann_im_Sprung_1.png"
+                   ],
+        "prompt":  "Johann im Sprung von einer hohen Mittelmeerklippe, in perfekter Pose, mit Flammenspur wie ein Phönix; unten türkisblaues Wasser, oben jubelnde Freunde als kleine Figuren.\nV1–V4: Klippe jedes Mal höher, V4 Wolken unter ihm.\n\nDies ist Variante V3 von 4.\nKörperhaltung aus dem Foto übernehmen. Sportlicher, sicherer Urlaubs-Klippensprung ins tiefe Wasser: fröhlich, lachend, Freunde jubeln – Abenteuer und Spaß, keine Gefahr.\nDie ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Und der da oben?“ — Johann"
+    },
+    {
+        "ziel":  "Bilder/Slickshot Show-Off_4.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Johann.png",
+                       "Fotos/Gruppe/Mallorca-JGA/Johann__IMG-20250531-WA0001.jpg"
+                   ],
+        "prompt":  "Johann im Sprung von einer hohen Mittelmeerklippe, in perfekter Pose, mit Flammenspur wie ein Phönix; unten türkisblaues Wasser, oben jubelnde Freunde als kleine Figuren.\nV1–V4: Klippe jedes Mal höher, V4 Wolken unter ihm.\n\nDies ist Variante V4 von 4.\nSiegerpose ganz oben auf der Klippe wie auf dem Foto, Wolken unter ihm.\nKörperhaltung aus dem Foto übernehmen. Sportlicher, sicherer Urlaubs-Klippensprung ins tiefe Wasser: fröhlich, lachend, Freunde jubeln – Abenteuer und Spaß, keine Gefahr.\nDie ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Irgendwann haben die anderen aufgehört zu zählen. Johann nicht."
+    }
+]

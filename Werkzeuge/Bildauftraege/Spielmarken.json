@@ -1,0 +1,27 @@
+[
+    {
+        "ziel": "Bilder/Token_Windschatten_1.png",
+        "format": "1024x1024",
+        "bilder": [
+            "Fotos/Gruppe/Alpen-Rennrad/IMG-20260425-WA0016.jpg"
+        ],
+        "prompt": "Ein riesiges, freundliches Baumwesen aus knorrigem Holz und Moos (groß, mit langen astartigen Armen) stapft eine sonnige Alpen-Passstraße mit Serpentinen hinauf. Dicht hinter ihm fahren die beiden Rennradfahrer vom Foto mit Helm und Sonnenbrille im Windschatten und grinsen. Gesichter exakt wie auf dem Foto übernehmen, Rennräder und Trikots wie auf dem Foto, nur in die Fantasy-Welt übersetzt. Hintergrund: schroffe Dolomiten-Gipfel, blauer Himmel, Lärchen. Das Baumwesen hält einen Ast schützend gegen den Wind, Blätter wirbeln an ihm vorbei. Fröhlich, sportlich, leicht augenzwinkernd. Quadratisches Bild, Baumwesen und beide Fahrer vollständig im mittleren Bereich, mindestens 10 % Abstand zum Rand.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Im Windschatten wächst die Rendite."
+    },
+    {
+        "ziel": "Bilder/Token_Windschatten_2.png",
+        "format": "1024x1024",
+        "bilder": [
+            "Fotos/Gruppe/Alpen-Rennrad/IMG-20210516-WA0009.jpg"
+        ],
+        "prompt": "Ein riesiges, freundliches Baumwesen aus knorrigem Holz und Moos steht am Rand einer steilen Alpen-Passstraße wie eine lebende Verpflegungsstation. Mit einem extrem langen Ast-Arm reicht es dem Rennradfahrer vom Foto im Vorbeifahren eine Trinkflasche; der Fahrer greift lachend zu und winkt mit der anderen Hand wie auf dem Foto. Gesicht exakt wie auf dem Foto übernehmen, Helm und Rennrad wie auf dem Foto, in die Fantasy-Welt übersetzt. Hintergrund: Almwiesen, Kuhglocken-Idylle, schneebedeckte Gipfel, Passhöhe mit kleinem Steinmännchen. Sommerlicht, heiter. Quadratisches Bild, Fahrer und Baumwesen vollständig im mittleren Bereich, mindestens 10 % Abstand zum Rand.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Verpflegung mit Reichweite."
+    },
+    {
+        "ziel": "Bilder/Token_Erdbaendigen_1.png",
+        "format": "1024x1024",
+        "bilder": [
+            "Bilder/_Charakterblatt_Paul.png",
+            "Fotos/Gruppe/Alpen-Rennrad/Paul__IMG-20260606-WA0021.jpg"
+        ],
+        "prompt": "Paul steht auf der Passhöhe einer Alpenstraße und reißt triumphierend beide Arme hoch wie auf dem zweiten Foto, sein Rennrad lehnt an der Leitplanke. Unter und hinter ihm erwacht der Berg zum Leben: Die Felswand und ein Stück der Serpentinenstraße erheben sich als gewaltiger, gutmütiger Steinriese mit Moos, Geröll und einem Straßenstück auf der Schulter, und jubelt mit Paul zusammen. Dolomiten-Zacken, dramatische Wolken, goldenes Licht. Episch und komisch zugleich. Quadratisches Bild, Paul und das Gesicht des Steinriesen vollständig im mittleren Bereich, mindestens 10 % Abstand zum Rand.\nDas erste Bild ist Pauls Charakterblatt: Gesicht exakt so übernehmen. Das zweite Foto ist Vorlage für Pose, Kleidung und Ort.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Oben angekommen. Jetzt steht auch der Berg auf.“ — Paul"
+    }
+]

@@ -1,0 +1,19 @@
+﻿[
+    {
+        "ziel":  "Bilder/Impractical Joke_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Robin.png",
+                       "Fotos/Themen/YouTube-Verkleidung/Robin__IMG-20191029-WA0007.jpg"
+                   ],
+        "prompt":  "Robin als grinsender Hofnarr-Magier mit Joker-Schminke (Gesicht weiß, roter Mund, blaue Rauten um die Augen, grünes Haar), angelehnt an das zweite Foto. Er wirft eine Karte, die in einem Wirbel aus roten Funken explodiert; im Hintergrund eine düstere Bühne mit einer alten Videokamera, die wie ein magisches Auge leuchtet (Anspielung auf seinen früheren YouTube-Kanal). Verspielt-bedrohlich, nicht gruselig.\nDas erste Bild ist Robins Charakterblatt: Gesichtszüge unter der Schminke exakt so übernehmen. Das zweite Foto ist Vorlage für die Verkleidung.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Warum so ernst? Das Video hat schon 37 Aufrufe!“ — Robin, YouTube-Ära"
+    },
+    {
+        "ziel":  "Bilder/Stock Up_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Robin.png"
+                   ],
+        "prompt":  "Robin in einer Schatzkammer, ruhig und zufrieden, legt Münze für Münze auf einen ordentlichen, stetig wachsenden Stapel. Ein magisches Uhrwerk tickt im Hintergrund. Blau-goldenes Licht, Gelassenheit statt Gier.\nVor ihm schweben fünf leuchtende Schatzkarten: zwei zieht er zu sich, drei gleiten sanft zurück in ein Regal.\nDas erste Bild ist Robins Charakterblatt: Gesicht exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Fünf angeschaut, zwei gekauft, der Rest kommt zurück auf die Watchlist. Nächsten Monat genauso."
+    }
+]

@@ -1,0 +1,921 @@
+﻿"Zeit";"Datei";"Modell";"Qualitaet";"Vorlagen";"TokensText";"TokensBildEin";"TokensAus";"KostenUSD";"Prompt"
+"2026-11-02 19:49";"_Charakterblatt_Hermann.png";"gpt-image-2.5-sunburst";"high";"Fotos/Hermann/Hermann_ref_01.jpg | Fotos/Hermann/Hermann_portrait_01.jpg | Fotos/Hermann/Hermann_portrait_11.jpg";"352";"4356";"1372";"0,0778";"Charakterblatt von Hermann (die Person auf allen drei Fotos) im festgelegten Stil: nebeneinander Kopf frontal, Kopf im Profil und Ganzkörper stehend, auf ruhigem, hellem Hintergrund. Gesicht, Frisur, Bart und Statur exakt wie auf den Fotos. Schlichte dunkle Kleidung. Das Blatt ist die Referenz für alle weiteren Bilder von Hermann. Ausnahmsweise darf das Motiv bis an die Ränder gehen."
+"2026-11-02 19:50";"Sunderflock_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Hermann.png | Fotos/Hermann/Hermann_ref_01.jpg";"368";"2988";"1372";"0,0669";"Ein prächtiges, schwebendes Schloss aus Wolken, Zahnrädern, Kaffeedampf und Cocktailgläsern hoch über einer Landschaft. Auf dem Balkon steht Hermann (Gesicht wie auf dem Charakterblatt), verträumt lächelnd, mit einem Bauplan in der Hand. Unter dem Schloss sieht man, dass es auf sehr dünnen Fäden hängt. Blau-violetter Himmel, Sonnenuntergang.
+Variante V1: Das Schloss ist noch im Bau – Gerüste aus Licht, schwebende Bausteine, halb fertige Türme."
+"2026-11-02 19:51";"Eddymurk Crab_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Hermann.png | Fotos/Themen/Rennrad-Werkstatt/Hermann-Rennrad__IMAG0093.jpg";"359";"2880";"1372";"0,066";"Eine riesige, freundliche Krabbe aus Moos, Staub und Spinnweben, die sich langsam aus einer Garage erhebt; auf ihrem Panzer hängt ein eingestaubtes Rennrad (Rad wie auf dem zweiten Foto). Im Hintergrund schaut Hermann (Gesicht wie auf dem Charakterblatt) schuldbewusst mit einer Tasse Espresso zu. Blau-grünes Licht, humorvoll.
+Variante V1: nur eine erste, dünne Staubschicht – das Rad glänzt noch ein bisschen."
+"2026-11-02 20:05";"Eddymurk Crab_1_versuch2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Hermann.png | Fotos/Themen/Rennrad-Werkstatt/Hermann-Rennrad__IMAG0093.jpg";"488";"2880";"1372";"0,0666";"Eine riesige, freundliche Krabbe aus Moos, Staub und Spinnweben, die sich langsam aus einer Garage erhebt; auf ihrem Panzer hängt ein komplett eingestaubtes Rennrad. Im Hintergrund schaut Hermann schuldbewusst mit einer Tasse Espresso zu. Blau-grünes Licht, humorvoll.
+V1–V4: Staubschicht wird mit jeder Variante dicker, V4 mit Pflanzen, die aus den Speichen wachsen.
+
+Dies ist Variante V1 von 4.
+Nur eine hauchdünne Staubschicht, kaum Moos, keine Spinnweben – das Rad glänzt noch. Hermann steht nah an der Bildmitte, nicht am Rand.
+Die ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Ein Rennrad gehört zu jedem 37-Jährigen. Fahren steht nicht im Vertrag."
+"2026-11-02 20:06";"Eddymurk Crab_2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Hermann.png | Fotos/Themen/Rennrad-Werkstatt/Hermann-Rennrad__IMAG0093.jpg";"466";"2880";"1372";"0,0665";"Eine riesige, freundliche Krabbe aus Moos, Staub und Spinnweben, die sich langsam aus einer Garage erhebt; auf ihrem Panzer hängt ein komplett eingestaubtes Rennrad. Im Hintergrund schaut Hermann schuldbewusst mit einer Tasse Espresso zu. Blau-grünes Licht, humorvoll.
+V1–V4: Staubschicht wird mit jeder Variante dicker, V4 mit Pflanzen, die aus den Speichen wachsen.
+
+Dies ist Variante V2 von 4.
+Deutliche Staubschicht, erste Spinnweben, etwas Moos.
+Die ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Morgen fahr ich. Wenn's nicht regnet. Oder zu warm ist.“ — Hermann"
+"2026-11-02 20:07";"Eddymurk Crab_3.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Hermann.png | Fotos/Themen/Rennrad-Werkstatt/Hermann-Rennrad__IMAG0093.jpg";"460";"2880";"1372";"0,0665";"Eine riesige, freundliche Krabbe aus Moos, Staub und Spinnweben, die sich langsam aus einer Garage erhebt; auf ihrem Panzer hängt ein komplett eingestaubtes Rennrad. Im Hintergrund schaut Hermann schuldbewusst mit einer Tasse Espresso zu. Blau-grünes Licht, humorvoll.
+V1–V4: Staubschicht wird mit jeder Variante dicker, V4 mit Pflanzen, die aus den Speichen wachsen.
+
+Dies ist Variante V3 von 4.
+Dicke Staubschicht, viel Moos und Spinnweben.
+Die ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Paul fährt über die Alpen. Hermanns Rad sammelt Hausstaub."
+"2026-11-02 20:07";"Eddymurk Crab_4.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Hermann.png | Fotos/Themen/Rennrad-Werkstatt/Hermann-Rennrad__IMAG0093.jpg";"466";"2880";"1372";"0,0665";"Eine riesige, freundliche Krabbe aus Moos, Staub und Spinnweben, die sich langsam aus einer Garage erhebt; auf ihrem Panzer hängt ein komplett eingestaubtes Rennrad. Im Hintergrund schaut Hermann schuldbewusst mit einer Tasse Espresso zu. Blau-grünes Licht, humorvoll.
+V1–V4: Staubschicht wird mit jeder Variante dicker, V4 mit Pflanzen, die aus den Speichen wachsen.
+
+Dies ist Variante V4 von 4.
+Das Rad ist fast unter Moos verschwunden, aus den Speichen wachsen Pflanzen.
+Die ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Gib her, zehn Minuten.“ — Max · „Ich will's selbst verstehen.“ — Hermann"
+"2026-11-02 20:08";"Esper Origins_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Hermann.png | Fotos/Nachlieferung/Advents-Puzzle.jpg";"430";"2988";"1372";"0,0672";"Ein magischer Adventskalender aus Holz, dessen Türchen aus Puzzleteilen bestehen; aus einem geöffneten Türchen steigt ein Geistwesen aus leuchtenden Karten empor. Hermann zündet daneben eine Kerze an. Warmes Winterlicht, Schneeflocken.
+
+Dies ist Exemplar 1 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Die Puzzlebilder vom Foto dürfen als leuchtende Kacheln im Kalender erscheinen.
+Die ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Jahr 1: Puzzle."
+"2026-11-02 20:09";"Esper Origins_2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Hermann.png | Fotos/Nachlieferung/Advents_Puzzle_mit_Finger.jpg";"431";"2832";"1372";"0,066";"Ein magischer Adventskalender aus Holz, dessen Türchen aus Puzzleteilen bestehen; aus einem geöffneten Türchen steigt ein Geistwesen aus leuchtenden Karten empor. Hermann zündet daneben eine Kerze an. Warmes Winterlicht, Schneeflocken.
+
+Dies ist Exemplar 2 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Die Puzzlebilder vom Foto dürfen als leuchtende Kacheln im Kalender erscheinen.
+Die ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Jahr 2: wieder Puzzle."
+"2026-11-02 20:09";"Esper Origins_3.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Hermann.png | Fotos/Nachlieferung/Advents-Puzzle.jpg | Fotos/Nachlieferung/Advents_Puzzle_mit_Finger.jpg";"446";"4284";"1372";"0,0777";"Ein magischer Adventskalender aus Holz, dessen Türchen aus Puzzleteilen bestehen; aus einem geöffneten Türchen steigt ein Geistwesen aus leuchtenden Karten empor. Hermann zündet daneben eine Kerze an. Warmes Winterlicht, Schneeflocken.
+
+Dies ist Exemplar 3 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Die Puzzlebilder vom Foto dürfen als leuchtende Kacheln im Kalender erscheinen.
+Die ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Jahr 3: Du hältst es in der Hand."
+"2026-11-02 20:10";"Flow State_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Hermann.png";"386";"1536";"1372";"0,0554";"Hermann sitzt im Schneidersitz in einem Strudel aus schwebenden Büchern, Bauplänen, Kaffeebohnen und Cocktailrezepten, die Augen leuchten blau, völlig vertieft. Ruhiges, meditatives Licht.
+
+Dies ist Exemplar 1 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Die ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Drei Tabs offen. Dann dreißig. Dann Wochenende."
+"2026-11-02 20:11";"Flow State_2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Hermann.png";"385";"1536";"1372";"0,0554";"Hermann sitzt im Schneidersitz in einem Strudel aus schwebenden Büchern, Bauplänen, Kaffeebohnen und Cocktailrezepten, die Augen leuchten blau, völlig vertieft. Ruhiges, meditatives Licht.
+
+Dies ist Exemplar 2 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Die ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Ich will verstehen, warum das geht.“ — Hermann"
+"2026-11-02 20:12";"Prismari Charm_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Hermann.png | Fotos/Gruppe/Mallorca-JGA/Hermann-Robin__IMG_20250601_201109.jpg";"465";"2988";"1372";"0,0674";"Hermann als Alchemist-Barkeeper hinter einer Gartenbar aus Holz bei Lagerfeuerlicht, vor ihm drei magische Cocktails: einer blau mit Wirbel, einer feuerrot mit Funken, einer schillernd mit Wellen. Er schüttelt einen Shaker, aus dem Zauberfunken sprühen.
+V1–V4: verschiedene Cocktail-Themen (Mallorca-Sonnenuntergang, Jena-Lagerfeuer, Hochzeit, Winter).
+
+Dies ist Variante V1 von 4.
+Das Foto ist Vorlage für Ort, Stimmung und Getränk; im Vordergrund steht nur Hermann.
+Die ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Espresso Martini. Weil Kaffee und Cocktail sich nicht ausschließen müssen.“ — Hermann"
+"2026-11-02 20:12";"Prismari Charm_2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Hermann.png | Fotos/Gruppe/Garten-Jena/Hermann__IMG-20220815-WA0004.jpg";"470";"3072";"1372";"0,0681";"Hermann als Alchemist-Barkeeper hinter einer Gartenbar aus Holz bei Lagerfeuerlicht, vor ihm drei magische Cocktails: einer blau mit Wirbel, einer feuerrot mit Funken, einer schillernd mit Wellen. Er schüttelt einen Shaker, aus dem Zauberfunken sprühen.
+V1–V4: verschiedene Cocktail-Themen (Mallorca-Sonnenuntergang, Jena-Lagerfeuer, Hochzeit, Winter).
+
+Dies ist Variante V2 von 4.
+Das Foto ist Vorlage für Ort, Stimmung und Getränk; im Vordergrund steht nur Hermann.
+Die ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Barkeeper seit 2019. Die Karte hat drei Cocktails. Bestellt wird trotzdem ein vierter."
+"2026-11-02 20:13";"Prismari Charm_3.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Hermann.png | Fotos/Gruppe/Hochzeit/Hermann-Robin-Johann-Paul__IMG-20250914-WA0015.jpg";"470";"2988";"1372";"0,0674";"Hermann als Alchemist-Barkeeper hinter einer Gartenbar aus Holz bei Lagerfeuerlicht, vor ihm drei magische Cocktails: einer blau mit Wirbel, einer feuerrot mit Funken, einer schillernd mit Wellen. Er schüttelt einen Shaker, aus dem Zauberfunken sprühen.
+V1–V4: verschiedene Cocktail-Themen (Mallorca-Sonnenuntergang, Jena-Lagerfeuer, Hochzeit, Winter).
+
+Dies ist Variante V3 von 4.
+Das Foto ist Vorlage für Ort, Stimmung und Getränk; im Vordergrund steht nur Hermann.
+Die ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Zur Hochzeit stand Hermann wieder an der Bar. Diesmal im Smoking, und Johann und Max mixten mit."
+"2026-11-02 20:14";"Prismari Charm_4.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Hermann.png | Fotos/Gruppe/Garten-Jena/Hermann__333A6388.jpg";"470";"2182";"1372";"0,061";"Hermann als Alchemist-Barkeeper hinter einer Gartenbar aus Holz bei Lagerfeuerlicht, vor ihm drei magische Cocktails: einer blau mit Wirbel, einer feuerrot mit Funken, einer schillernd mit Wellen. Er schüttelt einen Shaker, aus dem Zauberfunken sprühen.
+V1–V4: verschiedene Cocktail-Themen (Mallorca-Sonnenuntergang, Jena-Lagerfeuer, Hochzeit, Winter).
+
+Dies ist Variante V4 von 4.
+Das Foto ist Vorlage für Ort, Stimmung und Getränk; im Vordergrund steht nur Hermann.
+Die ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Glühwein? Nein. Ich hab da was mit Zimt, Rauch und einer Geschichte.“ — Hermann"
+"2026-11-02 20:14";"Sunderflock_2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Hermann.png";"432";"1536";"1372";"0,0556";"Ein prächtiges, schwebendes Schloss aus Wolken, Zahnrädern, Kaffeedampf und Cocktailgläsern hoch über einer Landschaft. Auf dem Balkon steht Hermann, verträumt lächelnd, mit einem Bauplan in der Hand. Unter dem Schloss sieht man, dass es auf sehr dünnen Fäden hängt. Blau-violetter Himmel, Sonnenuntergang.
+V1 im Bau · V2 fertig · V3 mit Kreditbriefen als Wolken · V4 seine Freunde schauen kopfschüttelnd von unten zu.
+
+Dies ist Variante V2 von 4.
+Die ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Es ist fertig. Es ist wunderschön. Es hat kein Fundament."
+"2026-11-02 20:15";"Sunderflock_3.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Hermann.png";"432";"1536";"1372";"0,0556";"Ein prächtiges, schwebendes Schloss aus Wolken, Zahnrädern, Kaffeedampf und Cocktailgläsern hoch über einer Landschaft. Auf dem Balkon steht Hermann, verträumt lächelnd, mit einem Bauplan in der Hand. Unter dem Schloss sieht man, dass es auf sehr dünnen Fäden hängt. Blau-violetter Himmel, Sonnenuntergang.
+V1 im Bau · V2 fertig · V3 mit Kreditbriefen als Wolken · V4 seine Freunde schauen kopfschüttelnd von unten zu.
+
+Dies ist Variante V3 von 4.
+Die ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Getragen von drei Krediten und unerschütterlichem Optimismus."
+"2026-11-02 20:16";"_Charakterblatt_Paul.png";"gpt-image-2.5-sunburst";"high";"Fotos/Paul/Paul_portrait_02.jpg | Fotos/Paul/Paul_portrait_04.jpg | Fotos/Nachlieferung/Paul_Genervt.jpg";"370";"4128";"1372";"0,076";"Charakterblatt von Paul (die Person auf allen drei Fotos) im festgelegten Stil: nebeneinander Kopf frontal, Kopf im Profil und Ganzkörper stehend, auf ruhigem, hellem Hintergrund. Gesicht, Frisur, Bart, Brille und Statur exakt wie auf den Fotos. Schlichte dunkle Kleidung. Das Blatt ist die Referenz für alle weiteren Bilder von Paul. Ausnahmsweise darf das Motiv bis an die Ränder gehen."
+"2026-11-02 20:16";"Burst Lightning_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Paul.png | Fotos/Nachlieferung/Paul_Genervt.jpg";"453";"2832";"1372";"0,0661";"Paul, aus dessen Kopf ein Blitz schießt, mitten in einer Situation, die gerade eskaliert; die Umgebung wird von roter Energie erfasst. Humorvoll überzeichnet, nicht wütend-bedrohlich.
+V1 Konzern-Meeting · V2 kaputte Fahrradkette · V3 Stau · V4 (Kicker) im Auto, auf der Rückbank nur zwei kleine Silhouetten mit Zöpfen, von hinten.
+
+Dies ist Variante V1 von 4.
+Gesichtsausdruck wie auf dem Foto.
+Die ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Drei Gremien für eine Freigabe?!“ — Paul, Konzern-Montag"
+"2026-11-02 20:17";"Burst Lightning_2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Paul.png | Fotos/Nachlieferung/Paul_Genervt.jpg";"452";"2832";"1372";"0,0661";"Paul, aus dessen Kopf ein Blitz schießt, mitten in einer Situation, die gerade eskaliert; die Umgebung wird von roter Energie erfasst. Humorvoll überzeichnet, nicht wütend-bedrohlich.
+V1 Konzern-Meeting · V2 kaputte Fahrradkette · V3 Stau · V4 (Kicker) im Auto, auf der Rückbank nur zwei kleine Silhouetten mit Zöpfen, von hinten.
+
+Dies ist Variante V2 von 4.
+Gesichtsausdruck wie auf dem Foto.
+Die ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Die Kette sprang bei Kilometer 3. Der Wortschatz bei Kilometer 3,1."
+"2026-11-02 20:18";"Burst Lightning_3.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Paul.png | Fotos/Nachlieferung/Paul_Genervt.jpg";"446";"2832";"1372";"0,066";"Paul, aus dessen Kopf ein Blitz schießt, mitten in einer Situation, die gerade eskaliert; die Umgebung wird von roter Energie erfasst. Humorvoll überzeichnet, nicht wütend-bedrohlich.
+V1 Konzern-Meeting · V2 kaputte Fahrradkette · V3 Stau · V4 (Kicker) im Auto, auf der Rückbank nur zwei kleine Silhouetten mit Zöpfen, von hinten.
+
+Dies ist Variante V3 von 4.
+Gesichtsausdruck wie auf dem Foto.
+Die ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Linke Spur, Leute! LINKE SPUR!“ — Paul"
+"2026-11-02 20:18";"Burst Lightning_4.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Paul.png | Fotos/Nachlieferung/Paul_Genervt.jpg";"451";"2832";"1372";"0,0661";"Paul, aus dessen Kopf ein Blitz schießt, mitten in einer Situation, die gerade eskaliert; die Umgebung wird von roter Energie erfasst. Humorvoll überzeichnet, nicht wütend-bedrohlich.
+V1 Konzern-Meeting · V2 kaputte Fahrradkette · V3 Stau · V4 (Kicker) im Auto, auf der Rückbank nur zwei kleine Silhouetten mit Zöpfen, von hinten.
+
+Dies ist Variante V4 von 4.
+Gesichtsausdruck wie auf dem Foto.
+Die ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Mit Kicker: Von der Rückbank kommt zum fünften Mal „Sind wir bald da?“"
+"2026-11-02 20:19";"Pompous Battlemage_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Paul.png | Fotos/Nachlieferung/Paul_gestikuliert.png";"427";"2176";"1372";"0,0607";"Paul als selbstbewusster Kampfmagier auf einem kleinen Podest, eine Hand erhoben, über ihm schwebt ein leuchtendes Flipchart; eine Gruppe Zuhörer nickt hypnotisiert mit leuchtenden Augen. Rotes Feuerlicht, leicht ironische Heldenpose.
+
+Dies ist Exemplar 1 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Gestik aus dem Foto übernehmen.
+Die ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Das ist nicht meine Meinung. Das ist Logik.“ — Paul"
+"2026-11-02 20:19";"Pompous Battlemage_2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Paul.png | Fotos/Nachlieferung/Paul_gestikuliert.png";"422";"2176";"1372";"0,0607";"Paul als selbstbewusster Kampfmagier auf einem kleinen Podest, eine Hand erhoben, über ihm schwebt ein leuchtendes Flipchart; eine Gruppe Zuhörer nickt hypnotisiert mit leuchtenden Augen. Rotes Feuerlicht, leicht ironische Heldenpose.
+
+Dies ist Exemplar 2 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Gestik aus dem Foto übernehmen.
+Die ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Nach zehn Minuten war es auch eure Meinung."
+"2026-11-02 20:20";"Surrak, Elusive Hunter_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Paul.png | Fotos/Gruppe/Alpen-Rennrad/Paul__IMG-20260726-WA0024.jpg";"430";"2988";"1372";"0,0672";"Paul als unaufhaltsamer Jäger in Rennrad-Rüstung, der einen steilen Bergpass hochstürmt; Gegenzauber von Gegnern zerplatzen wirkungslos an ihm wie Seifenblasen. Entschlossener Blick, grüne Kraftaura.
+
+Dies ist Exemplar 1 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Trikot und Pose aus dem Foto übernehmen.
+Die ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Ich hab mir das angehört. Wir machen es trotzdem so.“ — Paul"
+"2026-11-02 20:21";"Surrak, Elusive Hunter_2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Paul.png | Fotos/Gruppe/Alpen-Rennrad/Paul__IMG-20260606-WA0021.jpg";"425";"2988";"1372";"0,0672";"Paul als unaufhaltsamer Jäger in Rennrad-Rüstung, der einen steilen Bergpass hochstürmt; Gegenzauber von Gegnern zerplatzen wirkungslos an ihm wie Seifenblasen. Entschlossener Blick, grüne Kraftaura.
+
+Dies ist Exemplar 2 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Trikot und Pose aus dem Foto übernehmen.
+Die ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Wer ihm widerspricht, liefert ihm nur neue Argumente."
+"2026-11-02 20:21";"Traumatic Critique_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Paul.png | Fotos/Paul/Paul_portrait_05.jpg";"441";"2988";"1372";"0,0673";"Paul als ruhiger, aber unerbittlicher Inquisitor an einem langen Tisch, vor ihm ein Gegenüber, das unter einem Strahl aus blau-roter Energie zusammenschrumpft. Auf dem Tisch ein Kaffee aus dem Siebträger. Ernst, aber mit Augenzwinkern.
+
+Dies ist Exemplar 1 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Die Kaffeetasse vom Foto als Requisite.
+Die ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Ich sag's dir jetzt mal ganz offen, weil ich dich schätze.“ — Paul, kurz vor X Schaden"
+"2026-11-02 20:22";"Traumatic Critique_2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Paul.png | Fotos/Paul/Paul_portrait_05.jpg";"442";"2988";"1372";"0,0673";"Paul als ruhiger, aber unerbittlicher Inquisitor an einem langen Tisch, vor ihm ein Gegenüber, das unter einem Strahl aus blau-roter Energie zusammenschrumpft. Auf dem Tisch ein Kaffee aus dem Siebträger. Ernst, aber mit Augenzwinkern.
+
+Dies ist Exemplar 2 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Die Kaffeetasse vom Foto als Requisite.
+Die ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Zwei Erkenntnisse nimmst du mit, eine verdrängst du. Paul hat sie trotzdem protokolliert."
+"2026-11-02 20:23";"Traumatic Critique_3.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Paul.png | Fotos/Paul/Paul_portrait_05.jpg";"442";"2988";"1372";"0,0673";"Paul als ruhiger, aber unerbittlicher Inquisitor an einem langen Tisch, vor ihm ein Gegenüber, das unter einem Strahl aus blau-roter Energie zusammenschrumpft. Auf dem Tisch ein Kaffee aus dem Siebträger. Ernst, aber mit Augenzwinkern.
+
+Dies ist Exemplar 3 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Die Kaffeetasse vom Foto als Requisite.
+Die ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Als ehemaliger Krankenpfleger weiß Paul: erst die Diagnose, dann die Behandlung. Betäubung gibt's keine."
+"2026-11-02 20:23";"Wild Ride_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Paul.png";"392";"1536";"1372";"0,0554";"Paul reitet lachend auf einem feurigen, wilden Bullen aus roter Energie über ein Börsenparkett aus Kristall, um ihn fliegen Münzen und brennende Kurs-Pfeile. Rasante Bewegung, Geschwindigkeit.
+V1 Pfeile nach oben · V2 Pfeile nach unten, Paul fällt · V3 er steigt wieder auf.
+
+Dies ist Variante V1 von 3.
+Die ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Plus 40 Prozent! Hab ich doch gesagt.“ — Paul"
+"2026-11-02 20:24";"Wild Ride_2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Paul.png";"391";"1536";"1372";"0,0554";"Paul reitet lachend auf einem feurigen, wilden Bullen aus roter Energie über ein Börsenparkett aus Kristall, um ihn fliegen Münzen und brennende Kurs-Pfeile. Rasante Bewegung, Geschwindigkeit.
+V1 Pfeile nach oben · V2 Pfeile nach unten, Paul fällt · V3 er steigt wieder auf.
+
+Dies ist Variante V2 von 3.
+Die ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Ist doch Spielgeld.“ — Paul, etwas leiser"
+"2026-11-02 20:25";"Wild Ride_3.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Paul.png";"387";"1536";"1372";"0,0554";"Paul reitet lachend auf einem feurigen, wilden Bullen aus roter Energie über ein Börsenparkett aus Kristall, um ihn fliegen Münzen und brennende Kurs-Pfeile. Rasante Bewegung, Geschwindigkeit.
+V1 Pfeile nach oben · V2 Pfeile nach unten, Paul fällt · V3 er steigt wieder auf.
+
+Dies ist Variante V3 von 3.
+Die ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Spielgeld wächst nach.“ — Paul"
+"2026-11-02 20:25";"_Charakterblatt_Johann.png";"gpt-image-2.5-sunburst";"high";"Fotos/Johann/Johann_ref_01.jpg | Fotos/Johann/Johann_portrait_07.jpg | Fotos/Johann/Johann_portrait_04.jpg";"370";"3686";"1372";"0,0725";"Charakterblatt von Johann (die Person auf allen drei Fotos) im festgelegten Stil: nebeneinander Kopf frontal, Kopf im Profil und Ganzkörper stehend, auf ruhigem, hellem Hintergrund. Gesicht, Frisur, Bart, Brille und Statur exakt wie auf den Fotos. Schlichte dunkle Kleidung. Das Blatt ist die Referenz für alle weiteren Bilder von Johann. Ausnahmsweise darf das Motiv bis an die Ränder gehen."
+"2026-11-02 20:26";"Carnivorous Cultivator_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Johann.png";"389";"1536";"1372";"0,0554";"Johann als charmanter Waldläufer mit Ranken, die freundlich, aber unausweichlich einen Kunden umschlingen, der lächelnd einen Vertrag aus Blättern unterschreibt. Grünes Licht.
+V1–V4: Kunde aus verschiedenen Branchen (Bäcker, Handwerker, Arzt, Gastronom).
+
+Dies ist Variante V1 von 4.
+Die ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Sie backen Brötchen. Wir backen Webseiten.“ — Johann"
+"2026-11-02 20:27";"Carnivorous Cultivator_2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Johann.png";"387";"1536";"1372";"0,0554";"Johann als charmanter Waldläufer mit Ranken, die freundlich, aber unausweichlich einen Kunden umschlingen, der lächelnd einen Vertrag aus Blättern unterschreibt. Grünes Licht.
+V1–V4: Kunde aus verschiedenen Branchen (Bäcker, Handwerker, Arzt, Gastronom).
+
+Dies ist Variante V2 von 4.
+Die ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Kam für ein Angebot. Ging mit Webseite und Wartungsvertrag."
+"2026-11-02 20:27";"Carnivorous Cultivator_3.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Johann.png";"388";"1536";"1372";"0,0554";"Johann als charmanter Waldläufer mit Ranken, die freundlich, aber unausweichlich einen Kunden umschlingen, der lächelnd einen Vertrag aus Blättern unterschreibt. Grünes Licht.
+V1–V4: Kunde aus verschiedenen Branchen (Bäcker, Handwerker, Arzt, Gastronom).
+
+Dies ist Variante V3 von 4.
+Die ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Der Arzt wollte eine Zweitmeinung. Er bekam einen Vertrag."
+"2026-11-02 20:28";"Carnivorous Cultivator_4.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Johann.png";"386";"1536";"1372";"0,0554";"Johann als charmanter Waldläufer mit Ranken, die freundlich, aber unausweichlich einen Kunden umschlingen, der lächelnd einen Vertrag aus Blättern unterschreibt. Grünes Licht.
+V1–V4: Kunde aus verschiedenen Branchen (Bäcker, Handwerker, Arzt, Gastronom).
+
+Dies ist Variante V4 von 4.
+Die ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Johann probiert den Gin. Der Wirt unterschreibt."
+"2026-11-02 20:29";"Icetill Explorer_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Johann.png";"401";"1536";"1372";"0,0555";"Johann als zäher Abenteurer mit Werkzeuggürtel, der ein halb verfallenes, mit Efeu bewachsenes Haus mit grüner Erdmagie wieder aufrichtet; Steine schweben zurück an ihren Platz. Im Garten im Hintergrund: Koi-Teich und Pool.
+V1–V4: Dach, Wände, Teich, Sauna.
+
+Dies ist Variante V1 von 4.
+Die ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Das Haus war ein Schnäppchen. Das Dach war der Rest vom Preis."
+"2026-11-02 20:29";"Icetill Explorer_2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Johann.png";"400";"1536";"1372";"0,0554";"Johann als zäher Abenteurer mit Werkzeuggürtel, der ein halb verfallenes, mit Efeu bewachsenes Haus mit grüner Erdmagie wieder aufrichtet; Steine schweben zurück an ihren Platz. Im Garten im Hintergrund: Koi-Teich und Pool.
+V1–V4: Dach, Wände, Teich, Sauna.
+
+Dies ist Variante V2 von 4.
+Die ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Die Wand ist nicht schief. Die hat Charakter.“ — Johann"
+"2026-11-02 20:30";"Icetill Explorer_3.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Johann.png | Fotos/Themen/Haus-Garten-Koi/Hermann-Johann__IMG-20260717-WA0014.jpg";"440";"2832";"1372";"0,066";"Johann als zäher Abenteurer mit Werkzeuggürtel, der ein halb verfallenes, mit Efeu bewachsenes Haus mit grüner Erdmagie wieder aufrichtet; Steine schweben zurück an ihren Platz. Im Garten im Hintergrund: Koi-Teich und Pool.
+V1–V4: Dach, Wände, Teich, Sauna.
+
+Dies ist Variante V3 von 4.
+Den Koi-Teich vom Foto als Vorlage.
+Die ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Erst das Haus retten? Nein, erst den Koi-Teich. Prioritäten."
+"2026-11-02 20:31";"Icetill Explorer_4.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Johann.png";"401";"1536";"1372";"0,0555";"Johann als zäher Abenteurer mit Werkzeuggürtel, der ein halb verfallenes, mit Efeu bewachsenes Haus mit grüner Erdmagie wieder aufrichtet; Steine schweben zurück an ihren Platz. Im Garten im Hintergrund: Koi-Teich und Pool.
+V1–V4: Dach, Wände, Teich, Sauna.
+
+Dies ist Variante V4 von 4.
+Die ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Baufällig ist ein Zustand. Mit Sauna ist es ein Lebensstil."
+"2026-11-02 20:31";"Impractical Joke_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Johann.png";"400";"1536";"1372";"0,0554";"Johann als exzentrischer Barde mit Hut und Instrument auf einer kleinen Bühne, sein Lied erzeugt chaotische rote Funkenschnörkel, das Publikum aus Fantasywesen lacht und fällt um. Absurd, warm, verspielt. (Keine echte Person außer Johann darstellen.)
+
+Dies ist Exemplar 1 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Die ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Richtig, richtig, Popichtig.“ — Johann, frei nach Helge Schneider"
+"2026-11-02 20:32";"Slickshot Show-Off_2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Johann.png | Fotos/Nachlieferung/Johann_im_Sprung_2.png";"413";"2336";"1372";"0,0619";"Johann im Sprung von einer hohen Mittelmeerklippe, in perfekter Pose, mit Flammenspur wie ein Phönix; unten türkisblaues Wasser, oben jubelnde Freunde als kleine Figuren.
+V1–V4: Klippe jedes Mal höher, V4 Wolken unter ihm.
+
+Dies ist Variante V2 von 4.
+Körperhaltung aus dem Foto übernehmen.
+Die ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Der daneben ist höher.“ — Johann"
+"2026-11-02 20:33";"Slickshot Show-Off_3.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Johann.png | Fotos/Nachlieferung/Johann_im_Sprung_1.png";"413";"2400";"1372";"0,0624";"Johann im Sprung von einer hohen Mittelmeerklippe, in perfekter Pose, mit Flammenspur wie ein Phönix; unten türkisblaues Wasser, oben jubelnde Freunde als kleine Figuren.
+V1–V4: Klippe jedes Mal höher, V4 Wolken unter ihm.
+
+Dies ist Variante V3 von 4.
+Körperhaltung aus dem Foto übernehmen.
+Die ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Und der da oben?“ — Johann"
+"2026-11-02 20:34";"Slickshot Show-Off_4.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Johann.png | Fotos/Gruppe/Mallorca-JGA/Johann__IMG-20250531-WA0001.jpg";"438";"2988";"1372";"0,0673";"Johann im Sprung von einer hohen Mittelmeerklippe, in perfekter Pose, mit Flammenspur wie ein Phönix; unten türkisblaues Wasser, oben jubelnde Freunde als kleine Figuren.
+V1–V4: Klippe jedes Mal höher, V4 Wolken unter ihm.
+
+Dies ist Variante V4 von 4.
+Siegerpose ganz oben auf der Klippe wie auf dem Foto, Wolken unter ihm.
+Körperhaltung aus dem Foto übernehmen.
+Die ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Irgendwann haben die anderen aufgehört zu zählen. Johann nicht."
+"2026-11-02 20:34";"_Charakterblatt_Max.png";"gpt-image-2.5-sunburst";"high";"Fotos/Max/Max_ref_01.jpg | Fotos/Max/Max_portrait_04.jpg | Fotos/Max/Max_portrait_03.jpg";"370";"4356";"1372";"0,0779";"Charakterblatt von Max (die Person auf allen drei Fotos) im festgelegten Stil: nebeneinander Kopf frontal, Kopf im Profil und Ganzkörper stehend, auf ruhigem, hellem Hintergrund. Gesicht, Frisur, Bart, Brille und Statur exakt wie auf den Fotos. Schlichte dunkle Kleidung. Das Blatt ist die Referenz für alle weiteren Bilder von Max. Ausnahmsweise darf das Motiv bis an die Ränder gehen."
+"2026-11-02 20:35";"Colorstorm Stallion_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Max.png | Fotos/Nachlieferung/Max_Tanzen.png";"458";"2229";"1372";"0,0613";"Max tanzt auf einer Hochzeitstanzfläche einen wilden, eleganten Tanz, aus seinen Schuhen sprühen blau-rote Funken, und aus den Funken entstehen leuchtende Pferde-Geister, die mittanzen. Festliche Lichterketten, Seifenblasen in der Luft.
+
+Dies ist Exemplar 1 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Leuchtstab und Fliege aus dem Foto übernehmen; der Leuchtstab wird zum Zauberstab, aus dem die Pferde-Geister springen.
+Die ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Max legte eine kesse Sohle aufs Parkett. Dann tanzte die ganze Hochzeit."
+"2026-11-02 20:36";"Colorstorm Stallion_2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Max.png | Fotos/Nachlieferung/Max_Tanzen.png";"453";"2229";"1372";"0,0613";"Max tanzt auf einer Hochzeitstanzfläche einen wilden, eleganten Tanz, aus seinen Schuhen sprühen blau-rote Funken, und aus den Funken entstehen leuchtende Pferde-Geister, die mittanzen. Festliche Lichterketten, Seifenblasen in der Luft.
+
+Dies ist Exemplar 2 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Leuchtstab und Fliege aus dem Foto übernehmen; der Leuchtstab wird zum Zauberstab, aus dem die Pferde-Geister springen.
+Die ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Ingenieurstanz: präzise Schritte, unberechenbare Folgen."
+"2026-11-02 20:36";"Colorstorm Stallion_3.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Max.png | Fotos/Nachlieferung/Max_Tanzen.png";"449";"2229";"1372";"0,0612";"Max tanzt auf einer Hochzeitstanzfläche einen wilden, eleganten Tanz, aus seinen Schuhen sprühen blau-rote Funken, und aus den Funken entstehen leuchtende Pferde-Geister, die mittanzen. Festliche Lichterketten, Seifenblasen in der Luft.
+
+Dies ist Exemplar 3 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Leuchtstab und Fliege aus dem Foto übernehmen; der Leuchtstab wird zum Zauberstab, aus dem die Pferde-Geister springen.
+Die ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Wo hat Max das gelernt?“ — die ganze Hochzeit"
+"2026-11-02 20:37";"Keen-Eyed Curator_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Max.png | Fotos/Nachlieferung/Max_im_Restaurant.jpg";"448";"2988";"1372";"0,0673";"Max als eleganter Waschbär-Gourmet (Max' Gesichtszüge erkennbar) mit Monokel an einem edlen Tisch, vor ihm vier winzige, kunstvoll angerichtete Gänge, die magisch leuchten. Robin sitzt ihm gegenüber und hebt das Glas.
+
+Dies ist Exemplar 1 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Max sitzt allein am Tisch, ohne Gegenüber.
+Das Restaurant-Foto als Vorlage für Ort und Stimmung.
+Die ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Vier Gänge, vier Texturen, ein Urteil: „Technisch sauber gelöst.“ — Max"
+"2026-11-02 20:38";"Mossborn Hydra_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Max.png | Fotos/Themen/Rennrad-Werkstatt/Max__IMG-20260425-WA0006.jpg";"428";"2988";"1372";"0,0672";"Eine mehrköpfige Hydra aus Moos und Chrom, deren Köpfe wie Turbinen aussehen; Max steht davor und dreht an einem riesigen Ventil, und mit jeder Drehung wächst ein neuer Kopf. Grüner und kupferner Glanz.
+V1–V4: 1, 2, 4, 8 Köpfe.
+
+Dies ist Variante V1 von 4.
+Schraub-Haltung aus dem Foto übernehmen.
+Die ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Erst mal ein Turbo. Zum Testen.“ — Max"
+"2026-11-02 20:38";"Mossborn Hydra_2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Max.png | Fotos/Themen/Rennrad-Werkstatt/Max__IMG-20260425-WA0006.jpg";"424";"2988";"1372";"0,0672";"Eine mehrköpfige Hydra aus Moos und Chrom, deren Köpfe wie Turbinen aussehen; Max steht davor und dreht an einem riesigen Ventil, und mit jeder Drehung wächst ein neuer Kopf. Grüner und kupferner Glanz.
+V1–V4: 1, 2, 4, 8 Köpfe.
+
+Dies ist Variante V2 von 4.
+Schraub-Haltung aus dem Foto übernehmen.
+Die ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Zwei sind effizienter.“ — Max"
+"2026-11-02 20:39";"Mossborn Hydra_3.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Max.png | Fotos/Themen/Rennrad-Werkstatt/Max__IMG-20260425-WA0006.jpg";"427";"2988";"1372";"0,0672";"Eine mehrköpfige Hydra aus Moos und Chrom, deren Köpfe wie Turbinen aussehen; Max steht davor und dreht an einem riesigen Ventil, und mit jeder Drehung wächst ein neuer Kopf. Grüner und kupferner Glanz.
+V1–V4: 1, 2, 4, 8 Köpfe.
+
+Dies ist Variante V3 von 4.
+Schraub-Haltung aus dem Foto übernehmen.
+Die ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Johann fragt nach dem Preis. Paul nur nach dem Tempo."
+"2026-11-02 20:40";"Mossborn Hydra_4.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Max.png | Fotos/Themen/Rennrad-Werkstatt/Max__IMG-20260425-WA0006.jpg";"431";"2988";"1372";"0,0672";"Eine mehrköpfige Hydra aus Moos und Chrom, deren Köpfe wie Turbinen aussehen; Max steht davor und dreht an einem riesigen Ventil, und mit jeder Drehung wächst ein neuer Kopf. Grüner und kupferner Glanz.
+V1–V4: 1, 2, 4, 8 Köpfe.
+
+Dies ist Variante V4 von 4.
+Schraub-Haltung aus dem Foto übernehmen.
+Die ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Acht Köpfe, null Bedenken. Max kennt jedes Ventil beim Namen."
+"2026-11-02 20:40";"Sleight of Hand_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Max.png";"401";"1536";"1372";"0,0555";"Max sitzt an einem Lagerfeuer, zwischen seinen Händen schweben zwei leuchtende Gedankenkugeln (eine mit Zahnrädern, eine mit Sternen); er betrachtet sie nachdenklich. Blaues und warmes Licht gemischt.
+V1–V4: unterschiedliche Gedankenpaare (Motor/Universum, Fahrrad/Zeit, Essen/Kunst, Technik/Freundschaft).
+
+Dies ist Variante V1 von 4.
+Die ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Ein Motor ist nur ein Universum mit Ölwechsel.“ — Max"
+"2026-11-02 20:41";"Sleight of Hand_2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Max.png";"404";"1536";"1372";"0,0555";"Max sitzt an einem Lagerfeuer, zwischen seinen Händen schweben zwei leuchtende Gedankenkugeln (eine mit Zahnrädern, eine mit Sternen); er betrachtet sie nachdenklich. Blaues und warmes Licht gemischt.
+V1–V4: unterschiedliche Gedankenpaare (Motor/Universum, Fahrrad/Zeit, Essen/Kunst, Technik/Freundschaft).
+
+Dies ist Variante V2 von 4.
+Die ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Zeit ist wie eine Kette. Ohne Pflege springt sie irgendwann.“ — Max"
+"2026-11-02 20:42";"Sleight of Hand_3.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Max.png";"402";"1536";"1372";"0,0555";"Max sitzt an einem Lagerfeuer, zwischen seinen Händen schweben zwei leuchtende Gedankenkugeln (eine mit Zahnrädern, eine mit Sternen); er betrachtet sie nachdenklich. Blaues und warmes Licht gemischt.
+V1–V4: unterschiedliche Gedankenpaare (Motor/Universum, Fahrrad/Zeit, Essen/Kunst, Technik/Freundschaft).
+
+Dies ist Variante V3 von 4.
+Die ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Gutes Essen ist Kunst, die man aufessen darf.“ — Max"
+"2026-11-02 20:42";"Sleight of Hand_4.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Max.png";"406";"1536";"1372";"0,0555";"Max sitzt an einem Lagerfeuer, zwischen seinen Händen schweben zwei leuchtende Gedankenkugeln (eine mit Zahnrädern, eine mit Sternen); er betrachtet sie nachdenklich. Blaues und warmes Licht gemischt.
+V1–V4: unterschiedliche Gedankenpaare (Motor/Universum, Fahrrad/Zeit, Essen/Kunst, Technik/Freundschaft).
+
+Dies ist Variante V4 von 4.
+Die ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Freundschaft ist wie Technik: regelmäßig warten, dann läuft sie ewig.“ — Max"
+"2026-11-02 20:43";"Torpor Orb_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Max.png | Fotos/Themen/Rennrad-Werkstatt/Max__IMG-20260425-WA0006.jpg";"415";"2988";"1372";"0,0671";"Ein schwebender Messing-Orb voller Zahnräder, an dem Max einen leuchtenden Stecker zieht; um ihn herum erstarren magische Kreaturen mitten in der Bewegung. Kühles Licht.
+
+Dies ist Exemplar 1 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Haltung aus dem Foto übernehmen.
+Die ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Schöner Plan, Hermann. Ich zieh trotzdem den Stecker.“ — Max"
+"2026-11-02 20:44";"Torpor Orb_2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Max.png | Fotos/Themen/Rennrad-Werkstatt/Max__IMG-20260425-WA0006.jpg";"423";"2988";"1372";"0,0672";"Ein schwebender Messing-Orb voller Zahnräder, an dem Max einen leuchtenden Stecker zieht; um ihn herum erstarren magische Kreaturen mitten in der Bewegung. Kühles Licht.
+
+Dies ist Exemplar 2 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Haltung aus dem Foto übernehmen.
+Die ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Als die Diskussion über Firmenwagen in die dritte Stunde ging, stand Max auf und zog den Stecker. Sofort war Ruhe."
+"2026-11-02 20:44";"Ba Sing Se_1.png";"gpt-image-2.5-sunburst";"high";"Fotos/Themen/Haus-Garten-Koi/IMG-20260717-WA0016.jpg";"391";"1296";"1372";"0,0535";"Ein großes, leicht baufälliges Haus als Festung in einer grünen Landschaft, mit Gerüst, Koi-Teich, Pool und dampfender Sauna; aus dem Boden steigen Erdmauern, die es stützen. Keine Personen.
+
+Dies ist Exemplar 1 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Den Koi-Teich vom Foto als Vorlage.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Die Mauern stehen. Meistens.“ — Johann"
+"2026-11-02 20:45";"Ba Sing Se_2.png";"gpt-image-2.5-sunburst";"high";"Fotos/Themen/Haus-Garten-Koi/IMG-20260717-WA0016.jpg";"392";"1296";"1372";"0,0535";"Ein großes, leicht baufälliges Haus als Festung in einer grünen Landschaft, mit Gerüst, Koi-Teich, Pool und dampfender Sauna; aus dem Boden steigen Erdmauern, die es stützen. Keine Personen.
+
+Dies ist Exemplar 2 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Den Koi-Teich vom Foto als Vorlage.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Gekauft als Traumhaus. Renoviert als Lebenswerk."
+"2026-11-02 20:46";"Ba Sing Se_3.png";"gpt-image-2.5-sunburst";"high";"Fotos/Themen/Haus-Garten-Koi/IMG-20260717-WA0016.jpg";"392";"1296";"1372";"0,0535";"Ein großes, leicht baufälliges Haus als Festung in einer grünen Landschaft, mit Gerüst, Koi-Teich, Pool und dampfender Sauna; aus dem Boden steigen Erdmauern, die es stützen. Keine Personen.
+
+Dies ist Exemplar 3 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Den Koi-Teich vom Foto als Vorlage.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Koi-Teich, Pool, Sauna. Dach folgt."
+"2026-11-02 20:46";"Demolition Field_1.png";"gpt-image-2.5-sunburst";"high";"";"317";"0";"1372";"0,0427";"Ein Gutachter-Golem aus Stein mit Klemmbrett zerbricht mit einem Stempel ein wackliges Gebäude; Staubwolke, Goldlicht. Keine echten Personen.
+
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Erhaltenswert? Mutige Wortwahl.“ — der Gutachter"
+"2026-11-02 20:47";"Elven Passage_1.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Mallorca-JGA/IMG-20250602-WA0001.jpg";"374";"1452";"1372";"0,0546";"Ein magisches Luftschiff-Terminal an einer Mittelmeerküste, ein Luftschiff hebt in Richtung untergehender Sonne ab. Keine Personen.
+
+Dies ist Exemplar 1 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Das Foto (Sonnenuntergang am Hotel) ist Vorlage für die Stimmung.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Mit Schnurrbart hin, mit Sonnenbrand zurück."
+"2026-11-02 20:47";"Elven Passage_2.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Mallorca-JGA/IMG-20250602-WA0001.jpg";"376";"1452";"1372";"0,0547";"Ein magisches Luftschiff-Terminal an einer Mittelmeerküste, ein Luftschiff hebt in Richtung untergehender Sonne ab. Keine Personen.
+
+Dies ist Exemplar 2 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Das Foto (Sonnenuntergang am Hotel) ist Vorlage für die Stimmung.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Was auf Mallorca passiert, bleibt in der WhatsApp-Gruppe."
+"2026-11-02 20:49";"Elven Passage_3.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Mallorca-JGA/IMG-20250602-WA0001.jpg";"375";"1452";"1372";"0,0547";"Ein magisches Luftschiff-Terminal an einer Mittelmeerküste, ein Luftschiff hebt in Richtung untergehender Sonne ab. Keine Personen.
+
+Dies ist Exemplar 3 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Das Foto (Sonnenuntergang am Hotel) ist Vorlage für die Stimmung.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Rückflug: ein Leben weniger, aber jede Menge Geschichten."
+"2026-11-02 20:49";"Escape Tunnel_1.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Garten-Jena/333A6404.jpg";"378";"1296";"1372";"0,0534";"Ein verwunschener Pfad durch einen Garten, der in einem Tunnel aus Ranken zu einem leuchtend blauen Pool führt. Abendlicht, Glühwürmchen. Keine Personen.
+
+Dies ist Exemplar 1 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Der Pool mit dem Einhorn vom Foto als Vorlage.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Wer zuerst springt, kriegt das Einhorn.“"
+"2026-11-02 20:50";"Escape Tunnel_2.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Garten-Jena/333A6404.jpg";"381";"1296";"1372";"0,0534";"Ein verwunschener Pfad durch einen Garten, der in einem Tunnel aus Ranken zu einem leuchtend blauen Pool führt. Abendlicht, Glühwürmchen. Keine Personen.
+
+Dies ist Exemplar 2 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Der Pool mit dem Einhorn vom Foto als Vorlage.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Der kürzeste Weg vom Grill ins Wasser. Ungeblockt."
+"2026-11-02 20:51";"Fabled Passage_1.png";"gpt-image-2.5-sunburst";"high";"";"347";"0";"1372";"0,0429";"Eine magische Fernstraße, die sich durch Wälder und Hügel windet, ein leuchtendes Gefährt fährt in den Sonnenuntergang Richtung einer fernen Gartenlaterne.
+
+Dies ist Exemplar 1 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Gut vier Stunden Autobahn, und am Ende wartet ein Garten. Robin fährt sie jedes Jahr."
+"2026-11-02 20:51";"Fabled Passage_2.png";"gpt-image-2.5-sunburst";"high";"";"350";"0";"1372";"0,0429";"Eine magische Fernstraße, die sich durch Wälder und Hügel windet, ein leuchtendes Gefährt fährt in den Sonnenuntergang Richtung einer fernen Gartenlaterne.
+
+Dies ist Exemplar 2 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Hof, Münchberg, Hermsdorfer Kreuz: Ab hier riecht es nach Lagerfeuer."
+"2026-11-02 20:52";"Fabled Passage_3.png";"gpt-image-2.5-sunburst";"high";"";"344";"0";"1372";"0,0429";"Eine magische Fernstraße, die sich durch Wälder und Hügel windet, ein leuchtendes Gefährt fährt in den Sonnenuntergang Richtung einer fernen Gartenlaterne.
+
+Dies ist Exemplar 3 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Wer früh losfährt, ist pünktlich zum ersten Cocktail da."
+"2026-11-02 20:52";"Fabled Passage_4.png";"gpt-image-2.5-sunburst";"high";"";"348";"0";"1372";"0,0429";"Eine magische Fernstraße, die sich durch Wälder und Hügel windet, ein leuchtendes Gefährt fährt in den Sonnenuntergang Richtung einer fernen Gartenlaterne.
+
+Dies ist Exemplar 4 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Stau bei Nürnberg. Robin hört einen Podcast über Dividenden. Die Zeit ist nicht verloren."
+"2026-11-02 20:53";"Forest_1.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Garten-Jena/333A6412.jpg";"339";"1296";"1372";"0,0532";"Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Wald/Hain (verzauberter Garten in Jena). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: zwei auf Liegestühlen."
+"2026-11-02 20:54";"Forest_2.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Garten-Jena/333A6648.jpg";"342";"1296";"1372";"0,0532";"Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Wald/Hain (verzauberter Garten in Jena). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: Party an der Bar, Hosenträger."
+"2026-11-02 20:54";"Forest_3.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Garten-Jena/333A6404.jpg";"338";"1296";"1372";"0,0532";"Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Wald/Hain (verzauberter Garten in Jena). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: Pool mit Einhorn."
+"2026-11-02 20:55";"Forest_4.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Garten-Jena/IMG_20210812_201730.jpg";"339";"1452";"1372";"0,0545";"Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Wald/Hain (verzauberter Garten in Jena). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: Gruppe mit Robins Eltern."
+"2026-11-02 20:56";"Forest_5.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Garten-Jena/IMG_20210814_233049.jpg";"339";"1452";"1372";"0,0545";"Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Wald/Hain (verzauberter Garten in Jena). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: Nachtfoto, vier Freunde."
+"2026-11-02 20:56";"Forest_6.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Garten-Jena/IMG_20220813_194100.jpg";"342";"1056";"1372";"0,0513";"Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Wald/Hain (verzauberter Garten in Jena). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: Party-Selfie, Hawaiihemden."
+"2026-11-02 20:57";"Forest_7.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Garten-Jena/IMG_20220813_223645.jpg";"336";"1056";"1372";"0,0513";"Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Wald/Hain (verzauberter Garten in Jena). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: drei Freunde."
+"2026-11-02 20:58";"Forest_8.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Garten-Jena/IMG-20230813-WA0027.jpg";"339";"768";"1372";"0,049";"Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Wald/Hain (verzauberter Garten in Jena). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: Gruppe am Cocktailtisch."
+"2026-11-02 20:58";"Forest_9.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Garten-Jena/IMG-20230813-WA0040.jpg";"339";"768";"1372";"0,049";"Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Wald/Hain (verzauberter Garten in Jena). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: Gruppe am Cocktailtisch."
+"2026-11-02 20:59";"Forest_10.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Garten-Jena/IMG-20230813-WA0031.jpg";"341";"768";"1372";"0,049";"Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Wald/Hain (verzauberter Garten in Jena). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: entspannt in den Gartenstühlen."
+"2026-11-02 21:00";"Forest_11.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Garten-Jena/IMG-20240810-WA0009.jpg";"337";"1452";"1372";"0,0545";"Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Wald/Hain (verzauberter Garten in Jena). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: Hawaiihemden."
+"2026-11-02 21:00";"Forest_12.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Garten-Jena/IMG-20250808-WA0030.jpg";"338";"1452";"1372";"0,0545";"Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Wald/Hain (verzauberter Garten in Jena). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: auf der Liege."
+"2026-11-02 21:01";"Forest_13.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Garten-Jena/RobinsVater-Johann-Hermann__file_00000000e680724697f2aa1c786a1926.png";"341";"1536";"1372";"0,0552";"Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Wald/Hain (verzauberter Garten in Jena). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: drei in Hawaiihemden mit Bier."
+"2026-11-02 21:02";"Island_1.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Mallorca-JGA/IMG_20250530_120602.jpg";"335";"1452";"1372";"0,0545";"Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Meeresküste (Mallorca). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: vier auf der Festungsmauer."
+"2026-11-02 21:02";"Island_2.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Mallorca-JGA/IMG_20250530_120616.jpg";"337";"1452";"1372";"0,0545";"Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Meeresküste (Mallorca). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: Gruppen-Selfie an der Küste."
+"2026-11-02 21:03";"Island_3.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Mallorca-JGA/IMG-20250529-WA0042.jpg";"337";"1496";"1372";"0,0548";"Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Meeresküste (Mallorca). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: Abflug, mit Schnurrbärten."
+"2026-11-02 21:04";"Island_4.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Mallorca-JGA/IMG-20250601-WA0053.jpg";"335";"1452";"1372";"0,0545";"Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Meeresküste (Mallorca). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: drei liegen auf den Felsen."
+"2026-11-02 21:04";"Island_5.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Mallorca-JGA/IMG-20250531-WA0086.jpg";"337";"1452";"1372";"0,0545";"Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Meeresküste (Mallorca). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: Gruppen-Selfie in der Altstadt."
+"2026-11-02 21:05";"Mountain_1.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Alpen-Rennrad/Robin-Paul__IMG-20260606-WA0012.jpg";"336";"1452";"1372";"0,0545";"Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Gebirgspass (Alpen). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: Rennradtour über die Alpen."
+"2026-11-02 21:06";"Multiversal Passage_1.png";"gpt-image-2.5-sunburst";"high";"Fotos/Themen/Arbeit-Projekte/Johann__IMG-20210902-WA0005.jpg";"416";"1505";"1372";"0,0553";"Ein magisches Portal aus fünf ineinander verschlungenen Leuchtringen, durch das man fünf verschiedene Welten sieht (Garten, Meer, Berge, Stadt, Schatzkammer). Keine Schrift, kein Logo.
+
+Dies ist Exemplar 1 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Neue Idee: Das Portal wächst aus der Tasse auf dem Foto. Ein Schriftzug darf höchstens als goldene, unlesbare Gravur angedeutet sein.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Ein Chat für alles: Aktien, Kaffee, Rennräder, Kinderfotos und die nächste große Idee."
+"2026-11-02 21:06";"Multiversal Passage_2.png";"gpt-image-2.5-sunburst";"high";"Fotos/Themen/Arbeit-Projekte/Johann__IMG-20210902-WA0005.jpg";"408";"1505";"1372";"0,0552";"Ein magisches Portal aus fünf ineinander verschlungenen Leuchtringen, durch das man fünf verschiedene Welten sieht (Garten, Meer, Berge, Stadt, Schatzkammer). Keine Schrift, kein Logo.
+
+Dies ist Exemplar 2 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Neue Idee: Das Portal wächst aus der Tasse auf dem Foto. Ein Schriftzug darf höchstens als goldene, unlesbare Gravur angedeutet sein.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): 247 ungelesene Nachrichten. Drei davon sind PDFs von Robin."
+"2026-11-02 21:07";"Riverpyre Verge_1.png";"gpt-image-2.5-sunburst";"high";"Fotos/Themen/Saaleufer__IMG_20180808_125351-EFFECTS.jpg";"384";"1296";"1372";"0,0534";"Fluss bei Nacht, am Ufer ein Lagerfeuer, Lichter einer kleinen Stadt im Hintergrund, Wasser und Feuer spiegeln sich. Keine Personen.
+
+Dies ist Exemplar 1 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Das Foto (Fluss unter einer Steinbrücke) ist Vorlage für die Landschaft.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Die Saale fließt, das Feuer knistert, und irgendwer erzählt von Rendite."
+"2026-11-02 21:07";"Riverpyre Verge_2.png";"gpt-image-2.5-sunburst";"high";"Fotos/Themen/Saaleufer__IMG_20180808_125351-EFFECTS.jpg";"376";"1296";"1372";"0,0534";"Fluss bei Nacht, am Ufer ein Lagerfeuer, Lichter einer kleinen Stadt im Hintergrund, Wasser und Feuer spiegeln sich. Keine Personen.
+
+Dies ist Exemplar 2 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Das Foto (Fluss unter einer Steinbrücke) ist Vorlage für die Landschaft.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Jedes Jahr im August führen alle Wege nach Jena."
+"2026-11-02 21:08";"Riverpyre Verge_3.png";"gpt-image-2.5-sunburst";"high";"Fotos/Themen/Saaleufer__IMG_20180808_125351-EFFECTS.jpg";"381";"1296";"1372";"0,0534";"Fluss bei Nacht, am Ufer ein Lagerfeuer, Lichter einer kleinen Stadt im Hintergrund, Wasser und Feuer spiegeln sich. Keine Personen.
+
+Dies ist Exemplar 3 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Das Foto (Fluss unter einer Steinbrücke) ist Vorlage für die Landschaft.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Wasser und Feuer passen nicht zusammen?“ — Hermann, mit einem flambierten Cocktail"
+"2026-11-02 21:09";"Riverpyre Verge_4.png";"gpt-image-2.5-sunburst";"high";"Fotos/Themen/Saaleufer__IMG_20180808_125351-EFFECTS.jpg";"377";"1296";"1372";"0,0534";"Fluss bei Nacht, am Ufer ein Lagerfeuer, Lichter einer kleinen Stadt im Hintergrund, Wasser und Feuer spiegeln sich. Keine Personen.
+
+Dies ist Exemplar 4 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Das Foto (Fluss unter einer Steinbrücke) ist Vorlage für die Landschaft.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Am Ufer ist es still. Bis die fünf ankommen."
+"2026-11-02 21:09";"Spirebluff Canal_1.png";"gpt-image-2.5-sunburst";"high";"";"340";"0";"1372";"0,0429";"Steile Felsküste an der Adria mit türkisem Wasser und einer Werkstatt-Halle aus Glas auf der Klippe. Keine Personen.
+
+Dies ist Exemplar 1 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Morgens Prototypen, abends Adria. Max nennt das Work-Life-Balance."
+"2026-11-02 21:10";"Spirebluff Canal_2.png";"gpt-image-2.5-sunburst";"high";"";"340";"0";"1372";"0,0429";"Steile Felsküste an der Adria mit türkisem Wasser und einer Werkstatt-Halle aus Glas auf der Klippe. Keine Personen.
+
+Dies ist Exemplar 2 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Feierabend heißt hier: Schraubenschlüssel weg, Füße ins Meer.“ — Max"
+"2026-11-02 21:10";"Spirebluff Canal_3.png";"gpt-image-2.5-sunburst";"high";"";"332";"0";"1372";"0,0428";"Steile Felsküste an der Adria mit türkisem Wasser und einer Werkstatt-Halle aus Glas auf der Klippe. Keine Personen.
+
+Dies ist Exemplar 3 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Wer früh kommt, kriegt den Parkplatz direkt am Wasser."
+"2026-11-02 21:11";"Spirebluff Canal_4.png";"gpt-image-2.5-sunburst";"high";"";"334";"0";"1372";"0,0428";"Steile Felsküste an der Adria mit türkisem Wasser und einer Werkstatt-Halle aus Glas auf der Klippe. Keine Personen.
+
+Dies ist Exemplar 4 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Türkis wie im Prospekt, nur mit mehr Ingenieuren."
+"2026-11-02 21:11";"Steam Vents_1.png";"gpt-image-2.5-sunburst";"high";"";"337";"0";"1372";"0,0428";"Eine Holzsauna am Rand eines Gartens mit dampfenden Vulkanquellen ringsum, Dampfschwaden steigen in den Sternenhimmel. Keine Personen.
+
+Dies ist Exemplar 1 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Zwei Leben für einen Aufguss. Johann findet das fair."
+"2026-11-02 21:12";"Steam Vents_2.png";"gpt-image-2.5-sunburst";"high";"";"340";"0";"1372";"0,0429";"Eine Holzsauna am Rand eines Gartens mit dampfenden Vulkanquellen ringsum, Dampfschwaden steigen in den Sternenhimmel. Keine Personen.
+
+Dies ist Exemplar 2 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Noch einen Aufguss? Ich mach Eukalyptus.“ — Johann"
+"2026-11-02 21:13";"Steam Vents_3.png";"gpt-image-2.5-sunburst";"high";"";"337";"0";"1372";"0,0428";"Eine Holzsauna am Rand eines Gartens mit dampfenden Vulkanquellen ringsum, Dampfschwaden steigen in den Sternenhimmel. Keine Personen.
+
+Dies ist Exemplar 3 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Danach in den Pool. Die Koi schauen pikiert."
+"2026-11-02 21:13";"Steam Vents_4.png";"gpt-image-2.5-sunburst";"high";"";"336";"0";"1372";"0,0428";"Eine Holzsauna am Rand eines Gartens mit dampfenden Vulkanquellen ringsum, Dampfschwaden steigen in den Sternenhimmel. Keine Personen.
+
+Dies ist Exemplar 4 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Hier drin ist sogar mein Glas halb voll.“ — Johann"
+"2026-11-02 21:14";"Earthbender Ascension_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Hermann.png | Fotos/Themen/Arbeit-Projekte/Robin-Hermann__IMG-20251009-WA0020.jpg";"470";"2832";"1372";"0,0662";"Ein magischer Turm, der aus der Erde wächst, mit vier leuchtenden Stockwerken (SEO-Schriftrollen, Vertriebskarte, Werbe-Feuerwerk, Schatzkammer ganz oben). Im Vordergrund steht die jeweilige Person vor dem Wahrzeichen ihrer Stadt, kein Text.
+V1 Hermann vor dem Aachener Dom · V2 Paul vor dem Völkerschlachtdenkmal in Leipzig · V3 Robin vor der Münchner Frauenkirche · V4 Johann vor dem JenTower in Jena, kommt gerade erst den Weg herauf.
+
+Dies ist Variante V1 von 4.
+Pro Bild nur diese eine Person. Das Foto gibt nur die Arbeitsstimmung vor.
+Die ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Gebiet West: Hermann übernimmt."
+"2026-11-02 21:14";"Earthbender Ascension_2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Paul.png | Fotos/Themen/Arbeit-Projekte/Robin-Hermann__IMG-20251009-WA0020.jpg";"471";"2832";"1372";"0,0662";"Ein magischer Turm, der aus der Erde wächst, mit vier leuchtenden Stockwerken (SEO-Schriftrollen, Vertriebskarte, Werbe-Feuerwerk, Schatzkammer ganz oben). Im Vordergrund steht die jeweilige Person vor dem Wahrzeichen ihrer Stadt, kein Text.
+V1 Hermann vor dem Aachener Dom · V2 Paul vor dem Völkerschlachtdenkmal in Leipzig · V3 Robin vor der Münchner Frauenkirche · V4 Johann vor dem JenTower in Jena, kommt gerade erst den Weg herauf.
+
+Dies ist Variante V2 von 4.
+Pro Bild nur diese eine Person. Das Foto gibt nur die Arbeitsstimmung vor.
+Die ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „War eh meine Idee.“ — Paul"
+"2026-11-02 21:15";"Earthbender Ascension_3.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Robin.png | Fotos/Themen/Arbeit-Projekte/Robin-Hermann__IMG-20251009-WA0020.jpg";"470";"2832";"1372";"0,0662";"Ein magischer Turm, der aus der Erde wächst, mit vier leuchtenden Stockwerken (SEO-Schriftrollen, Vertriebskarte, Werbe-Feuerwerk, Schatzkammer ganz oben). Im Vordergrund steht die jeweilige Person vor dem Wahrzeichen ihrer Stadt, kein Text.
+V1 Hermann vor dem Aachener Dom · V2 Paul vor dem Völkerschlachtdenkmal in Leipzig · V3 Robin vor der Münchner Frauenkirche · V4 Johann vor dem JenTower in Jena, kommt gerade erst den Weg herauf.
+
+Dies ist Variante V3 von 4.
+Pro Bild nur diese eine Person. Das Foto gibt nur die Arbeitsstimmung vor.
+Die ersten 1 Bilder sind Charakterblätter (Robin in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Robin hat das Logo schon fertig."
+"2026-11-02 21:16";"Earthbender Ascension_4.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Johann.png | Fotos/Themen/Arbeit-Projekte/Robin-Hermann__IMG-20251009-WA0020.jpg";"472";"2832";"1372";"0,0662";"Ein magischer Turm, der aus der Erde wächst, mit vier leuchtenden Stockwerken (SEO-Schriftrollen, Vertriebskarte, Werbe-Feuerwerk, Schatzkammer ganz oben). Im Vordergrund steht die jeweilige Person vor dem Wahrzeichen ihrer Stadt, kein Text.
+V1 Hermann vor dem Aachener Dom · V2 Paul vor dem Völkerschlachtdenkmal in Leipzig · V3 Robin vor der Münchner Frauenkirche · V4 Johann vor dem JenTower in Jena, kommt gerade erst den Weg herauf.
+
+Dies ist Variante V4 von 4.
+Pro Bild nur diese eine Person. Das Foto gibt nur die Arbeitsstimmung vor.
+Die ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Ich komm später dazu.“ — Johann"
+"2026-11-02 21:16";"Hard-Hitting Question_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Paul.png | Bilder/_Charakterblatt_Hermann.png | Fotos/Nachlieferung/Paul_gestikuliert.png";"436";"3712";"1372";"0,073";"Paul zeigt mit dem Finger auf ein umständliches, wackeliges Gerät aus Zahnrädern, und eine grüne Kraftwelle schießt aus seinem Finger und bringt es zum Einsturz. Hermann steht daneben mit Schraubenschlüssel und offenem Mund.
+
+Dies ist Exemplar 1 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Pauls Gestik aus dem Foto übernehmen.
+Die ersten 2 Bilder sind Charakterblätter (Paul, Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Hermann baute zwei Wochen lang. Paul stellte eine Frage."
+"2026-11-02 21:17";"Hard-Hitting Question_2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Paul.png | Bilder/_Charakterblatt_Hermann.png | Fotos/Nachlieferung/Paul_gestikuliert.png";"443";"3712";"1372";"0,0731";"Paul zeigt mit dem Finger auf ein umständliches, wackeliges Gerät aus Zahnrädern, und eine grüne Kraftwelle schießt aus seinem Finger und bringt es zum Einsturz. Hermann steht daneben mit Schraubenschlüssel und offenem Mund.
+
+Dies ist Exemplar 2 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Pauls Gestik aus dem Foto übernehmen.
+Die ersten 2 Bilder sind Charakterblätter (Paul, Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Klar geht das effizienter. Aber dann versteh ich's ja nicht.“ — Hermann"
+"2026-11-02 21:18";"Hearth Elemental_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Hermann.png | Bilder/_Charakterblatt_Robin.png | Bilder/_Charakterblatt_Paul.png | Bilder/_Charakterblatt_Johann.png | Bilder/_Charakterblatt_Max.png | Fotos/Gruppe/Garten-Jena/Vicky-Robin-Johann__IMG-20230813-WA0049.jpg | Fotos/Gruppe/Garten-Jena/Robin-Vicky__IMG_20250809_234522.jpg";"510";"9900";"1372";"0,1229";"Ein riesiges, gutmütiges Feuerelementar wächst aus einem Lagerfeuer in einem nächtlichen Garten, um es herum sitzen fünf Freunde mit Cocktails und lachen. Funken, Sterne, warme Sommernacht.
+V1–V4: jeweils ein anderer Freund im Vordergrund (Hermann am Shaker, Johann mit Gin, Max erzählt, Paul gestikuliert).
+
+Dies ist Variante V1 von 4.
+Die Fotos zeigen nur die Kulisse (Garten, Lagerfeuer). Die fünf Freunde nach den Charakterblättern einsetzen, keine weiteren Personen.
+Die ersten 5 Bilder sind Charakterblätter (Hermann, Robin, Paul, Johann, Max in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Noch einen? Ich hab da was Neues.“ — Hermann"
+"2026-11-02 21:19";"Hearth Elemental_2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Hermann.png | Bilder/_Charakterblatt_Robin.png | Bilder/_Charakterblatt_Paul.png | Bilder/_Charakterblatt_Johann.png | Bilder/_Charakterblatt_Max.png | Fotos/Gruppe/Garten-Jena/Vicky-Robin-Johann__IMG-20230813-WA0049.jpg | Fotos/Gruppe/Garten-Jena/Robin-Vicky__IMG_20250809_234522.jpg";"505";"9900";"1372";"0,1229";"Ein riesiges, gutmütiges Feuerelementar wächst aus einem Lagerfeuer in einem nächtlichen Garten, um es herum sitzen fünf Freunde mit Cocktails und lachen. Funken, Sterne, warme Sommernacht.
+V1–V4: jeweils ein anderer Freund im Vordergrund (Hermann am Shaker, Johann mit Gin, Max erzählt, Paul gestikuliert).
+
+Dies ist Variante V2 von 4.
+Die Fotos zeigen nur die Kulisse (Garten, Lagerfeuer). Die fünf Freunde nach den Charakterblättern einsetzen, keine weiteren Personen.
+Die ersten 5 Bilder sind Charakterblätter (Hermann, Robin, Paul, Johann, Max in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Gin geht immer.“ — Johann"
+"2026-11-02 21:19";"Hearth Elemental_3.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Hermann.png | Bilder/_Charakterblatt_Robin.png | Bilder/_Charakterblatt_Paul.png | Bilder/_Charakterblatt_Johann.png | Bilder/_Charakterblatt_Max.png | Fotos/Gruppe/Garten-Jena/Vicky-Robin-Johann__IMG-20230813-WA0049.jpg | Fotos/Gruppe/Garten-Jena/Robin-Vicky__IMG_20250809_234522.jpg";"506";"9900";"1372";"0,1229";"Ein riesiges, gutmütiges Feuerelementar wächst aus einem Lagerfeuer in einem nächtlichen Garten, um es herum sitzen fünf Freunde mit Cocktails und lachen. Funken, Sterne, warme Sommernacht.
+V1–V4: jeweils ein anderer Freund im Vordergrund (Hermann am Shaker, Johann mit Gin, Max erzählt, Paul gestikuliert).
+
+Dies ist Variante V3 von 4.
+Die Fotos zeigen nur die Kulisse (Garten, Lagerfeuer). Die fünf Freunde nach den Charakterblättern einsetzen, keine weiteren Personen.
+Die ersten 5 Bilder sind Charakterblätter (Hermann, Robin, Paul, Johann, Max in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Jede Geschichte legt ein Scheit nach."
+"2026-11-02 21:20";"Hearth Elemental_4.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Hermann.png | Bilder/_Charakterblatt_Robin.png | Bilder/_Charakterblatt_Paul.png | Bilder/_Charakterblatt_Johann.png | Bilder/_Charakterblatt_Max.png | Fotos/Gruppe/Garten-Jena/Vicky-Robin-Johann__IMG-20230813-WA0049.jpg | Fotos/Gruppe/Garten-Jena/Robin-Vicky__IMG_20250809_234522.jpg";"508";"9900";"1372";"0,1229";"Ein riesiges, gutmütiges Feuerelementar wächst aus einem Lagerfeuer in einem nächtlichen Garten, um es herum sitzen fünf Freunde mit Cocktails und lachen. Funken, Sterne, warme Sommernacht.
+V1–V4: jeweils ein anderer Freund im Vordergrund (Hermann am Shaker, Johann mit Gin, Max erzählt, Paul gestikuliert).
+
+Dies ist Variante V4 von 4.
+Die Fotos zeigen nur die Kulisse (Garten, Lagerfeuer). Die fünf Freunde nach den Charakterblättern einsetzen, keine weiteren Personen.
+Die ersten 5 Bilder sind Charakterblätter (Hermann, Robin, Paul, Johann, Max in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Paul erklärt das Feuer. Das Feuer nickt."
+"2026-11-02 21:23";"Keen-Eyed Curator_2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Max.png | Bilder/_Charakterblatt_Robin.png | Fotos/Nachlieferung/Max_im_Restaurant.jpg";"449";"4524";"1372";"0,0796";"Max als eleganter Waschbär-Gourmet (Max' Gesichtszüge erkennbar) mit Monokel an einem edlen Tisch, vor ihm vier winzige, kunstvoll angerichtete Gänge, die magisch leuchten. Robin sitzt ihm gegenüber und hebt das Glas.
+
+Dies ist Exemplar 2 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Das Restaurant-Foto als Vorlage für Ort und Stimmung.
+Die ersten 2 Bilder sind Charakterblätter (Max, Robin in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Robin zahlt mit der Dividende. Max erklärt dafür, warum der Schaum hält."
+"2026-11-02 21:24";"Lumbering Worldwagon_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Hermann.png | Bilder/_Charakterblatt_Robin.png | Bilder/_Charakterblatt_Paul.png | Bilder/_Charakterblatt_Johann.png | Bilder/_Charakterblatt_Max.png | Fotos/Themen/Rennrad-Werkstatt/Max__IMG-20260425-WA0006.jpg";"471";"9132";"1372";"0,1166";"Ein gewaltiges, magisch-mechanisches Gefährt mit Hypercar-Silhouette, aber aus Erde, Wurzeln und Messing; Max schraubt mit Ingenieursbrille am offenen Motor, vier Freunde schieben hinten an. Kroatische Küste im Hintergrund. Kein Markenlogo.
+
+Max schraubt (Haltung wie auf dem Foto), die vier anderen schieben hinten an.
+Die ersten 5 Bilder sind Charakterblätter (Hermann, Robin, Paul, Johann, Max in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Ein Prototyp mit über tausend PS. Anschieben müssen trotzdem vier Mann."
+"2026-11-02 21:25";"Meltstrider's Resolve_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Robin.png | Bilder/_Charakterblatt_Johann.png | Fotos/Nachlieferung/Johann_und_Robin_zocken_zwar_Poolbilliard_aber_als_Sinnbild.jpg";"438";"4524";"1372";"0,0795";"Robin und Johann als zwei Champions in einer magischen Arena, Rücken an Rücken kämpfend, umgeben von leuchtenden Fähigkeiten-Effekten; im Vordergrund leere Bierflaschen und ein Laptop-Glimmen. Nachtstimmung.
+
+Dies ist Exemplar 1 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Das Foto ist nur ein Sinnbild für die beiden als Team.
+Die ersten 2 Bilder sind Charakterblätter (Robin, Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Eine Runde noch, dann schlaf ich.“ — Robin, Runde 1"
+"2026-11-02 21:26";"Meltstrider's Resolve_2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Robin.png | Bilder/_Charakterblatt_Johann.png | Fotos/Nachlieferung/Johann_und_Robin_zocken_zwar_Poolbilliard_aber_als_Sinnbild.jpg";"435";"4524";"1372";"0,0795";"Robin und Johann als zwei Champions in einer magischen Arena, Rücken an Rücken kämpfend, umgeben von leuchtenden Fähigkeiten-Effekten; im Vordergrund leere Bierflaschen und ein Laptop-Glimmen. Nachtstimmung.
+
+Dies ist Exemplar 2 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Das Foto ist nur ein Sinnbild für die beiden als Team.
+Die ersten 2 Bilder sind Charakterblätter (Robin, Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Gank Mid, jetzt!“ — Johann, Runde 12"
+"2026-11-02 21:26";"Meltstrider's Resolve_3.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Robin.png | Bilder/_Charakterblatt_Johann.png | Fotos/Nachlieferung/Johann_und_Robin_zocken_zwar_Poolbilliard_aber_als_Sinnbild.jpg";"440";"4524";"1372";"0,0796";"Robin und Johann als zwei Champions in einer magischen Arena, Rücken an Rücken kämpfend, umgeben von leuchtenden Fähigkeiten-Effekten; im Vordergrund leere Bierflaschen und ein Laptop-Glimmen. Nachtstimmung.
+
+Dies ist Exemplar 3 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Das Foto ist nur ein Sinnbild für die beiden als Team.
+Die ersten 2 Bilder sind Charakterblätter (Robin, Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Runde 20. Draußen wird's hell. Drinnen geht's um alles."
+"2026-11-02 21:27";"Meltstrider's Resolve_4.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Robin.png | Bilder/_Charakterblatt_Johann.png | Fotos/Themen/YouTube-Verkleidung/Johann__IMG-20250531-WA0087.jpg";"453";"4464";"1372";"0,0791";"Johann als wilder Krieger nach dem „John Wolv“-Foto: nackter Oberkörper, Jeans, lange Klingen in den Händen, entschlossener Blick. Er steht in einer magischen Arena Rücken an Rücken mit Robin, beide umgeben von grünen Kampfeffekten. Episch, dramatisches Gegenlicht.
+
+Dies ist Exemplar 4 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Das Foto ist die Vorlage für Johanns Verkleidung und Pose.
+Die ersten 2 Bilder sind Charakterblätter (Robin, Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Die Krallen waren Deko. Der Blick nicht."
+"2026-11-02 21:28";"Sazh's Chocobo_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Robin.png | Bilder/_Charakterblatt_Hermann.png";"407";"3072";"1372";"0,0678";"Ein flauschiger, gelber Laufvogel, der auf einer grünen Weide steht und mit jedem Schritt, den er auf neues Land setzt, etwas größer und goldener wird; Robin und Hermann füttern ihn geduldig mit kleinen Münzen.
+V1–V4: Küken · Jungvogel · stattlich · riesig und golden.
+
+Dies ist Variante V1 von 4.
+Die ersten 2 Bilder sind Charakterblätter (Robin, Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Jeden Monat ein bisschen Futter. Nicht hinsehen, nicht nervös werden."
+"2026-11-02 21:28";"Sazh's Chocobo_2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Robin.png | Bilder/_Charakterblatt_Hermann.png";"406";"3072";"1372";"0,0678";"Ein flauschiger, gelber Laufvogel, der auf einer grünen Weide steht und mit jedem Schritt, den er auf neues Land setzt, etwas größer und goldener wird; Robin und Hermann füttern ihn geduldig mit kleinen Münzen.
+V1–V4: Küken · Jungvogel · stattlich · riesig und golden.
+
+Dies ist Variante V2 von 4.
+Die ersten 2 Bilder sind Charakterblätter (Robin, Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Hermann hat genau einen ETF. Den füttert er mit Hingabe."
+"2026-11-02 21:29";"Sazh's Chocobo_3.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Robin.png | Bilder/_Charakterblatt_Hermann.png";"402";"3072";"1372";"0,0677";"Ein flauschiger, gelber Laufvogel, der auf einer grünen Weide steht und mit jedem Schritt, den er auf neues Land setzt, etwas größer und goldener wird; Robin und Hermann füttern ihn geduldig mit kleinen Münzen.
+V1–V4: Küken · Jungvogel · stattlich · riesig und golden.
+
+Dies ist Variante V3 von 4.
+Die ersten 2 Bilder sind Charakterblätter (Robin, Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Langweilig ist das neue Reich.“ — Robin"
+"2026-11-02 21:30";"Sazh's Chocobo_4.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Robin.png | Bilder/_Charakterblatt_Hermann.png";"410";"3072";"1372";"0,0678";"Ein flauschiger, gelber Laufvogel, der auf einer grünen Weide steht und mit jedem Schritt, den er auf neues Land setzt, etwas größer und goldener wird; Robin und Hermann füttern ihn geduldig mit kleinen Münzen.
+V1–V4: Küken · Jungvogel · stattlich · riesig und golden.
+
+Dies ist Variante V4 von 4.
+Die ersten 2 Bilder sind Charakterblätter (Robin, Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Während Paul zockte, wuchs Hermanns Vogel einfach weiter. Langsam. Golden."
+"2026-11-02 21:30";"Spell Snare_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Johann.png | Bilder/_Charakterblatt_Hermann.png";"408";"3072";"1372";"0,0678";"Johann blickt skeptisch auf ein magisches Glas, dessen Inhalt in einem blauen Wirbel verschwindet; neben ihm hält Hermann ein offensichtlich leeres Glas strahlend hoch. Humorvolle Gegensätze.
+
+Dies ist Exemplar 1 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Die ersten 2 Bilder sind Charakterblätter (Johann, Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Bei Johann ist das Glas halb leer. Bei Hermann ist es noch halb voll, wenn es längst ausgetrunken im Spüler steht."
+"2026-11-02 21:31";"Spell Snare_2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Johann.png | Bilder/_Charakterblatt_Hermann.png";"401";"3072";"1372";"0,0677";"Johann blickt skeptisch auf ein magisches Glas, dessen Inhalt in einem blauen Wirbel verschwindet; neben ihm hält Hermann ein offensichtlich leeres Glas strahlend hoch. Humorvolle Gegensätze.
+
+Dies ist Exemplar 2 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Die ersten 2 Bilder sind Charakterblätter (Johann, Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Klingt gut. Und was kann schiefgehen?“ — Johann, bei jeder Idee von Hermann"
+"2026-11-02 21:32";"Sunderflock_4.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Hermann.png | Bilder/_Charakterblatt_Robin.png | Bilder/_Charakterblatt_Paul.png | Bilder/_Charakterblatt_Johann.png | Bilder/_Charakterblatt_Max.png";"500";"7680";"1372";"0,1051";"Ein prächtiges, schwebendes Schloss aus Wolken, Zahnrädern, Kaffeedampf und Cocktailgläsern hoch über einer Landschaft. Auf dem Balkon steht Hermann, verträumt lächelnd, mit einem Bauplan in der Hand. Unter dem Schloss sieht man, dass es auf sehr dünnen Fäden hängt. Blau-violetter Himmel, Sonnenuntergang.
+V1 im Bau · V2 fertig · V3 mit Kreditbriefen als Wolken · V4 seine Freunde schauen kopfschüttelnd von unten zu.
+
+Dies ist Variante V4 von 4.
+Hermann steht auf dem Balkon, seine vier Freunde stehen unten und schauen kopfschüttelnd hoch.
+Die ersten 5 Bilder sind Charakterblätter (Hermann, Robin, Paul, Johann, Max in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Und wo ist da die Treppe, Hermann?“ — Johann"
+"2026-11-02 21:33";"Vibrant Outburst_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Paul.png | Bilder/_Charakterblatt_Johann.png | Fotos/Nachlieferung/Seifenblasen_ersatz.jpg | Fotos/Gruppe/Hochzeit/Paul__IMG-20250905-WA0021.jpg";"462";"5820";"1372";"0,09";"Paul und Johann schreiten in festlicher Kleidung durch einen Kirchengang und feuern aus riesigen magischen Kanonen Seifenblasen, die als blau-rote Energiekugeln explodieren; das Publikum ist vor Staunen erstarrt. Jubelnde, epische Stimmung.
+
+Dies ist Exemplar 1 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Foto 1 gibt die Stimmung, Foto 2 die Seifenblasen-Pistole als Vorlage.
+Die ersten 2 Bilder sind Charakterblätter (Paul, Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Andere streuen Blüten. Paul und Johann luden durch."
+"2026-11-02 21:33";"Vibrant Outburst_2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Paul.png | Bilder/_Charakterblatt_Johann.png | Fotos/Nachlieferung/Seifenblasen_ersatz.jpg | Fotos/Gruppe/Hochzeit/Paul__IMG-20250905-WA0021.jpg";"479";"5820";"1372";"0,0901";"Paul und Johann schreiten in festlicher Kleidung durch einen Kirchengang und feuern aus riesigen magischen Kanonen Seifenblasen, die als blau-rote Energiekugeln explodieren; das Publikum ist vor Staunen erstarrt. Jubelnde, epische Stimmung.
+
+Dies ist Exemplar 2 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Foto 1 gibt die Stimmung, Foto 2 die Seifenblasen-Pistole als Vorlage.
+Die ersten 2 Bilder sind Charakterblätter (Paul, Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Zur Trauung zogen Paul und Johann ein: mit lauter Musik, riesigen Seifenblasenkanonen und null Gnade fürs Publikum."
+"2026-11-02 21:34";"Slickshot Show-Off_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Johann.png | Fotos/Nachlieferung/Johann_im_Sprung_3.png";"452";"2432";"1372";"0,0629";"Johann im Sprung von einer hohen Mittelmeerklippe, in perfekter Pose, mit Flammenspur wie ein Phönix; unten türkisblaues Wasser, oben jubelnde Freunde als kleine Figuren.
+V1–V4: Klippe jedes Mal höher, V4 Wolken unter ihm.
+
+Dies ist Variante V1 von 4.
+Körperhaltung aus dem Foto übernehmen. Sportlicher, sicherer Urlaubs-Klippensprung ins tiefe Wasser: fröhlich, lachend, Freunde jubeln – Abenteuer und Spaß, keine Gefahr.
+Die ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Der Felsen da ist doch nicht hoch.“ — Johann"
+"2026-11-02 21:36";"Earthbender Ascension_2_versuch2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Paul.png";"447";"1536";"1372";"0,0557";"Ein magischer Turm, der aus der Erde wächst, mit vier leuchtenden Stockwerken (SEO-Schriftrollen, Vertriebskarte, Werbe-Feuerwerk, Schatzkammer ganz oben). Im Vordergrund steht die jeweilige Person vor dem Wahrzeichen ihrer Stadt, kein Text.
+V1 Hermann vor dem Aachener Dom · V2 Paul vor dem Völkerschlachtdenkmal in Leipzig · V3 Robin vor der Münchner Frauenkirche · V4 Johann vor dem JenTower in Jena, kommt gerade erst den Weg herauf.
+
+Dies ist Variante V2 von 4.
+Pro Bild nur diese eine Person, Gesicht und Frisur exakt wie auf dem Charakterblatt.
+Die ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „War eh meine Idee.“ — Paul"
+"2026-11-02 21:37";"Multiversal Passage_1_versuch2.png";"gpt-image-2.5-sunburst";"high";"Fotos/Themen/Arbeit-Projekte/Johann__IMG-20210902-WA0005.jpg";"438";"1505";"1372";"0,0554";"Ein magisches Portal aus fünf ineinander verschlungenen Leuchtringen, durch das man fünf verschiedene Welten sieht (Garten, Meer, Berge, Stadt, Schatzkammer). Keine Schrift, kein Logo.
+
+Dies ist Exemplar 1 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Neue Idee: Das Portal wächst aus der Tasse auf dem Foto. Vom Foto nur die Tasse übernehmen: keine Personen, keine Hände, keine Logos oder Dateisymbole. Ein Schriftzug darf höchstens als goldene, unlesbare Gravur angedeutet sein.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Ein Chat für alles: Aktien, Kaffee, Rennräder, Kinderfotos und die nächste große Idee."
+"2026-11-02 21:38";"Multiversal Passage_2_versuch2.png";"gpt-image-2.5-sunburst";"high";"Fotos/Themen/Arbeit-Projekte/Johann__IMG-20210902-WA0005.jpg";"430";"1505";"1372";"0,0554";"Ein magisches Portal aus fünf ineinander verschlungenen Leuchtringen, durch das man fünf verschiedene Welten sieht (Garten, Meer, Berge, Stadt, Schatzkammer). Keine Schrift, kein Logo.
+
+Dies ist Exemplar 2 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Neue Idee: Das Portal wächst aus der Tasse auf dem Foto. Vom Foto nur die Tasse übernehmen: keine Personen, keine Hände, keine Logos oder Dateisymbole. Ein Schriftzug darf höchstens als goldene, unlesbare Gravur angedeutet sein.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): 247 ungelesene Nachrichten. Drei davon sind PDFs von Robin."
+"2026-11-02 21:38";"Icetill Explorer_3_versuch2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Johann.png | Fotos/Themen/Haus-Garten-Koi/Hermann-Johann__IMG-20260717-WA0014.jpg";"450";"2832";"1372";"0,0661";"Johann als zäher Abenteurer mit Werkzeuggürtel, der ein halb verfallenes, mit Efeu bewachsenes Haus mit grüner Erdmagie wieder aufrichtet; Steine schweben zurück an ihren Platz. Im Garten im Hintergrund: Koi-Teich und Pool.
+V1–V4: Dach, Wände, Teich, Sauna.
+
+Dies ist Variante V3 von 4.
+Den Koi-Teich vom Foto als Vorlage. Im Bild ist nur Johann, keine weiteren Personen.
+Die ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Erst das Haus retten? Nein, erst den Koi-Teich. Prioritäten."
+"2026-11-02 21:40";"Multiversal Passage_2_versuch3.png";"gpt-image-2.5-sunburst";"high";"Fotos/Themen/Arbeit-Projekte/Johann__IMG-20210902-WA0005.jpg";"462";"1505";"1372";"0,0555";"Ein magisches Portal aus fünf ineinander verschlungenen Leuchtringen, durch das man fünf verschiedene Welten sieht (Garten, Meer, Berge, Stadt, Schatzkammer). Keine Schrift, kein Logo.
+
+Dies ist Exemplar 2 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Die PDFs im Spruch nur als fliegende Pergamentrollen mit rotem Wachssiegel zeigen, auf keinen Fall Datei- oder App-Symbole.
+Neue Idee: Das Portal wächst aus der Tasse auf dem Foto. Vom Foto nur die Tasse übernehmen: keine Personen, keine Hände, keine Logos oder Dateisymbole. Ein Schriftzug darf höchstens als goldene, unlesbare Gravur angedeutet sein.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): 247 ungelesene Nachrichten. Drei davon sind PDFs von Robin."
+"2026-11-02 21:40";"Icetill Explorer_3_versuch3.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Johann.png";"446";"1536";"1372";"0,0557";"Johann als zäher Abenteurer mit Werkzeuggürtel, der ein halb verfallenes, mit Efeu bewachsenes Haus mit grüner Erdmagie wieder aufrichtet; Steine schweben zurück an ihren Platz. Im Garten im Hintergrund: Koi-Teich und Pool.
+V1–V4: Dach, Wände, Teich, Sauna.
+
+Dies ist Variante V3 von 4.
+Johann repariert mit Erdmagie die Steinumrandung eines Koi-Teichs mit orange-weißen Kois und Seerosen. Im Bild ist nur Johann, keine weiteren Personen.
+Die ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Erst das Haus retten? Nein, erst den Koi-Teich. Prioritäten."
+"2026-11-02 21:51";"Earthbender Ascension_4_versuch2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Johann.png | Bilder/Earthbender Ascension_4.png";"558";"3072";"1372";"0,0685";"Ein magischer Turm, der aus der Erde wächst, mit vier leuchtenden Stockwerken (SEO-Schriftrollen, Vertriebskarte, Werbe-Feuerwerk, Schatzkammer ganz oben). Im Vordergrund steht die jeweilige Person vor dem Wahrzeichen ihrer Stadt, kein Text.
+V1 Hermann vor dem Aachener Dom · V2 Paul vor dem Völkerschlachtdenkmal in Leipzig · V3 Robin vor der Münchner Frauenkirche · V4 Johann vor dem JenTower in Jena, kommt gerade erst den Weg herauf.
+
+Dies ist Variante V4 von 4.
+Johann mit seinem markanten Schnurrbart, genau wie auf dem Charakterblatt – nicht Robin. Kopf und Körper zeigen in dieselbe Richtung: Er steigt den Weg zum Turm hinauf und schaut dabei nach vorn, natürliche Haltung, kein verdrehter Kopf.
+Pro Bild nur diese eine Person, Gesicht und Frisur exakt wie auf dem Charakterblatt.
+Die ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Ich komm später dazu.“ — Johann
+Das letzte Bild ist die bisherige Fassung: Komposition, Turm, JenTower, Rucksack, Stab und Licht genau so übernehmen. Nur die Person durch Johann ersetzen und den Kopf passend zur Körperrichtung drehen."
+"2026-11-02 21:51";"Ba Sing Se_1_versuch2.png";"gpt-image-2.5-sunburst";"high";"Fotos/Themen/Haus-Garten-Koi/IMG-20260717-WA0016.jpg";"460";"1296";"1372";"0,0538";"Ein großes, leicht baufälliges Haus als Festung in einer grünen Landschaft, mit Gerüst, Koi-Teich, Pool und dampfender Sauna; aus dem Boden steigen Erdmauern, die es stützen. Keine Personen.
+
+Dies ist Exemplar 1 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Den Koi-Teich vom Foto als Vorlage. Gewaltige Erdmauern brechen aus dem Boden und richten sich um das Haus auf, Staub und Steinbrocken fliegen.
+Aufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Die Mauern stehen. Meistens.“ — Johann"
+"2026-11-02 21:52";"Ba Sing Se_2_versuch2.png";"gpt-image-2.5-sunburst";"high";"";"434";"0";"1372";"0,0433";"Ein großes, leicht baufälliges Haus als Festung in einer grünen Landschaft, mit Gerüst, Koi-Teich, Pool und dampfender Sauna; aus dem Boden steigen Erdmauern, die es stützen. Keine Personen.
+
+Dies ist Exemplar 2 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Sturm: Regen peitscht, Blitze zucken, aber magische Erdpfeiler stützen das wankende Haus samt Gerüst. Dramatische Untersicht.
+Aufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Gekauft als Traumhaus. Renoviert als Lebenswerk."
+"2026-11-02 21:53";"Ba Sing Se_3_versuch2.png";"gpt-image-2.5-sunburst";"high";"";"441";"0";"1372";"0,0434";"Ein großes, leicht baufälliges Haus als Festung in einer grünen Landschaft, mit Gerüst, Koi-Teich, Pool und dampfender Sauna; aus dem Boden steigen Erdmauern, die es stützen. Keine Personen.
+
+Dies ist Exemplar 3 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Nacht: Die Sauna dampft, der Pool leuchtet, die Festungsmauern glühen grün vor Erdmagie, eine Sternschnuppe zieht über das Dach. Weiter Blick von der Seite.
+Aufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Koi-Teich, Pool, Sauna. Dach folgt."
+"2026-11-02 21:53";"Elven Passage_1_versuch2.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Mallorca-JGA/IMG-20250602-WA0001.jpg";"442";"1452";"1372";"0,055";"Ein magisches Luftschiff-Terminal an einer Mittelmeerküste, ein Luftschiff hebt in Richtung untergehender Sonne ab. Keine Personen.
+
+Dies ist Exemplar 1 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Das Foto (Sonnenuntergang am Hotel) ist Vorlage für die Stimmung. Rush-Hour am Terminal: viele Luftschiffe starten gleichzeitig, Wimpel knattern im Wind, Mövenschwärme.
+Aufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Mit Schnurrbart hin, mit Sonnenbrand zurück."
+"2026-11-02 21:54";"Elven Passage_2_versuch2.png";"gpt-image-2.5-sunburst";"high";"";"409";"0";"1372";"0,0432";"Ein magisches Luftschiff-Terminal an einer Mittelmeerküste, ein Luftschiff hebt in Richtung untergehender Sonne ab. Keine Personen.
+
+Dies ist Exemplar 2 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Eine dunkle Gewitterfront zieht über die Bucht von Palma, ein Luftschiff kämpft sich mit flatternden Segeln durch Böen und Blitze.
+Aufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Was auf Mallorca passiert, bleibt in der WhatsApp-Gruppe."
+"2026-11-02 21:54";"Elven Passage_3_versuch2.png";"gpt-image-2.5-sunburst";"high";"";"411";"0";"1372";"0,0432";"Ein magisches Luftschiff-Terminal an einer Mittelmeerküste, ein Luftschiff hebt in Richtung untergehender Sonne ab. Keine Personen.
+
+Dies ist Exemplar 3 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Nacht: Feuerwerk über der Kathedrale von Palma, ein Luftschiff hebt mit einem Schwarm leuchtender Laternen ab. Blick von oben auf das Terminal.
+Aufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Rückflug: ein Leben weniger, aber jede Menge Geschichten."
+"2026-11-02 21:55";"Escape Tunnel_1_versuch2.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Garten-Jena/333A6404.jpg";"455";"1296";"1372";"0,0538";"Ein verwunschener Pfad durch einen Garten, der in einem Tunnel aus Ranken zu einem leuchtend blauen Pool führt. Abendlicht, Glühwürmchen. Keine Personen.
+
+Dies ist Exemplar 1 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Der Pool mit dem Einhorn vom Foto als Vorlage. Am Ende des Rankentunnels spritzt eine riesige Wasserfontäne aus dem Pool, als wäre gerade jemand hineingesprungen (die Person selbst ist nicht zu sehen).
+Aufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Wer zuerst springt, kriegt das Einhorn.“"
+"2026-11-02 21:56";"Escape Tunnel_2_versuch2.png";"gpt-image-2.5-sunburst";"high";"";"432";"0";"1372";"0,0433";"Ein verwunschener Pfad durch einen Garten, der in einem Tunnel aus Ranken zu einem leuchtend blauen Pool führt. Abendlicht, Glühwürmchen. Keine Personen.
+
+Dies ist Exemplar 2 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Nacht: Der Pool leuchtet magisch türkis, das aufblasbare Einhorn ist lebendig geworden und galoppiert über das Wasser, Glühwürmchen-Schwärme wirbeln durch den Tunnel.
+Aufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Der kürzeste Weg vom Grill ins Wasser. Ungeblockt."
+"2026-11-02 21:56";"Riverpyre Verge_1_versuch2.png";"gpt-image-2.5-sunburst";"high";"Fotos/Themen/Saaleufer__IMG_20180808_125351-EFFECTS.jpg";"453";"1296";"1372";"0,0538";"Fluss bei Nacht, am Ufer ein Lagerfeuer, Lichter einer kleinen Stadt im Hintergrund, Wasser und Feuer spiegeln sich. Keine Personen.
+
+Dies ist Exemplar 1 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Das Foto (Fluss unter einer Steinbrücke) ist Vorlage für die Landschaft. Nacht: Das Lagerfeuer lodert hoch, ein Funkenwirbel stiebt über den Fluss und spiegelt sich im Wasser.
+Aufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.
+Die weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Die Saale fließt, das Feuer knistert, und irgendwer erzählt von Rendite."
+"2026-11-02 21:57";"Riverpyre Verge_2_versuch2.png";"gpt-image-2.5-sunburst";"high";"";"417";"0";"1372";"0,0432";"Fluss bei Nacht, am Ufer ein Lagerfeuer, Lichter einer kleinen Stadt im Hintergrund, Wasser und Feuer spiegeln sich. Keine Personen.
+
+Dies ist Exemplar 2 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Gewitter über der Saale: Ein Blitz schlägt in den Fluss, Gischt spritzt, am Ufer trotzt ein magisches Feuer dem peitschenden Regen. Blick flussabwärts.
+Aufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Jedes Jahr im August führen alle Wege nach Jena."
+"2026-11-02 21:58";"Riverpyre Verge_3_versuch2.png";"gpt-image-2.5-sunburst";"high";"";"427";"0";"1372";"0,0433";"Fluss bei Nacht, am Ufer ein Lagerfeuer, Lichter einer kleinen Stadt im Hintergrund, Wasser und Feuer spiegeln sich. Keine Personen.
+
+Dies ist Exemplar 3 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Sommerfest-Nacht: Feuerwerk über den Lichtern von Jena, die Saale führt Hochwasser und reißt Laternenboote mit, Flammen tanzen auf dem Wasser. Weitwinkel von oben.
+Aufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Wasser und Feuer passen nicht zusammen?“ — Hermann, mit einem flambierten Cocktail"
+"2026-11-02 21:58";"Riverpyre Verge_4_versuch2.png";"gpt-image-2.5-sunburst";"high";"";"423";"0";"1372";"0,0433";"Fluss bei Nacht, am Ufer ein Lagerfeuer, Lichter einer kleinen Stadt im Hintergrund, Wasser und Feuer spiegeln sich. Keine Personen.
+
+Dies ist Exemplar 4 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Winter: Eisschollen treiben auf der Saale, ein Feuer am Ufer bringt das Eis zum Zischen, Dampfwirbel steigen auf, grünes Polarlicht am Himmel. Tiefe Perspektive knapp über dem Wasser.
+Aufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Am Ufer ist es still. Bis die fünf ankommen."
+"2026-11-02 21:59";"Spirebluff Canal_1_versuch2.png";"gpt-image-2.5-sunburst";"high";"";"416";"0";"1372";"0,0432";"Steile Felsküste an der Adria mit türkisem Wasser und einer Werkstatt-Halle aus Glas auf der Klippe. Keine Personen.
+
+Dies ist Exemplar 1 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Sturm: Riesige Brandungswellen peitschen gegen die Klippe, Blitze über dem Meer, die Glas-Werkstatthalle leuchtet trotzig.
+Aufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Morgens Prototypen, abends Adria. Max nennt das Work-Life-Balance."
+"2026-11-02 21:59";"Spirebluff Canal_2_versuch2.png";"gpt-image-2.5-sunburst";"high";"";"424";"0";"1372";"0,0433";"Steile Felsküste an der Adria mit türkisem Wasser und einer Werkstatt-Halle aus Glas auf der Klippe. Keine Personen.
+
+Dies ist Exemplar 2 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Feierabend im Sonnenuntergang: Ein magisches Hypercar-Gefährt aus Messing (ohne Logo) rast die kurvige Küstenstraße entlang, Funken und Lichtspuren hinter sich.
+Aufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Feierabend heißt hier: Schraubenschlüssel weg, Füße ins Meer.“ — Max"
+"2026-11-02 22:00";"Spirebluff Canal_3_versuch2.png";"gpt-image-2.5-sunburst";"high";"";"414";"0";"1372";"0,0432";"Steile Felsküste an der Adria mit türkisem Wasser und einer Werkstatt-Halle aus Glas auf der Klippe. Keine Personen.
+
+Dies ist Exemplar 3 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Früher Morgen: Ein Luftschiff landet an der Klippe, Möwenschwärme stieben auf, Gischt glitzert im ersten Sonnenlicht. Blick vom Meer aus nach oben.
+Aufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Wer früh kommt, kriegt den Parkplatz direkt am Wasser."
+"2026-11-02 22:00";"Spirebluff Canal_4_versuch2.png";"gpt-image-2.5-sunburst";"high";"";"415";"0";"1372";"0,0432";"Steile Felsküste an der Adria mit türkisem Wasser und einer Werkstatt-Halle aus Glas auf der Klippe. Keine Personen.
+
+Dies ist Exemplar 4 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Nacht: Biolumineszente Leuchtquallen und ein magischer Meeresstrudel unter der Klippe, die Glashalle strahlt, Feuerwerk über der Bucht.
+Aufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Türkis wie im Prospekt, nur mit mehr Ingenieuren."
+"2026-11-02 22:01";"Steam Vents_1_versuch2.png";"gpt-image-2.5-sunburst";"high";"";"415";"0";"1372";"0,0432";"Eine Holzsauna am Rand eines Gartens mit dampfenden Vulkanquellen ringsum, Dampfschwaden steigen in den Sternenhimmel. Keine Personen.
+
+Dies ist Exemplar 1 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Hinter der Sauna bricht ein Vulkan aus, Lavaströme glühen, Dampfgeysire schießen hoch. Die Sauna steht trotzig im Vordergrund.
+Aufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Zwei Leben für einen Aufguss. Johann findet das fair."
+"2026-11-02 22:02";"Steam Vents_2_versuch2.png";"gpt-image-2.5-sunburst";"high";"";"425";"0";"1372";"0,0433";"Eine Holzsauna am Rand eines Gartens mit dampfenden Vulkanquellen ringsum, Dampfschwaden steigen in den Sternenhimmel. Keine Personen.
+
+Dies ist Exemplar 2 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Schneesturm in der Nacht: Die Sauna glüht warm, direkt daneben schießt ein mächtiger Geysir in den Sternenhimmel, Schneeflocken verdampfen in der Luft.
+Aufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Noch einen Aufguss? Ich mach Eukalyptus.“ — Johann"
+"2026-11-02 22:02";"Steam Vents_3_versuch2.png";"gpt-image-2.5-sunburst";"high";"";"430";"0";"1372";"0,0433";"Eine Holzsauna am Rand eines Gartens mit dampfenden Vulkanquellen ringsum, Dampfschwaden steigen in den Sternenhimmel. Keine Personen.
+
+Dies ist Exemplar 3 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Aufguss-Explosion: Eine gewaltige Dampfwolke sprengt die Saunatür auf, Eukalyptus-Dampfgeister wirbeln heraus; im Pool davor schauen orange-weiße Kois pikiert aus dem Wasser.
+Aufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Danach in den Pool. Die Koi schauen pikiert."
+"2026-11-02 22:03";"Steam Vents_4_versuch2.png";"gpt-image-2.5-sunburst";"high";"";"418";"0";"1372";"0,0433";"Eine Holzsauna am Rand eines Gartens mit dampfenden Vulkanquellen ringsum, Dampfschwaden steigen in den Sternenhimmel. Keine Personen.
+
+Dies ist Exemplar 4 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.
+Gewitter über einem Vulkankrater: Die Sauna steht auf einem Felsvorsprung am Kraterrand, Blitze und Lavafontänen ringsum. Dramatische Untersicht.
+Aufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Hier drin ist sogar mein Glas halb voll.“ — Johann"
+"2026-11-02 22:51";"Impractical Joke_2.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Robin.png | Fotos/Themen/YouTube-Verkleidung/Robin__IMG-20191029-WA0007.jpg";"450";"2832";"1372";"0,0661";"Robin als grinsender Hofnarr-Magier mit Joker-Schminke (Gesicht weiß, roter Mund, blaue Rauten um die Augen, grünes Haar), angelehnt an das zweite Foto. Er wirft eine Karte, die in einem Wirbel aus roten Funken explodiert; im Hintergrund eine düstere Bühne mit einer alten Videokamera, die wie ein magisches Auge leuchtet (Anspielung auf seinen früheren YouTube-Kanal). Verspielt-bedrohlich, nicht gruselig.
+Das erste Bild ist Robins Charakterblatt: Gesichtszüge unter der Schminke exakt so übernehmen. Das zweite Foto ist Vorlage für die Verkleidung.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Warum so ernst? Das Video hat schon 37 Aufrufe!“ — Robin, YouTube-Ära"
+"2026-11-02 22:52";"Stock Up_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Robin.png";"393";"1536";"1372";"0,0554";"Robin in einer Schatzkammer, ruhig und zufrieden, legt Münze für Münze auf einen ordentlichen, stetig wachsenden Stapel. Ein magisches Uhrwerk tickt im Hintergrund. Blau-goldenes Licht, Gelassenheit statt Gier.
+Vor ihm schweben fünf leuchtende Schatzkarten: zwei zieht er zu sich, drei gleiten sanft zurück in ein Regal.
+Das erste Bild ist Robins Charakterblatt: Gesicht exakt so übernehmen.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Fünf angeschaut, zwei gekauft, der Rest kommt zurück auf die Watchlist. Nächsten Monat genauso."
+"2026-11-03 11:33";"Forest_8_versuch2.png";"gpt-image-2.5-sunburst";"high";"Bilder/Forest_8.png (erweitert, Skala 0.9)";"118";"1536";"1372";"0,054";"Erweitere dieses GemÃ¤lde nahtlos in die transparenten Bereiche oben und an den Seiten. Szene: verzauberter Garten in Jena: mehr BlÃ¤tterdach, Laternen und Lichtstimmung. Gleicher Malstil, gleiches Licht, gleiche Farben, ÃœbergÃ¤nge unsichtbar. Der vorhandene Bildinhalt bleibt exakt so, wie er ist. Keine zusÃ¤tzlichen Personen, keine Gesichter, kein Text, keine Logos."
+"2026-11-03 11:33";"Forest_9_versuch2.png";"gpt-image-2.5-sunburst";"high";"Bilder/Forest_9.png (erweitert, Skala 0.9)";"118";"1536";"1372";"0,054";"Erweitere dieses GemÃ¤lde nahtlos in die transparenten Bereiche oben und an den Seiten. Szene: verzauberter Garten in Jena: mehr BlÃ¤tterdach, Laternen und Lichtstimmung. Gleicher Malstil, gleiches Licht, gleiche Farben, ÃœbergÃ¤nge unsichtbar. Der vorhandene Bildinhalt bleibt exakt so, wie er ist. Keine zusÃ¤tzlichen Personen, keine Gesichter, kein Text, keine Logos."
+"2026-11-03 11:34";"Forest_11_versuch2.png";"gpt-image-2.5-sunburst";"high";"Bilder/Forest_11.png (erweitert, Skala 0.9)";"118";"1536";"1372";"0,054";"Erweitere dieses GemÃ¤lde nahtlos in die transparenten Bereiche oben und an den Seiten. Szene: verzauberter Garten in Jena: mehr BlÃ¤tterdach, Laternen und Lichtstimmung. Gleicher Malstil, gleiches Licht, gleiche Farben, ÃœbergÃ¤nge unsichtbar. Der vorhandene Bildinhalt bleibt exakt so, wie er ist. Keine zusÃ¤tzlichen Personen, keine Gesichter, kein Text, keine Logos."
+"2026-11-03 11:52";"Token_Windschatten_1.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Alpen-Rennrad/IMG-20260425-WA0016.jpg";"462";"1452";"1756";"0,0666";"Ein riesiges, freundliches Baumwesen aus knorrigem Holz und Moos (groß, mit langen astartigen Armen) stapft eine sonnige Alpen-Passstraße mit Serpentinen hinauf. Dicht hinter ihm fahren die beiden Rennradfahrer vom Foto mit Helm und Sonnenbrille im Windschatten und grinsen. Gesichter exakt wie auf dem Foto übernehmen, Rennräder und Trikots wie auf dem Foto, nur in die Fantasy-Welt übersetzt. Hintergrund: schroffe Dolomiten-Gipfel, blauer Himmel, Lärchen. Das Baumwesen hält einen Ast schützend gegen den Wind, Blätter wirbeln an ihm vorbei. Fröhlich, sportlich, leicht augenzwinkernd. Quadratisches Bild, Baumwesen und beide Fahrer vollständig im mittleren Bereich, mindestens 10 % Abstand zum Rand.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Im Windschatten wächst die Rendite."
+"2026-11-03 11:53";"Token_Windschatten_2.png";"gpt-image-2.5-sunburst";"high";"Fotos/Gruppe/Alpen-Rennrad/IMG-20210516-WA0009.jpg";"449";"1452";"1756";"0,0665";"Ein riesiges, freundliches Baumwesen aus knorrigem Holz und Moos steht am Rand einer steilen Alpen-Passstraße wie eine lebende Verpflegungsstation. Mit einem extrem langen Ast-Arm reicht es dem Rennradfahrer vom Foto im Vorbeifahren eine Trinkflasche; der Fahrer greift lachend zu und winkt mit der anderen Hand wie auf dem Foto. Gesicht exakt wie auf dem Foto übernehmen, Helm und Rennrad wie auf dem Foto, in die Fantasy-Welt übersetzt. Hintergrund: Almwiesen, Kuhglocken-Idylle, schneebedeckte Gipfel, Passhöhe mit kleinem Steinmännchen. Sommerlicht, heiter. Quadratisches Bild, Fahrer und Baumwesen vollständig im mittleren Bereich, mindestens 10 % Abstand zum Rand.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Verpflegung mit Reichweite."
+"2026-11-03 11:54";"Token_Erdbaendigen_1.png";"gpt-image-2.5-sunburst";"high";"Bilder/_Charakterblatt_Paul.png | Fotos/Gruppe/Alpen-Rennrad/Paul__IMG-20260606-WA0021.jpg";"468";"2988";"1756";"0,0789";"Paul steht auf der Passhöhe einer Alpenstraße und reißt triumphierend beide Arme hoch wie auf dem zweiten Foto, sein Rennrad lehnt an der Leitplanke. Unter und hinter ihm erwacht der Berg zum Leben: Die Felswand und ein Stück der Serpentinenstraße erheben sich als gewaltiger, gutmütiger Steinriese mit Moos, Geröll und einem Straßenstück auf der Schulter, und jubelt mit Paul zusammen. Dolomiten-Zacken, dramatische Wolken, goldenes Licht. Episch und komisch zugleich. Quadratisches Bild, Paul und das Gesicht des Steinriesen vollständig im mittleren Bereich, mindestens 10 % Abstand zum Rand.
+Das erste Bild ist Pauls Charakterblatt: Gesicht exakt so übernehmen. Das zweite Foto ist Vorlage für Pose, Kleidung und Ort.
+Das Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Oben angekommen. Jetzt steht auch der Berg auf.“ — Paul"

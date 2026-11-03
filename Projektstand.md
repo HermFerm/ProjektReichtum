@@ -84,12 +84,12 @@ Synergie: Eddymurk Crab ist selbst ein Elementarwesen mit Manawert 7. Liegt sie 
 - 4 Llanowar Elves
 - 4 Sazh's Chocobo
 - 4 Carnivorous Cultivator
-- 2 Keen-Eyed Curator
+- 1 Keen-Eyed Curator
 - 3 Mossborn Hydra
 - 4 Icetill Explorer
 - 4 Mightform Harmonizer
 - 3 Esper Origins
-- 1 Lumbering Worldwagon
+- 2 Sapling Nursery (seit 02.11. im Hauptdeck, wie 77 % der Turnierlisten)
 - 1 Meltstrider's Resolve
 - 4 Earthbender Ascension
 - 3 Ba Sing Se
@@ -106,7 +106,8 @@ Synergie: Eddymurk Crab ist selbst ein Elementarwesen mit Manawert 7. Liegt sie 
 - 2 Torpor Orb (schaltet die Effekte von Crab und Sunderflock beim Ins-Spiel-Kommen ab)
 - 2 Hard-Hitting Question
 - 1 Mossborn Hydra
-- 2 Sapling Nursery
+- 1 Keen-Eyed Curator (verbannt Karten aus Friedhöfen, bremst Crab, Hearth Elemental und Rückkehr-Zauber)
+- 1 Lumbering Worldwagon
 
 **Kontrolle:**
 - 42 + 18 + 18 + 60 + 12 = **150**
@@ -114,7 +115,7 @@ Synergie: Eddymurk Crab ist selbst ein Elementarwesen mit Manawert 7. Liegt sie 
 - Keine Karte kommt öfter als 4-mal vor (auch nicht zusammen mit dem Sideboard).
 - Alle Karten sind Standard-legal (Scryfall-Abfrage vom 30.10.2026).
 
-**Offener Punkt:** Die Anzahlen sind aus Durchschnittswerten gerundet (244 Prowess-Listen und 586 Landfall-Listen der letzten 90 Tage). Die exakten Turnierlisten waren nicht abrufbar. **Vor dem Druck** gleichen wir mit je einer aktuellen 5-0-Liste ab.
+~~**Offener Punkt:** Abgleich mit aktuellen 5-0-Listen vor dem Druck.~~ **Erledigt 02.11.**, siehe `Deckabgleich.md`. Umgesetzt ist Option B, Option A ist verworfen.
 
 ## Türchenplan (Entwurf)
 
@@ -126,6 +127,7 @@ Kalender 2026: Der 1.12. ist ein Dienstag, der 24.12. ein Donnerstag.
 | 2–16 | 02.–16.12. | 15 Booster (11 × 7 + 4 × 6), Prowess und Landfall gemischt (etwa 4 Izzet- und 3 grüne Karten) | 101 |
 | 17 | Do 17.12. | Bau-Sheet Duell 1 (Prowess gegen Landfall) und Hüllen → Spielwochenende am 19./20.12. | – |
 | 18, 19, 21, 22 | | 4 Booster à 6: Spellementals-Modul und Landfall-Sideboard | 24 |
+| (6) | So 06.12. | Nikolaus: Booster „Robins Stiefel“ mit nur Robin-Karten (Teil der 15 Booster) | (7) |
 | 20 | So 20.12. | Kleinigkeit: personalisierte Spielmarken | – |
 | 23 | Mi 23.12. | Kleinigkeit 2 (offen) | – |
 | 24 | Do 24.12. | Letzter Booster (mit dem letzten Sunderflock), Bau-Sheet mit allen 4 Varianten und Umbau-Anleitung fürs Sideboard | 6 |
@@ -246,6 +248,193 @@ Quelle: `Vorlagen/Beschreibung der Gang.docx`. Die Zuordnung jeder Karte steht i
   - *Impractical Joke* Exemplar 2 wird „Robins Joker“.
   - *Meltstrider's Resolve* V4 wird „John Wolv“.
 - Nächster Schritt: Hermann erzeugt die Bilder in ChatGPT. Parallel kann Claude die Flavortexte schreiben.
+
+**Update 02.11.2026:**
+
+- `Flavortexte.md` ist als erster Entwurf fertig: 131 Texte, eins pro Exemplar, die Grundländer bleiben ohne Flavortext. Die Nummern passen zu den Bildvarianten V1–V4. Für jede Karte gibt es ein Zeichenbudget, abgeleitet aus der Länge des Oracle-Texts, und alle Texte halten es ein.
+- Hermann hat geprüft: Erfundene Details bleiben. Das Helge-Zitat ist „Richtig, richtig, Popichtig.“ Max' Abschied aus Kroatien wird nicht erwähnt.
+- **Entschieden:** Der Regeltext bleibt **englisch** (exakt Scryfall), der Flavortext ist deutsch.
+- **Planungstabelle fertig:** `Planungstabelle.csv` mit den Spalten Tür, Datum, Karte, Exemplar, Flavorname, Person, Insider, Flavortext, Farbe, Gruppe, Deck und Bilddatei, für alle 150 Karten. Dazu kommt `Tuerchenplan.md` als Übersicht pro Tür.
+  - Beides erzeugt `Werkzeuge/Planungstabelle.ps1` aus `Kartenpool.csv`, `Flavortexte.md` und `Bildauftraege.md`. Wer einen Text ändert, startet das Skript neu. Die Ausgabedateien werden nicht von Hand geändert.
+  - Die Exemplare einer Karte sind gleichmäßig über den Monat verteilt. Die Exemplarnummer (= Bildvariante V1–V4) steigt mit der Tür.
+  - Tür 2–16 haben 3–4 Izzet-Karten und 3–4 grüne Karten. Tür 3, 8, 10 und 15 haben 6 Karten, die übrigen 7.
+  - **Besondere Tage** (fest gesetzt, Liste `$fixes` im Skript):
+    - **Tür 6, Nikolaus – „Robins Stiefel“:** nur Robin-Karten: Zinseszins, Siebträger, ETF-Sparplan, Rendite-PDF, Arena Runde 100, Robins Joker und das einzige Stock Up.
+    - **Tür 24, Heiligabend – „Alle zusammen“:** Luftschloss V4 (Freunde schauen zu), Lagerfeuer, Winter-Themencocktail, kesse Sohle, Oktoberfest mit Vicky, „John Wolv“ mit Robin.
+  - **Abwechslung:** Das Skript vermeidet, dass dieselben Karten in mehreren Türen zusammen liegen. In Tür 2–16 teilen sich zwei Türen höchstens 3 Karten, und das nur bei einem einzigen Paar. In Tür 18–24 sind Wiederholungen nicht zu vermeiden: 30 Karten auf 5 Türen.
+  - Das Skript prüft automatisch: 150 Karten, die Kartenzahl pro Tür, höchstens 1 gleiche Karte pro Tür, höchstens 4 Exemplare pro Karte, jeder Flavortext gehört zu einem Exemplar, Duell 1 ist bis Tür 16 komplett.
+- **Bild-API läuft (Test mit Hermann):** `Werkzeuge/Bildgenerator.ps1` schickt Aufträge aus einer JSON-Datei an die OpenAI-API (`/v1/images/edits`).
+  - Beispiel für eine Auftragsdatei: `Werkzeuge/Bildauftraege/Hermann-Test.json`.
+  - Modell `gpt-image-2.5-sunburst`, Qualität `high`. Das ist das Modell für präzise Bearbeitung, damit die Gesichter wie auf den Referenzfotos aussehen.
+  - Kosten: etwa **0,07 $ pro Bild**, rund 40 s. Alle 150 Bilder kosten damit etwa 10–12 $, ohne Nachbesserungen.
+  - Der Stilblock aus `Bildprompts.md` wird automatisch vorangestellt. Die Fotos werden vor dem Hochladen auf 1536 px verkleinert.
+  - Vorhandene Bilder werden nie überschrieben, ein neuer Versuch heißt `_versuch2`. Jeder Aufruf landet mit Tokens und Kosten in `Bilder/_Protokoll.csv`.
+  - Erzeugt: `_Charakterblatt_Hermann.png`, `Sunderflock_1.png`, `Eddymurk Crab_1.png`. Der Stil passt zu Robins ChatGPT-Bildern.
+  - Der Key steht als `OPEN_API_KEY` in den Benutzervariablen (Tippfehler, ohne „AI“). Das Skript akzeptiert beide Namen.
+  - **Alle Aufträge:** `Werkzeuge/Bildauftraege-erzeugen.ps1` erzeugt aus `Bildprompts.md`, `Planungstabelle.csv` und der Foto-Zuordnung (wie in `Bildauftraege.md`) die Dateien `Werkzeuge/Bildauftraege/<Chat>.json`. Es gibt die Chats Hermann, Paul, Johann, Max, Gruppe und Länder, zusammen 132 Aufträge inklusive 4 Charakterblättern.
+    - Robins Karten erzeugt Hermann selbst in ChatGPT.
+    - In jeden Prompt kommen: Varianten-Nummer, Hinweise pro Karte, Charakterblätter der beteiligten Personen und der Kartenspruch als Inspiration (ausdrücklich nicht ins Bild schreiben).
+    - Charakterblätter nur aus Fotos, auf denen eine einzige Person zu sehen ist.
+  - **Stilblock ergänzt:** Gesichter und wichtige Motive mindestens 10 % vom Bildrand entfernt.
+  - **Krabbe neu erzeugt** (`Eddymurk Crab_1_versuch2.png`): dünnere Staubschicht, Hermann weiter in der Mitte. Hermann wählt, welche Version bleibt.
+  - **Lauf vom 02.11. abends – fertig:** Alle 128 Bilder außerhalb von Robins Chat sind erzeugt. Gesamtkosten im Protokoll: etwa 8,8 $ inklusive Tests und Nachbesserungen.
+    - Es fehlen nur Robin-Karten aus ChatGPT: `Impractical Joke_2`, `Stock Up_1`, `Sapling Nursery_1/_2`.
+    - Klippenspringer V1 wurde vom Sicherheitsfilter blockiert (eingestuft als „self-harm“). Mit dem Hinweis „sportlicher Urlaubssprung“ ist es neu erzeugt.
+  - **Prüfung durch Claude, schon nachgebessert** (Neuversuche liegen neben dem Original, nichts gelöscht):
+    - `Earthbender Ascension_2_versuch2`: Im Original hatte Paul Locken statt Glatze, das Stimmungsfoto hatte gestört und ist jetzt entfernt.
+    - `Multiversal Passage_1_versuch2`, `_2_versuch3`: Das Original zeigte eine Person und PDF-Logos.
+    - `Icetill Explorer_3_versuch3`: Das Original zeigte drei Personen, das Teich-Foto ist jetzt entfernt.
+    - `Eddymurk Crab_1_versuch2`: dünnere Staubschicht.
+  - **Entscheidungen Hermann (02.11.):** Alle Gesichter passen. Robins Mutter darf gezeigt werden. Lagerfeuer und Puzzlebilder sind in Ordnung. Die neuen Versionen gelten, die alten liegen in `Bilder/_verworfen/`. Die Krabbe bleibt so.
+  - **Nachbesserung fertig:**
+    - `Earthbender Ascension_4`: jetzt Johann mit Schnurrbart, Kopf in Gehrichtung, gleiche Komposition.
+    - 20 Länder sind aufregender, jedes Exemplar mit eigenem Wetter und Ereignis. Die Originale liegen in `_verworfen/`.
+  - **Stand Bilder: alle 150 vorhanden.** Robins Joker und Stock Up wurden per API nachgeholt (`Werkzeuge/Bildauftraege/Robin-Nachtrag.json`). API-Kosten gesamt: etwa 9,80 $.
+  - ~~**Hermann muss noch prüfen:**~~ (erledigt, siehe oben)
+    1. Ob alle Gesichter passen.
+    2. Welche Version bleibt. Die Planungstabelle erwartet jeweils den Dateinamen ohne `_versuchN`.
+    3. Vollbild-Forests mit Frauen (`Forest_2`, `_4`, `_8`, `_9`, im Hintergrund auch `_6`): Erlaubt sind nur Vicky und Robins Eltern. Partnerinnen sonst nicht.
+    4. Frauen in `Hearth Elemental_1–4`: Ist das Vicky?
+    5. Die Puzzlebilder in `Esper Origins_1–3` zeigen Fotos: keine Kinder?
+    6. `Sazh's Chocobo_4` zeigt eine dritte Person.
+  - **Optional nachbessern:** `Eddymurk Crab_3/_4` (Hermann steht nah am Rand, Gefahr beim Zuschneiden). Wenig Abwechslung bei `Elven Passage_1–3`, `Riverpyre Verge_1–4`, `Steam Vents_1–4` und `Escape Tunnel_1/2`.
+
+**Update 02.11.2026, Deckabgleich:**
+
+- `Deckabgleich.md` vergleicht alle Varianten mit aktuellen MTGO-Listen (27.10.–02.11.). Ergebnis: Alle Varianten liegen nah am Meta, kein Umbau nötig. Alle 46 Karten sind weiterhin Standard-legal.
+- **Entschieden (Hermann, 02.11.):**
+  - A nicht umsetzen: Colorstorm Stallion bleibt im Hauptdeck von Spellementals.
+  - B umgesetzt: 2 Sapling Nursery ins Landfall-Hauptdeck, dafür 1 Keen-Eyed Curator und Lumbering Worldwagon ins Sideboard.
+  - `Kartenpool.csv`, Planungstabelle und Türchenplan sind neu erzeugt.
+  - Heiligabend bekommt statt Oktoberfest den Bugatti (alle fünf schieben an). Oktoberfest muss für Duell 1 bis Tür 16 im Kalender sein.
+
+**Update 03.11.2026, Kartensatz:**
+
+- **Werkzeug:** Magic Set Editor aus dem Full-Magic-Pack, abgelegt außerhalb des Repos unter `TCG/MagicSetEditor/`. Die Magic-Schriften (Beleren, MPlantin, Matrix) sind für den Benutzer installiert.
+- **ENTSCHIEDEN 03.11.:**
+  - Rahmen M15 Altered.
+  - Druck über eine Online-Kartendruckerei.
+  - Eigene Rückseite.
+- **Generator:** `Werkzeuge/MSE-Set-erzeugen.ps1` erzeugt `Karten/Projekt-Reichtum.mse-set` und `Karten/png/` (153 Karten).
+  - **Eingaben:** Planungstabelle, Bilder und Oracle-Texte von Scryfall (Cache in `Daten/scryfall.json`).
+  - **Kartenfelder:** Der Flavorname ist der Kartenname, der Oracle-Name steht als Alias-Leiste darunter. Regeltext englisch, Spruch deutsch.
+  - **Sonderfälle:**
+    - Abenteuer und prepared-Karten nutzen die Abenteuer-Vorlage.
+    - Esper Origins: Die Saga-Rückseite gibt es als 3 Beilegkarten im selben Türchen.
+    - Grundländer haben Vollbild.
+  - **Darstellung:** Kein Hologramm-Oval. Bei Kreaturen hält eine Leerzeile das Stärke-Feld frei. Der automatische Erinnerungstext ist aus.
+- **Set-Symbol:** `Werkzeuge/Set-Symbol-erzeugen.ps1` erzeugt eine Münze mit steigender Kurve. Die Farbe richtet sich nach der Seltenheit.
+- **Druckdaten:** `Werkzeuge/Druckdaten-erzeugen.ps1` erzeugt `Druck/vorderseiten/` und `Druck/Packliste.csv` mit der Zuordnung Karte → Türchen.
+  - Format: 822 × 1122 px bei 300 dpi, also 63,5 × 88,9 mm plus 3 mm schwarzer Beschnitt.
+- **Offen:**
+  1. Rückseite gestalten.
+  2. Fortschrittsleiste auf „Zur erfolgreichen Praxis“ (Earthbender Ascension, Entscheidung vom 30.10.): fehlt noch.
+  3. Druckerei wählen und Datenformat dort prüfen.
+  4. Spielmarken.
+
+## Stand zum Tagesende 03.11.2026 – hier morgen weitermachen
+
+**Fertig:**
+- Alle 150 Bilder sind erzeugt und abgenommen. Die verworfenen Versionen liegen in `Bilder/_verworfen/`.
+- Flavortexte, Planungstabelle und Türchenplan stehen. Nikolaus ist „Robins Stiefel“, Heiligabend „alle zusammen“ mit Bugatti.
+- Deckabgleich mit aktuellen 5-0-Listen ist erledigt: Option B ist umgesetzt, A verworfen.
+- Der Kartensatz ist in Magic Set Editor gesetzt: 153 Karten (150 und 3 Saga-Beilegkarten), alle durchgesehen.
+- Die Druckdaten liegen in `Druck/vorderseiten/`: 822 × 1122 px bei 300 dpi, 3 mm Beschnitt.
+  - Ecken außerhalb der Rundung sind schwarz.
+  - Bei den randlosen Grundländern ist der Beschnitt oben und seitlich gespiegelt.
+- `Druck/Packliste.csv` ordnet jede Karte ihrem Türchen zu.
+- Der Skill `grafikdesign` kann jetzt KI-Bilder: `ki_bild.ps1`, `kontaktbogen.ps1`, `references/ki_bilder.md`.
+
+**Neu erzeugen, wenn sich etwas ändert:**
+1. `Werkzeuge/Planungstabelle.ps1`, falls sich Pool, Sprüche oder Türen ändern.
+2. `Werkzeuge/MSE-Set-erzeugen.ps1`, Dauer etwa 5 Minuten.
+3. `Werkzeuge/Druckdaten-erzeugen.ps1`.
+
+**Als Nächstes:**
+1. **Rückseite** gestalten: 2–3 Entwürfe zeigen, z. B. Goldmünze/Set-Symbol, Schriftzug „Projekt Reichtum“, Ornament. Ausgabe im selben Format (822 × 1122 px, mit Beschnitt).
+2. **Fortschrittsleiste** auf „Zur erfolgreichen Praxis“ (Earthbender Ascension, 4 Exemplare): „Referenzen SEO → Vertrieb → Werbekampagne → REICHTUM!“. Vorschlag: eine schmale Leiste unten im Bildfeld, weil die Textbox voll ist. Umsetzen beim Bildzuschnitt in `MSE-Set-erzeugen.ps1`.
+3. **Druckerei** wählen, z. B. MakePlayingCards oder Printerstudio. Datenformat und Kartenkarton dort prüfen. **Spätestens um den 15.11. bestellen**, damit die Lieferung vor dem 01.12. ankommt.
+4. **Spielmarken** gestalten: 3/4-Baumwesen mit Reichweite, Stallion-Kopie, +1/+1-, Quest- und Erdbändigen-Marken.
+5. **Bau-Sheets** erstellen: Duell 1 in Tür 17, alle 4 Varianten mit Umbau-Anleitung in Tür 24. Dazu die Kleinigkeit 2 in Tür 23.
+6. **Prüfung vor dem Verschenken:** Oracle-Abgleich, Testspiel, Mischtest, Humor-Blindtest.
+
+**Hinweis:** Der OpenAI-API-Key ist nur 7 Tage gültig. Vor neuen Bildern zuerst `ki_bild.ps1 -Pruefen` laufen lassen.
+
+**Update 03.11.2026, Rückseite und Druckerei:**
+
+- `CLAUDE.md` auf den aktuellen Stand gebracht (Pipeline, neue Dateien, Repo `HermFerm/ProjektReichtum`, offene Punkte).
+- **Rückseite:** 3 Entwürfe in `Entwuerfe/Rueckseite/` (Generator `bau_rueckseite.py`, Übersicht `uebersicht_v1.png`):
+  - A Banknote: dunkelgrün, Guilloche, Goldmünze, Titel oben und kopfstehend unten (180° symmetrisch). **Empfehlung Claude.**
+  - B Anteilschein: helles Wertpapier, Münze als Siegel, „Nennwert: unbezahlbar“.
+  - C Duell: Mauerwerk gegen Kurschart, Münze auf der Trennlinie.
+  - **ENTSCHIEDEN 03.11. (Hermann): Variante B Anteilschein.** Druckdatei: `Druck/rueckseite.png` (822 × 1122 px, 300 dpi).
+- **Druckerei-Recherche (Ergebnis):**
+  - Empfehlung: **MakePlayingCards**, Produkt „Traditional size 63.5 × 88.9 mm“, Karton **S33** (schwarzer Kern), gemeinsame Rückseite, 1 Deck bis 180 Karten, **Express**.
+  - Unsere Daten (822 × 1122 px, 300 dpi, RGB-PNG) entsprechen exakt der MPC-Vorgabe.
+  - Kosten grob 50–80 € inklusive Versand (Versandkosten erst im Warenkorb sichtbar).
+  - Lieferzeit Express nominell 5–6 Werktage. **Bestellen bis etwa 10.11.** (statt 15.11.), damit bei einer Ablehnung Zeit zum Nachreichen bleibt.
+  - Ablehnungsrisiko gering bis mäßig, kein generelles Proxy-Verbot belegt. Auslöser sind ©-Wizards-Zeile, offizielle Logos/Set-Symbole, Magic-Rückseite. Unsere Karten haben nichts davon (Fußzeile „Projekt Reichtum 2026 · Privat, nicht zum Verkauf“, eigenes Set-Symbol, eigene Rückseite).
+  - Plan B: PrinterStudio.de (gleiches System, Euro, Steuern inklusive), Notnagel MeinSpiel.de (DE, schnell, aber Spielkarten-Karton mit 5-mm-Ecken).
+
+**Update 03.11.2026, Korrekturen am Kartensatz:**
+
+- **Bildzuschnitt mit Fokus** (`MSE-Set-erzeugen.ps1`, Tabellen `$fokusFormat` und `$fokusKarte`):
+  - Vollbild-Länder werden oben ausgeschnitten, damit die Köpfe unter der Namensleiste bleiben.
+  - Esper-Rückseiten zeigen den Geist über dem Kalender, die Kreatur der Saga-Rückseite: Fokus 0,66 / 0,76 / 0,72.
+- **Forest 8, 9, 11 nach oben erweitert** mit dem neuen `Werkzeuge/Bild-erweitern.ps1` (Outpainting, etwa 0,05 $ pro Bild). Die Originalpixel werden wieder darübergelegt, deshalb bleiben Gesichter exakt erhalten. Die Originale liegen als `Bilder/_verworfen/Forest_N_original.png`.
+- **Fortschrittsleiste** auf allen 4 „Zur erfolgreichen Praxis“: Pfeilkette unten im Bild, 1 SEO-Referenzen → 2 Vertrieb → 3 Werbekampagne → 4 REICHTUM! (gold).
+- Kartensatz und Druckdaten neu erzeugt: 153 Vorderseiten + `Druck/rueckseite.png`.
+
+**Update 03.11.2026, Spielmarken:**
+
+- **Alpenmotiv Mountain bleibt** (Entscheidung Hermann). Rennrad-/Alpenmotive kommen stattdessen auf die Spielmarken.
+- Quelle `Spielmarken.csv`, gesetzt mit der MSE-Vorlage M15 Token, Bilder über die API (zusammen 0,21 $):
+  - **6 × „Der Windschattenspender“**, 3/4 Treefolk Reach (Sapling Nursery):
+    - V1 mit `IMG-20260425-WA0016`: Baumriese auf der Passstraße, zwei Rennradfahrer im Windschatten. Spruch „Im Windschatten wächst die Rendite.“
+    - V2 mit `IMG-20210516-WA0009`: reicht einem Fahrer die Trinkflasche. Spruch „Verpflegung mit Reichweite.“
+  - **4 × „Der Berg ruft“**, Erdbändigen-Marker (Spielhilfe, Text = Erinnerungstext Earthbend 2 laut Scryfall, ohne Stärke-Kasten), mit `Paul__IMG-20260606-WA0021`: Paul jubelt am Pass, der Berg steht als Steinriese auf.
+  - **2 × „Die kesse Sohle – Zugabe“**, Copy-Token für Colorstorm Stallion. Bild = Stallion_3 gespiegelt.
+- Türen: Baumwesen und Erdbändigen in **Tür 17**, weil Duell 1 sie am 19./20.12. braucht. Die Kopien in **Tür 20**, weil das Spellementals-Modul dort liegt.
+- **+1/+1-, Quest- und Kapitel-Marken** als Münzen aus dem Bastel-/Spielwarenladen statt Karten, weil die Hydra die Zahl verdoppelt. Vorschlag: Gold = +1/+1, Silber = Quest, Kupfer = Kapitel/Finalität. Die Legende kommt aufs Bau-Sheet. Sie gehören in Tür 17.
+- Gesamt jetzt **165 Karten** (153 + 12). Das bleibt in der MPC-Preisstufe bis 180.
+
+**Update 03.11.2026, Prüfung vor dem Druck:**
+
+- Neues Skript `Werkzeuge/Pruefung.ps1`. Ergebnis heute: **alles in Ordnung.**
+  - Prowess, Spellementals und Landfall haben je 60 Karten, das Sideboard 12. Keine Karte kommt öfter als 4-mal vor, auch nicht Landfall zusammen mit dem Sideboard. Der Pool hat 150 Karten.
+  - Alle 46 Karten sind laut Scryfall heute Standard-legal. Seit dem Cache vom 30.10. gibt es keine Oracle-Änderungen.
+  - 134 Karten (ohne Grundländer und Spielmarken, mit den Saga-Rückseiten) sind Feld für Feld gegen Oracle geprüft: Regeltext, Manakosten, Typzeile, Stärke/Widerstand, zweite Seiten. Keine Abweichung.
+  - 165 Vorderseiten und die Rückseite, alle 822 × 1122 px bei 300 dpi.
+- **Optische Durchsicht aller 165 Druckbilder** (Kontaktbögen): kein Überlauf, keine abgeschnittenen Motive, keine leeren Felder. Hinweis: Bei Abenteuer- und prepare-Karten (Elusive Otter, Hearth Elemental, Carnivorous Cultivator, Pompous Battlemage) ist die Schrift sehr klein, wie bei den echten Karten.
+- Risiko bei MPC: Es gibt keine ©-Wizards-Zeile und kein offizielles Set-Symbol. Mana-Symbole und der M15-Rahmen bleiben ein Restrisiko.
+
+**Update 03.11.2026, 180er-Stufe aufgefüllt und Bestellanleitung:**
+
+- Die 15 freien Plätze sind belegt (Entscheidung Hermann):
+  - **Titelkarte „Willkommen bei Projekt Reichtum“** (Tür 1), Bild Forest_5, Text an Robin, Gruß von Hermann
+  - **4 Trennkarten** im Anteilschein-Stil: „Betongold“ und „Daytrader“ in Tür 17 (Duell 1), „Betongold – mit Gutachter“ und „Luftschlösser“ in Tür 24. Generator: `Entwuerfe/Sonderkarten/bau_sonderkarten.py`, Ausgabe `Karten/sonder/`
+  - **2 weitere Baumwesen** (Treefolk 7 und 8), zusammen jetzt 8
+  - **8 Ersatzkarten** für das „Ersatzteillager“ in Tür 17: Mountain, Stock Up, Demolition Field (die Einzelstücke im Hauptdeck), dazu Forest, Island, Opt, Burst Lightning, Llanowar Elves. Kleine Aufschrift „ERSATZ“ im schwarzen Rand unten. Liste `$ersatz` in `Druckdaten-erzeugen.ps1`
+- **Druckdaten: genau 180 Vorderseiten + Rückseite.** `Pruefung.ps1`: alles in Ordnung.
+- **Bestellanleitung:** `Druck/Bestellanleitung.md`, mit Antworttext für den Fall einer Urheberrechts-Ablehnung.
+- Zur Überlegung für die Bau-Sheets: Welche 12 Karten im Landfall-Hauptdeck für das Sideboard („mit Gutachter“) rausgehen, ist noch nicht festgelegt.
+
+**Kalender (offen):** Hermann hat noch keinen. Idee: eine **Booster-Display-Box** aus dem Bastelladen (Pappschachtel oder Holzkiste, ummantelt mit einem Druck aus dem Copyshop), in der die 24 nummerierten Booster stehen wie in einem echten Display.
+- Maße grob: Booster etwa 72 × 105 × 4 mm, Tür 1 dicker. Dazu Bau-Sheets. Die Box also innen etwa 160 × 85 × 110 mm.
+- Ein Schubladen-Kalender passt nur, wenn die Fächer innen mindestens 7,5 × 10,5 × 1 cm haben. Die meisten sind zu klein.
+
+**Zeitplan rückwärts (Stand 03.11.):**
+
+| Wann | Was |
+|---|---|
+| bis Fr 06.11. | Alpenbild entscheiden, Spielmarken gestalten (kommen in dieselbe Kartenbestellung), Oracle-Abgleich, Gesamtdurchsicht |
+| **Fr 06.11. (spätestens Mo 09.11.)** | **MPC-Bestellung**, Express |
+| 09.–13.11. | Boosterhüllen gestalten (falt- und klebbar), Bau-Sheets, Kleinigkeit 2 |
+| bis 13.11. | Boosterhüllen/Bau-Sheets in Druck geben (Copyshop oder online) |
+| etwa 13.–19.11. | Karten kommen an (Express nominal 5–6 Werktage, Puffer für eine Ablehnung) |
+| Sa/So 21./22.11. | Packen: 23 Booster, Spielmarken, Bau-Sheets, Kalender bestücken |
+| Mo 23.11. | Paket nach München abschicken (DHL 1–2 Werktage) |
+| bis Fr 27.11. | Kalender ist bei Robin. Di 01.12. = Tür 1 |
 
 ## Weitere Schritte
 

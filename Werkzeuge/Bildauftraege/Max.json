@@ -1,0 +1,134 @@
+﻿[
+    {
+        "ziel":  "Bilder/_Charakterblatt_Max.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Fotos/Max/Max_ref_01.jpg",
+                       "Fotos/Max/Max_portrait_04.jpg",
+                       "Fotos/Max/Max_portrait_03.jpg"
+                   ],
+        "prompt":  "Charakterblatt von Max (die Person auf allen drei Fotos) im festgelegten Stil: nebeneinander Kopf frontal, Kopf im Profil und Ganzkörper stehend, auf ruhigem, hellem Hintergrund. Gesicht, Frisur, Bart, Brille und Statur exakt wie auf den Fotos. Schlichte dunkle Kleidung. Das Blatt ist die Referenz für alle weiteren Bilder von Max. Ausnahmsweise darf das Motiv bis an die Ränder gehen."
+    },
+    {
+        "ziel":  "Bilder/Colorstorm Stallion_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Max.png",
+                       "Fotos/Nachlieferung/Max_Tanzen.png"
+                   ],
+        "prompt":  "Max tanzt auf einer Hochzeitstanzfläche einen wilden, eleganten Tanz, aus seinen Schuhen sprühen blau-rote Funken, und aus den Funken entstehen leuchtende Pferde-Geister, die mittanzen. Festliche Lichterketten, Seifenblasen in der Luft.\n\nDies ist Exemplar 1 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nLeuchtstab und Fliege aus dem Foto übernehmen; der Leuchtstab wird zum Zauberstab, aus dem die Pferde-Geister springen.\nDie ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Max legte eine kesse Sohle aufs Parkett. Dann tanzte die ganze Hochzeit."
+    },
+    {
+        "ziel":  "Bilder/Colorstorm Stallion_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Max.png",
+                       "Fotos/Nachlieferung/Max_Tanzen.png"
+                   ],
+        "prompt":  "Max tanzt auf einer Hochzeitstanzfläche einen wilden, eleganten Tanz, aus seinen Schuhen sprühen blau-rote Funken, und aus den Funken entstehen leuchtende Pferde-Geister, die mittanzen. Festliche Lichterketten, Seifenblasen in der Luft.\n\nDies ist Exemplar 2 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nLeuchtstab und Fliege aus dem Foto übernehmen; der Leuchtstab wird zum Zauberstab, aus dem die Pferde-Geister springen.\nDie ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Ingenieurstanz: präzise Schritte, unberechenbare Folgen."
+    },
+    {
+        "ziel":  "Bilder/Colorstorm Stallion_3.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Max.png",
+                       "Fotos/Nachlieferung/Max_Tanzen.png"
+                   ],
+        "prompt":  "Max tanzt auf einer Hochzeitstanzfläche einen wilden, eleganten Tanz, aus seinen Schuhen sprühen blau-rote Funken, und aus den Funken entstehen leuchtende Pferde-Geister, die mittanzen. Festliche Lichterketten, Seifenblasen in der Luft.\n\nDies ist Exemplar 3 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nLeuchtstab und Fliege aus dem Foto übernehmen; der Leuchtstab wird zum Zauberstab, aus dem die Pferde-Geister springen.\nDie ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Wo hat Max das gelernt?“ — die ganze Hochzeit"
+    },
+    {
+        "ziel":  "Bilder/Keen-Eyed Curator_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Max.png",
+                       "Fotos/Nachlieferung/Max_im_Restaurant.jpg"
+                   ],
+        "prompt":  "Max als eleganter Waschbär-Gourmet (Max\u0027 Gesichtszüge erkennbar) mit Monokel an einem edlen Tisch, vor ihm vier winzige, kunstvoll angerichtete Gänge, die magisch leuchten. Robin sitzt ihm gegenüber und hebt das Glas.\n\nDies ist Exemplar 1 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nMax sitzt allein am Tisch, ohne Gegenüber.\nDas Restaurant-Foto als Vorlage für Ort und Stimmung.\nDie ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Vier Gänge, vier Texturen, ein Urteil: „Technisch sauber gelöst.“ — Max"
+    },
+    {
+        "ziel":  "Bilder/Mossborn Hydra_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Max.png",
+                       "Fotos/Themen/Rennrad-Werkstatt/Max__IMG-20260425-WA0006.jpg"
+                   ],
+        "prompt":  "Eine mehrköpfige Hydra aus Moos und Chrom, deren Köpfe wie Turbinen aussehen; Max steht davor und dreht an einem riesigen Ventil, und mit jeder Drehung wächst ein neuer Kopf. Grüner und kupferner Glanz.\nV1–V4: 1, 2, 4, 8 Köpfe.\n\nDies ist Variante V1 von 4.\nSchraub-Haltung aus dem Foto übernehmen.\nDie ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Erst mal ein Turbo. Zum Testen.“ — Max"
+    },
+    {
+        "ziel":  "Bilder/Mossborn Hydra_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Max.png",
+                       "Fotos/Themen/Rennrad-Werkstatt/Max__IMG-20260425-WA0006.jpg"
+                   ],
+        "prompt":  "Eine mehrköpfige Hydra aus Moos und Chrom, deren Köpfe wie Turbinen aussehen; Max steht davor und dreht an einem riesigen Ventil, und mit jeder Drehung wächst ein neuer Kopf. Grüner und kupferner Glanz.\nV1–V4: 1, 2, 4, 8 Köpfe.\n\nDies ist Variante V2 von 4.\nSchraub-Haltung aus dem Foto übernehmen.\nDie ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Zwei sind effizienter.“ — Max"
+    },
+    {
+        "ziel":  "Bilder/Mossborn Hydra_3.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Max.png",
+                       "Fotos/Themen/Rennrad-Werkstatt/Max__IMG-20260425-WA0006.jpg"
+                   ],
+        "prompt":  "Eine mehrköpfige Hydra aus Moos und Chrom, deren Köpfe wie Turbinen aussehen; Max steht davor und dreht an einem riesigen Ventil, und mit jeder Drehung wächst ein neuer Kopf. Grüner und kupferner Glanz.\nV1–V4: 1, 2, 4, 8 Köpfe.\n\nDies ist Variante V3 von 4.\nSchraub-Haltung aus dem Foto übernehmen.\nDie ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Johann fragt nach dem Preis. Paul nur nach dem Tempo."
+    },
+    {
+        "ziel":  "Bilder/Mossborn Hydra_4.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Max.png",
+                       "Fotos/Themen/Rennrad-Werkstatt/Max__IMG-20260425-WA0006.jpg"
+                   ],
+        "prompt":  "Eine mehrköpfige Hydra aus Moos und Chrom, deren Köpfe wie Turbinen aussehen; Max steht davor und dreht an einem riesigen Ventil, und mit jeder Drehung wächst ein neuer Kopf. Grüner und kupferner Glanz.\nV1–V4: 1, 2, 4, 8 Köpfe.\n\nDies ist Variante V4 von 4.\nSchraub-Haltung aus dem Foto übernehmen.\nDie ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Acht Köpfe, null Bedenken. Max kennt jedes Ventil beim Namen."
+    },
+    {
+        "ziel":  "Bilder/Sleight of Hand_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Max.png"
+                   ],
+        "prompt":  "Max sitzt an einem Lagerfeuer, zwischen seinen Händen schweben zwei leuchtende Gedankenkugeln (eine mit Zahnrädern, eine mit Sternen); er betrachtet sie nachdenklich. Blaues und warmes Licht gemischt.\nV1–V4: unterschiedliche Gedankenpaare (Motor/Universum, Fahrrad/Zeit, Essen/Kunst, Technik/Freundschaft).\n\nDies ist Variante V1 von 4.\nDie ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Ein Motor ist nur ein Universum mit Ölwechsel.“ — Max"
+    },
+    {
+        "ziel":  "Bilder/Sleight of Hand_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Max.png"
+                   ],
+        "prompt":  "Max sitzt an einem Lagerfeuer, zwischen seinen Händen schweben zwei leuchtende Gedankenkugeln (eine mit Zahnrädern, eine mit Sternen); er betrachtet sie nachdenklich. Blaues und warmes Licht gemischt.\nV1–V4: unterschiedliche Gedankenpaare (Motor/Universum, Fahrrad/Zeit, Essen/Kunst, Technik/Freundschaft).\n\nDies ist Variante V2 von 4.\nDie ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Zeit ist wie eine Kette. Ohne Pflege springt sie irgendwann.“ — Max"
+    },
+    {
+        "ziel":  "Bilder/Sleight of Hand_3.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Max.png"
+                   ],
+        "prompt":  "Max sitzt an einem Lagerfeuer, zwischen seinen Händen schweben zwei leuchtende Gedankenkugeln (eine mit Zahnrädern, eine mit Sternen); er betrachtet sie nachdenklich. Blaues und warmes Licht gemischt.\nV1–V4: unterschiedliche Gedankenpaare (Motor/Universum, Fahrrad/Zeit, Essen/Kunst, Technik/Freundschaft).\n\nDies ist Variante V3 von 4.\nDie ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Gutes Essen ist Kunst, die man aufessen darf.“ — Max"
+    },
+    {
+        "ziel":  "Bilder/Sleight of Hand_4.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Max.png"
+                   ],
+        "prompt":  "Max sitzt an einem Lagerfeuer, zwischen seinen Händen schweben zwei leuchtende Gedankenkugeln (eine mit Zahnrädern, eine mit Sternen); er betrachtet sie nachdenklich. Blaues und warmes Licht gemischt.\nV1–V4: unterschiedliche Gedankenpaare (Motor/Universum, Fahrrad/Zeit, Essen/Kunst, Technik/Freundschaft).\n\nDies ist Variante V4 von 4.\nDie ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Freundschaft ist wie Technik: regelmäßig warten, dann läuft sie ewig.“ — Max"
+    },
+    {
+        "ziel":  "Bilder/Torpor Orb_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Max.png",
+                       "Fotos/Themen/Rennrad-Werkstatt/Max__IMG-20260425-WA0006.jpg"
+                   ],
+        "prompt":  "Ein schwebender Messing-Orb voller Zahnräder, an dem Max einen leuchtenden Stecker zieht; um ihn herum erstarren magische Kreaturen mitten in der Bewegung. Kühles Licht.\n\nDies ist Exemplar 1 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nHaltung aus dem Foto übernehmen.\nDie ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Schöner Plan, Hermann. Ich zieh trotzdem den Stecker.“ — Max"
+    },
+    {
+        "ziel":  "Bilder/Torpor Orb_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Max.png",
+                       "Fotos/Themen/Rennrad-Werkstatt/Max__IMG-20260425-WA0006.jpg"
+                   ],
+        "prompt":  "Ein schwebender Messing-Orb voller Zahnräder, an dem Max einen leuchtenden Stecker zieht; um ihn herum erstarren magische Kreaturen mitten in der Bewegung. Kühles Licht.\n\nDies ist Exemplar 2 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nHaltung aus dem Foto übernehmen.\nDie ersten 1 Bilder sind Charakterblätter (Max in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Als die Diskussion über Firmenwagen in die dritte Stunde ging, stand Max auf und zog den Stecker. Sofort war Ruhe."
+    }
+]

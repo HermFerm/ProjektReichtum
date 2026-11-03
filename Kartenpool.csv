@@ -27,12 +27,12 @@ Modul Spellementals;3;Traumatic Critique;Instant;Spellementals;Paul;Pauls Feedba
 Landfall Main;4;Llanowar Elves;Creature;Landfall Stock+Anti-Izzet;Robin;Robins Siebträger: Knopf drücken;tappen, Mana kommt – braunes Gold ohne Drumherum
 Landfall Main;4;Sazh's Chocobo;Creature;Landfall Stock+Anti-Izzet;Robin+Hermann;Der ETF-Sparplan;wächst still mit jedem Land
 Landfall Main;4;Carnivorous Cultivator;Creature;Landfall Stock+Anti-Izzet;Johann;Johann im Kundentermin;Todesberührung = Abschluss; holt Länder zurück
-Landfall Main;2;Keen-Eyed Curator;Creature;Landfall Stock+Anti-Izzet;Max;Max im Sternerestaurant;der Kenner: sammelt 4 Kartentypen = 4 Gänge, dann +4/+4
+Landfall Main;1;Keen-Eyed Curator;Creature;Landfall Stock+Anti-Izzet;Max;Max im Sternerestaurant;der Kenner: sammelt 4 Kartentypen = 4 Gänge, dann +4/+4
 Landfall Main;3;Mossborn Hydra;Creature;Landfall Stock+Anti-Izzet;Max;Der Turbolader;verdoppelt die Marken bei jedem Land
 Landfall Main;4;Icetill Explorer;Creature;Landfall Stock+Anti-Izzet;Johann;Johann der Heimwerker;spielt Länder aus dem Friedhof = macht Baufälliges wieder bewohnbar
 Landfall Main;4;Mightform Harmonizer;Creature;Landfall Stock+Anti-Izzet;Robin;Der Zinseszins;verdoppelt die Stärke bei jedem Land
 Landfall Main;3;Esper Origins;Sorcery;Landfall Stock+Anti-Izzet;Hermann;Der Puzzle-Adventskalender;kommt verwandelt aus dem Friedhof zurück = nach 2 Puzzles jetzt dieser Kalender
-Landfall Main;1;Lumbering Worldwagon;Artifact;Landfall Stock+Anti-Izzet;Max;Bugatti (Prototyp);Fahrzeug; Bemannen 4 = braucht 4 Mann zum Anschieben
+Landfall Main;2;Sapling Nursery;Enchantment;Landfall Stock+Anti-Izzet;Robin;Oktoberfest;jedes Land = ein neuer 3/4-Spielstein (Maßkrug mit Reichweite)
 Landfall Main;1;Meltstrider's Resolve;Enchantment;Landfall Stock+Anti-Izzet;Robin+Johann;LoL, Runde 20;Kampf
 Landfall Main;4;Earthbender Ascension;Enchantment;Landfall Stock+Anti-Izzet;Robin+Paul+Hermann;Projekt „Zur erfolgreichen Praxis“;Die Karte zählt selbst bis 4 Quest-Marken – Fortschrittsleiste auf der Karte: 1 Referenzen für SEO, 2 Vertrieb schulen + Gebiete, 3 Werbekampagne, 4 REICHTUM! (= +1/+1 und Trampelschaden). 4 Exemplare = 4 Vertriebsgebiete im Bild: Aachen (Hermann), Leipzig (Paul), München (Robin), Jena (Johann, „kommt später dazu“)
 Landfall Main;3;Ba Sing Se;Land;Landfall Stock+Anti-Izzet;Johann;Johanns Haus;Erdbändigen = Renovieren
@@ -46,4 +46,5 @@ Landfall Sideboard;2;Surrak, Elusive Hunter;Creature;Anti-Izzet;Paul;Paul, nicht
 Landfall Sideboard;2;Torpor Orb;Artifact;Anti-Izzet;Max;Max zieht den Stecker;Kreaturen lösen beim Ins-Spiel-Kommen nichts aus
 Landfall Sideboard;2;Hard-Hitting Question;Sorcery;Anti-Izzet;Paul;„Geht das nicht effizienter?“;eigene Kreatur fügt Schaden in Höhe ihrer Stärke zu
 Landfall Sideboard;1;Mossborn Hydra;Creature;Anti-Izzet;Max;Der Turbolader;wie oben
-Landfall Sideboard;2;Sapling Nursery;Enchantment;Anti-Izzet;Robin;Oktoberfest;jedes Land = ein neuer 3/4-Spielstein (Maßkrug mit Reichweite)
+Landfall Sideboard;1;Keen-Eyed Curator;Creature;Anti-Izzet;Max;Max im Sternerestaurant;verbannt Karten aus Friedhöfen = verdirbt Izzet die billigen Krabben, Elementare und Rückkehr-Zauber
+Landfall Sideboard;1;Lumbering Worldwagon;Artifact;Anti-Izzet;Max;Bugatti (Prototyp);Fahrzeug; Bemannen 4 = braucht 4 Mann zum Anschieben

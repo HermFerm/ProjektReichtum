@@ -1,0 +1,20 @@
+[
+  {
+    "ziel": "Bilder/_Charakterblatt_Hermann.png",
+    "format": "1536x1024",
+    "bilder": ["Fotos/Hermann/Hermann_ref_01.jpg", "Fotos/Hermann/Hermann_portrait_01.jpg", "Fotos/Hermann/Hermann_portrait_11.jpg"],
+    "prompt": "Charakterblatt von Hermann (die Person auf allen drei Fotos) im festgelegten Stil: nebeneinander Kopf frontal, Kopf im Profil und Ganzkörper stehend, auf ruhigem, hellem Hintergrund. Gesicht, Frisur, Bart und Statur exakt wie auf den Fotos. Schlichte dunkle Kleidung. Das Blatt ist die Referenz für alle weiteren Bilder von Hermann. Ausnahmsweise darf das Motiv bis an die Ränder gehen."
+  },
+  {
+    "ziel": "Bilder/Sunderflock_1.png",
+    "format": "1536x1024",
+    "bilder": ["Bilder/_Charakterblatt_Hermann.png", "Fotos/Hermann/Hermann_ref_01.jpg"],
+    "prompt": "Ein prächtiges, schwebendes Schloss aus Wolken, Zahnrädern, Kaffeedampf und Cocktailgläsern hoch über einer Landschaft. Auf dem Balkon steht Hermann (Gesicht wie auf dem Charakterblatt), verträumt lächelnd, mit einem Bauplan in der Hand. Unter dem Schloss sieht man, dass es auf sehr dünnen Fäden hängt. Blau-violetter Himmel, Sonnenuntergang.\nVariante V1: Das Schloss ist noch im Bau – Gerüste aus Licht, schwebende Bausteine, halb fertige Türme."
+  },
+  {
+    "ziel": "Bilder/Eddymurk Crab_1.png",
+    "format": "1536x1024",
+    "bilder": ["Bilder/_Charakterblatt_Hermann.png", "Fotos/Themen/Rennrad-Werkstatt/Hermann-Rennrad__IMAG0093.jpg"],
+    "prompt": "Eine riesige, freundliche Krabbe aus Moos, Staub und Spinnweben, die sich langsam aus einer Garage erhebt; auf ihrem Panzer hängt ein eingestaubtes Rennrad (Rad wie auf dem zweiten Foto). Im Hintergrund schaut Hermann (Gesicht wie auf dem Charakterblatt) schuldbewusst mit einer Tasse Espresso zu. Blau-grünes Licht, humorvoll.\nVariante V1: nur eine erste, dünne Staubschicht – das Rad glänzt noch ein bisschen."
+  }
+]

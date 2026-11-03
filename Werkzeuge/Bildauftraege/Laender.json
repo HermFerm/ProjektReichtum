@@ -1,0 +1,370 @@
+﻿[
+    {
+        "ziel":  "Bilder/Ba Sing Se_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Fotos/Themen/Haus-Garten-Koi/IMG-20260717-WA0016.jpg"
+                   ],
+        "prompt":  "Ein großes, leicht baufälliges Haus als Festung in einer grünen Landschaft, mit Gerüst, Koi-Teich, Pool und dampfender Sauna; aus dem Boden steigen Erdmauern, die es stützen. Keine Personen.\n\nDies ist Exemplar 1 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nDen Koi-Teich vom Foto als Vorlage. Gewaltige Erdmauern brechen aus dem Boden und richten sich um das Haus auf, Staub und Steinbrocken fliegen.\nAufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Die Mauern stehen. Meistens.“ — Johann"
+    },
+    {
+        "ziel":  "Bilder/Ba Sing Se_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+
+                   ],
+        "prompt":  "Ein großes, leicht baufälliges Haus als Festung in einer grünen Landschaft, mit Gerüst, Koi-Teich, Pool und dampfender Sauna; aus dem Boden steigen Erdmauern, die es stützen. Keine Personen.\n\nDies ist Exemplar 2 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nSturm: Regen peitscht, Blitze zucken, aber magische Erdpfeiler stützen das wankende Haus samt Gerüst. Dramatische Untersicht.\nAufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Gekauft als Traumhaus. Renoviert als Lebenswerk."
+    },
+    {
+        "ziel":  "Bilder/Ba Sing Se_3.png",
+        "format":  "1536x1024",
+        "bilder":  [
+
+                   ],
+        "prompt":  "Ein großes, leicht baufälliges Haus als Festung in einer grünen Landschaft, mit Gerüst, Koi-Teich, Pool und dampfender Sauna; aus dem Boden steigen Erdmauern, die es stützen. Keine Personen.\n\nDies ist Exemplar 3 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nNacht: Die Sauna dampft, der Pool leuchtet, die Festungsmauern glühen grün vor Erdmagie, eine Sternschnuppe zieht über das Dach. Weiter Blick von der Seite.\nAufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Koi-Teich, Pool, Sauna. Dach folgt."
+    },
+    {
+        "ziel":  "Bilder/Demolition Field_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+
+                   ],
+        "prompt":  "Ein Gutachter-Golem aus Stein mit Klemmbrett zerbricht mit einem Stempel ein wackliges Gebäude; Staubwolke, Goldlicht. Keine echten Personen.\n\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Erhaltenswert? Mutige Wortwahl.“ — der Gutachter"
+    },
+    {
+        "ziel":  "Bilder/Elven Passage_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Fotos/Gruppe/Mallorca-JGA/IMG-20250602-WA0001.jpg"
+                   ],
+        "prompt":  "Ein magisches Luftschiff-Terminal an einer Mittelmeerküste, ein Luftschiff hebt in Richtung untergehender Sonne ab. Keine Personen.\n\nDies ist Exemplar 1 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nDas Foto (Sonnenuntergang am Hotel) ist Vorlage für die Stimmung. Rush-Hour am Terminal: viele Luftschiffe starten gleichzeitig, Wimpel knattern im Wind, Mövenschwärme.\nAufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Mit Schnurrbart hin, mit Sonnenbrand zurück."
+    },
+    {
+        "ziel":  "Bilder/Elven Passage_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+
+                   ],
+        "prompt":  "Ein magisches Luftschiff-Terminal an einer Mittelmeerküste, ein Luftschiff hebt in Richtung untergehender Sonne ab. Keine Personen.\n\nDies ist Exemplar 2 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nEine dunkle Gewitterfront zieht über die Bucht von Palma, ein Luftschiff kämpft sich mit flatternden Segeln durch Böen und Blitze.\nAufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Was auf Mallorca passiert, bleibt in der WhatsApp-Gruppe."
+    },
+    {
+        "ziel":  "Bilder/Elven Passage_3.png",
+        "format":  "1536x1024",
+        "bilder":  [
+
+                   ],
+        "prompt":  "Ein magisches Luftschiff-Terminal an einer Mittelmeerküste, ein Luftschiff hebt in Richtung untergehender Sonne ab. Keine Personen.\n\nDies ist Exemplar 3 von 3: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nNacht: Feuerwerk über der Kathedrale von Palma, ein Luftschiff hebt mit einem Schwarm leuchtender Laternen ab. Blick von oben auf das Terminal.\nAufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Rückflug: ein Leben weniger, aber jede Menge Geschichten."
+    },
+    {
+        "ziel":  "Bilder/Escape Tunnel_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Fotos/Gruppe/Garten-Jena/333A6404.jpg"
+                   ],
+        "prompt":  "Ein verwunschener Pfad durch einen Garten, der in einem Tunnel aus Ranken zu einem leuchtend blauen Pool führt. Abendlicht, Glühwürmchen. Keine Personen.\n\nDies ist Exemplar 1 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nDer Pool mit dem Einhorn vom Foto als Vorlage. Am Ende des Rankentunnels spritzt eine riesige Wasserfontäne aus dem Pool, als wäre gerade jemand hineingesprungen (die Person selbst ist nicht zu sehen).\nAufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Wer zuerst springt, kriegt das Einhorn.“"
+    },
+    {
+        "ziel":  "Bilder/Escape Tunnel_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+
+                   ],
+        "prompt":  "Ein verwunschener Pfad durch einen Garten, der in einem Tunnel aus Ranken zu einem leuchtend blauen Pool führt. Abendlicht, Glühwürmchen. Keine Personen.\n\nDies ist Exemplar 2 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nNacht: Der Pool leuchtet magisch türkis, das aufblasbare Einhorn ist lebendig geworden und galoppiert über das Wasser, Glühwürmchen-Schwärme wirbeln durch den Tunnel.\nAufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Der kürzeste Weg vom Grill ins Wasser. Ungeblockt."
+    },
+    {
+        "ziel":  "Bilder/Fabled Passage_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+
+                   ],
+        "prompt":  "Eine magische Fernstraße, die sich durch Wälder und Hügel windet, ein leuchtendes Gefährt fährt in den Sonnenuntergang Richtung einer fernen Gartenlaterne.\n\nDies ist Exemplar 1 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Gut vier Stunden Autobahn, und am Ende wartet ein Garten. Robin fährt sie jedes Jahr."
+    },
+    {
+        "ziel":  "Bilder/Fabled Passage_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+
+                   ],
+        "prompt":  "Eine magische Fernstraße, die sich durch Wälder und Hügel windet, ein leuchtendes Gefährt fährt in den Sonnenuntergang Richtung einer fernen Gartenlaterne.\n\nDies ist Exemplar 2 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Hof, Münchberg, Hermsdorfer Kreuz: Ab hier riecht es nach Lagerfeuer."
+    },
+    {
+        "ziel":  "Bilder/Fabled Passage_3.png",
+        "format":  "1536x1024",
+        "bilder":  [
+
+                   ],
+        "prompt":  "Eine magische Fernstraße, die sich durch Wälder und Hügel windet, ein leuchtendes Gefährt fährt in den Sonnenuntergang Richtung einer fernen Gartenlaterne.\n\nDies ist Exemplar 3 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Wer früh losfährt, ist pünktlich zum ersten Cocktail da."
+    },
+    {
+        "ziel":  "Bilder/Fabled Passage_4.png",
+        "format":  "1536x1024",
+        "bilder":  [
+
+                   ],
+        "prompt":  "Eine magische Fernstraße, die sich durch Wälder und Hügel windet, ein leuchtendes Gefährt fährt in den Sonnenuntergang Richtung einer fernen Gartenlaterne.\n\nDies ist Exemplar 4 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Stau bei Nürnberg. Robin hört einen Podcast über Dividenden. Die Zeit ist nicht verloren."
+    },
+    {
+        "ziel":  "Bilder/Forest_1.png",
+        "format":  "1024x1536",
+        "bilder":  [
+                       "Fotos/Gruppe/Garten-Jena/333A6412.jpg"
+                   ],
+        "prompt":  "Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Wald/Hain (verzauberter Garten in Jena). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: zwei auf Liegestühlen."
+    },
+    {
+        "ziel":  "Bilder/Forest_2.png",
+        "format":  "1024x1536",
+        "bilder":  [
+                       "Fotos/Gruppe/Garten-Jena/333A6648.jpg"
+                   ],
+        "prompt":  "Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Wald/Hain (verzauberter Garten in Jena). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: Party an der Bar, Hosenträger."
+    },
+    {
+        "ziel":  "Bilder/Forest_3.png",
+        "format":  "1024x1536",
+        "bilder":  [
+                       "Fotos/Gruppe/Garten-Jena/333A6404.jpg"
+                   ],
+        "prompt":  "Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Wald/Hain (verzauberter Garten in Jena). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: Pool mit Einhorn."
+    },
+    {
+        "ziel":  "Bilder/Forest_4.png",
+        "format":  "1024x1536",
+        "bilder":  [
+                       "Fotos/Gruppe/Garten-Jena/IMG_20210812_201730.jpg"
+                   ],
+        "prompt":  "Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Wald/Hain (verzauberter Garten in Jena). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: Gruppe mit Robins Eltern."
+    },
+    {
+        "ziel":  "Bilder/Forest_5.png",
+        "format":  "1024x1536",
+        "bilder":  [
+                       "Fotos/Gruppe/Garten-Jena/IMG_20210814_233049.jpg"
+                   ],
+        "prompt":  "Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Wald/Hain (verzauberter Garten in Jena). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: Nachtfoto, vier Freunde."
+    },
+    {
+        "ziel":  "Bilder/Forest_6.png",
+        "format":  "1024x1536",
+        "bilder":  [
+                       "Fotos/Gruppe/Garten-Jena/IMG_20220813_194100.jpg"
+                   ],
+        "prompt":  "Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Wald/Hain (verzauberter Garten in Jena). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: Party-Selfie, Hawaiihemden."
+    },
+    {
+        "ziel":  "Bilder/Forest_7.png",
+        "format":  "1024x1536",
+        "bilder":  [
+                       "Fotos/Gruppe/Garten-Jena/IMG_20220813_223645.jpg"
+                   ],
+        "prompt":  "Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Wald/Hain (verzauberter Garten in Jena). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: drei Freunde."
+    },
+    {
+        "ziel":  "Bilder/Forest_8.png",
+        "format":  "1024x1536",
+        "bilder":  [
+                       "Fotos/Gruppe/Garten-Jena/IMG-20230813-WA0027.jpg"
+                   ],
+        "prompt":  "Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Wald/Hain (verzauberter Garten in Jena). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: Gruppe am Cocktailtisch."
+    },
+    {
+        "ziel":  "Bilder/Forest_9.png",
+        "format":  "1024x1536",
+        "bilder":  [
+                       "Fotos/Gruppe/Garten-Jena/IMG-20230813-WA0040.jpg"
+                   ],
+        "prompt":  "Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Wald/Hain (verzauberter Garten in Jena). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: Gruppe am Cocktailtisch."
+    },
+    {
+        "ziel":  "Bilder/Forest_10.png",
+        "format":  "1024x1536",
+        "bilder":  [
+                       "Fotos/Gruppe/Garten-Jena/IMG-20230813-WA0031.jpg"
+                   ],
+        "prompt":  "Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Wald/Hain (verzauberter Garten in Jena). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: entspannt in den Gartenstühlen."
+    },
+    {
+        "ziel":  "Bilder/Forest_11.png",
+        "format":  "1024x1536",
+        "bilder":  [
+                       "Fotos/Gruppe/Garten-Jena/IMG-20240810-WA0009.jpg"
+                   ],
+        "prompt":  "Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Wald/Hain (verzauberter Garten in Jena). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: Hawaiihemden."
+    },
+    {
+        "ziel":  "Bilder/Forest_12.png",
+        "format":  "1024x1536",
+        "bilder":  [
+                       "Fotos/Gruppe/Garten-Jena/IMG-20250808-WA0030.jpg"
+                   ],
+        "prompt":  "Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Wald/Hain (verzauberter Garten in Jena). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: auf der Liege."
+    },
+    {
+        "ziel":  "Bilder/Forest_13.png",
+        "format":  "1024x1536",
+        "bilder":  [
+                       "Fotos/Gruppe/Garten-Jena/RobinsVater-Johann-Hermann__file_00000000e680724697f2aa1c786a1926.png"
+                   ],
+        "prompt":  "Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Wald/Hain (verzauberter Garten in Jena). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: drei in Hawaiihemden mit Bier."
+    },
+    {
+        "ziel":  "Bilder/Island_1.png",
+        "format":  "1024x1536",
+        "bilder":  [
+                       "Fotos/Gruppe/Mallorca-JGA/IMG_20250530_120602.jpg"
+                   ],
+        "prompt":  "Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Meeresküste (Mallorca). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: vier auf der Festungsmauer."
+    },
+    {
+        "ziel":  "Bilder/Island_2.png",
+        "format":  "1024x1536",
+        "bilder":  [
+                       "Fotos/Gruppe/Mallorca-JGA/IMG_20250530_120616.jpg"
+                   ],
+        "prompt":  "Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Meeresküste (Mallorca). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: Gruppen-Selfie an der Küste."
+    },
+    {
+        "ziel":  "Bilder/Island_3.png",
+        "format":  "1024x1536",
+        "bilder":  [
+                       "Fotos/Gruppe/Mallorca-JGA/IMG-20250529-WA0042.jpg"
+                   ],
+        "prompt":  "Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Meeresküste (Mallorca). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: Abflug, mit Schnurrbärten."
+    },
+    {
+        "ziel":  "Bilder/Island_4.png",
+        "format":  "1024x1536",
+        "bilder":  [
+                       "Fotos/Gruppe/Mallorca-JGA/IMG-20250601-WA0053.jpg"
+                   ],
+        "prompt":  "Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Meeresküste (Mallorca). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: drei liegen auf den Felsen."
+    },
+    {
+        "ziel":  "Bilder/Island_5.png",
+        "format":  "1024x1536",
+        "bilder":  [
+                       "Fotos/Gruppe/Mallorca-JGA/IMG-20250531-WA0086.jpg"
+                   ],
+        "prompt":  "Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Meeresküste (Mallorca). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: Gruppen-Selfie in der Altstadt."
+    },
+    {
+        "ziel":  "Bilder/Mountain_1.png",
+        "format":  "1024x1536",
+        "bilder":  [
+                       "Fotos/Gruppe/Alpen-Rennrad/Robin-Paul__IMG-20260606-WA0012.jpg"
+                   ],
+        "prompt":  "Verwandle dieses Gruppenfoto in eine gemalte Fantasy-Landschaft im festgelegten Stil, hochkant. Die Personen bleiben erkennbar, Haltung und Anordnung wie auf dem Foto, aber die Umgebung wird zu Gebirgspass (Alpen). Das untere Drittel ruhig halten (dort kommt später ein Mana-Symbol hin). Motiv: Rennradtour über die Alpen."
+    },
+    {
+        "ziel":  "Bilder/Multiversal Passage_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Fotos/Themen/Arbeit-Projekte/Johann__IMG-20210902-WA0005.jpg"
+                   ],
+        "prompt":  "Ein magisches Portal aus fünf ineinander verschlungenen Leuchtringen, durch das man fünf verschiedene Welten sieht (Garten, Meer, Berge, Stadt, Schatzkammer). Keine Schrift, kein Logo.\n\nDies ist Exemplar 1 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nNeue Idee: Das Portal wächst aus der Tasse auf dem Foto. Vom Foto nur die Tasse übernehmen: keine Personen, keine Hände, keine Logos oder Dateisymbole. Ein Schriftzug darf höchstens als goldene, unlesbare Gravur angedeutet sein.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Ein Chat für alles: Aktien, Kaffee, Rennräder, Kinderfotos und die nächste große Idee."
+    },
+    {
+        "ziel":  "Bilder/Multiversal Passage_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Fotos/Themen/Arbeit-Projekte/Johann__IMG-20210902-WA0005.jpg"
+                   ],
+        "prompt":  "Ein magisches Portal aus fünf ineinander verschlungenen Leuchtringen, durch das man fünf verschiedene Welten sieht (Garten, Meer, Berge, Stadt, Schatzkammer). Keine Schrift, kein Logo.\n\nDies ist Exemplar 2 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nDie PDFs im Spruch nur als fliegende Pergamentrollen mit rotem Wachssiegel zeigen, auf keinen Fall Datei- oder App-Symbole.\nNeue Idee: Das Portal wächst aus der Tasse auf dem Foto. Vom Foto nur die Tasse übernehmen: keine Personen, keine Hände, keine Logos oder Dateisymbole. Ein Schriftzug darf höchstens als goldene, unlesbare Gravur angedeutet sein.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): 247 ungelesene Nachrichten. Drei davon sind PDFs von Robin."
+    },
+    {
+        "ziel":  "Bilder/Riverpyre Verge_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Fotos/Themen/Saaleufer__IMG_20180808_125351-EFFECTS.jpg"
+                   ],
+        "prompt":  "Fluss bei Nacht, am Ufer ein Lagerfeuer, Lichter einer kleinen Stadt im Hintergrund, Wasser und Feuer spiegeln sich. Keine Personen.\n\nDies ist Exemplar 1 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nDas Foto (Fluss unter einer Steinbrücke) ist Vorlage für die Landschaft. Nacht: Das Lagerfeuer lodert hoch, ein Funkenwirbel stiebt über den Fluss und spiegelt sich im Wasser.\nAufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Die Saale fließt, das Feuer knistert, und irgendwer erzählt von Rendite."
+    },
+    {
+        "ziel":  "Bilder/Riverpyre Verge_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+
+                   ],
+        "prompt":  "Fluss bei Nacht, am Ufer ein Lagerfeuer, Lichter einer kleinen Stadt im Hintergrund, Wasser und Feuer spiegeln sich. Keine Personen.\n\nDies ist Exemplar 2 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nGewitter über der Saale: Ein Blitz schlägt in den Fluss, Gischt spritzt, am Ufer trotzt ein magisches Feuer dem peitschenden Regen. Blick flussabwärts.\nAufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Jedes Jahr im August führen alle Wege nach Jena."
+    },
+    {
+        "ziel":  "Bilder/Riverpyre Verge_3.png",
+        "format":  "1536x1024",
+        "bilder":  [
+
+                   ],
+        "prompt":  "Fluss bei Nacht, am Ufer ein Lagerfeuer, Lichter einer kleinen Stadt im Hintergrund, Wasser und Feuer spiegeln sich. Keine Personen.\n\nDies ist Exemplar 3 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nSommerfest-Nacht: Feuerwerk über den Lichtern von Jena, die Saale führt Hochwasser und reißt Laternenboote mit, Flammen tanzen auf dem Wasser. Weitwinkel von oben.\nAufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Wasser und Feuer passen nicht zusammen?“ — Hermann, mit einem flambierten Cocktail"
+    },
+    {
+        "ziel":  "Bilder/Riverpyre Verge_4.png",
+        "format":  "1536x1024",
+        "bilder":  [
+
+                   ],
+        "prompt":  "Fluss bei Nacht, am Ufer ein Lagerfeuer, Lichter einer kleinen Stadt im Hintergrund, Wasser und Feuer spiegeln sich. Keine Personen.\n\nDies ist Exemplar 4 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nWinter: Eisschollen treiben auf der Saale, ein Feuer am Ufer bringt das Eis zum Zischen, Dampfwirbel steigen auf, grünes Polarlicht am Himmel. Tiefe Perspektive knapp über dem Wasser.\nAufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Am Ufer ist es still. Bis die fünf ankommen."
+    },
+    {
+        "ziel":  "Bilder/Spirebluff Canal_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+
+                   ],
+        "prompt":  "Steile Felsküste an der Adria mit türkisem Wasser und einer Werkstatt-Halle aus Glas auf der Klippe. Keine Personen.\n\nDies ist Exemplar 1 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nSturm: Riesige Brandungswellen peitschen gegen die Klippe, Blitze über dem Meer, die Glas-Werkstatthalle leuchtet trotzig.\nAufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Morgens Prototypen, abends Adria. Max nennt das Work-Life-Balance."
+    },
+    {
+        "ziel":  "Bilder/Spirebluff Canal_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+
+                   ],
+        "prompt":  "Steile Felsküste an der Adria mit türkisem Wasser und einer Werkstatt-Halle aus Glas auf der Klippe. Keine Personen.\n\nDies ist Exemplar 2 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nFeierabend im Sonnenuntergang: Ein magisches Hypercar-Gefährt aus Messing (ohne Logo) rast die kurvige Küstenstraße entlang, Funken und Lichtspuren hinter sich.\nAufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Feierabend heißt hier: Schraubenschlüssel weg, Füße ins Meer.“ — Max"
+    },
+    {
+        "ziel":  "Bilder/Spirebluff Canal_3.png",
+        "format":  "1536x1024",
+        "bilder":  [
+
+                   ],
+        "prompt":  "Steile Felsküste an der Adria mit türkisem Wasser und einer Werkstatt-Halle aus Glas auf der Klippe. Keine Personen.\n\nDies ist Exemplar 3 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nFrüher Morgen: Ein Luftschiff landet an der Klippe, Möwenschwärme stieben auf, Gischt glitzert im ersten Sonnenlicht. Blick vom Meer aus nach oben.\nAufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Wer früh kommt, kriegt den Parkplatz direkt am Wasser."
+    },
+    {
+        "ziel":  "Bilder/Spirebluff Canal_4.png",
+        "format":  "1536x1024",
+        "bilder":  [
+
+                   ],
+        "prompt":  "Steile Felsküste an der Adria mit türkisem Wasser und einer Werkstatt-Halle aus Glas auf der Klippe. Keine Personen.\n\nDies ist Exemplar 4 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nNacht: Biolumineszente Leuchtquallen und ein magischer Meeresstrudel unter der Klippe, die Glashalle strahlt, Feuerwerk über der Bucht.\nAufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Türkis wie im Prospekt, nur mit mehr Ingenieuren."
+    },
+    {
+        "ziel":  "Bilder/Steam Vents_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+
+                   ],
+        "prompt":  "Eine Holzsauna am Rand eines Gartens mit dampfenden Vulkanquellen ringsum, Dampfschwaden steigen in den Sternenhimmel. Keine Personen.\n\nDies ist Exemplar 1 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nHinter der Sauna bricht ein Vulkan aus, Lavaströme glühen, Dampfgeysire schießen hoch. Die Sauna steht trotzig im Vordergrund.\nAufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Zwei Leben für einen Aufguss. Johann findet das fair."
+    },
+    {
+        "ziel":  "Bilder/Steam Vents_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+
+                   ],
+        "prompt":  "Eine Holzsauna am Rand eines Gartens mit dampfenden Vulkanquellen ringsum, Dampfschwaden steigen in den Sternenhimmel. Keine Personen.\n\nDies ist Exemplar 2 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nSchneesturm in der Nacht: Die Sauna glüht warm, direkt daneben schießt ein mächtiger Geysir in den Sternenhimmel, Schneeflocken verdampfen in der Luft.\nAufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Noch einen Aufguss? Ich mach Eukalyptus.“ — Johann"
+    },
+    {
+        "ziel":  "Bilder/Steam Vents_3.png",
+        "format":  "1536x1024",
+        "bilder":  [
+
+                   ],
+        "prompt":  "Eine Holzsauna am Rand eines Gartens mit dampfenden Vulkanquellen ringsum, Dampfschwaden steigen in den Sternenhimmel. Keine Personen.\n\nDies ist Exemplar 3 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nAufguss-Explosion: Eine gewaltige Dampfwolke sprengt die Saunatür auf, Eukalyptus-Dampfgeister wirbeln heraus; im Pool davor schauen orange-weiße Kois pikiert aus dem Wasser.\nAufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Danach in den Pool. Die Koi schauen pikiert."
+    },
+    {
+        "ziel":  "Bilder/Steam Vents_4.png",
+        "format":  "1536x1024",
+        "bilder":  [
+
+                   ],
+        "prompt":  "Eine Holzsauna am Rand eines Gartens mit dampfenden Vulkanquellen ringsum, Dampfschwaden steigen in den Sternenhimmel. Keine Personen.\n\nDies ist Exemplar 4 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nGewitter über einem Vulkankrater: Die Sauna steht auf einem Felsvorsprung am Kraterrand, Blitze und Lavafontänen ringsum. Dramatische Untersicht.\nAufregende, dynamische Szene mit Bewegung, Wetter und Magie, dramatische Perspektive. Keine Personen. Jedes Exemplar unterscheidet sich deutlich in Tageszeit, Wetter und Blickwinkel.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Hier drin ist sogar mein Glas halb voll.“ — Johann"
+    }
+]

@@ -8,3 +8,9 @@ Fotos/Sonstiges/
 
 # Office-Sperrdateien
 ~$*
+
+# Erzeugte Zwischenstände, neu erzeugen mit Werkzeuge/MSE-Set-erzeugen.ps1 (ca. 5 Minuten):
+# Karten/png (566 MB), Testausgaben und das MSE-Set (590 MB, über dem GitHub-Limit von 100 MB pro Datei)
+Karten/png/
+Karten/png-test/
+Karten/*.mse-set

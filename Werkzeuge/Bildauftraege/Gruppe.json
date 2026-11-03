@@ -1,0 +1,261 @@
+﻿[
+    {
+        "ziel":  "Bilder/Earthbender Ascension_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Hermann.png"
+                   ],
+        "prompt":  "Ein magischer Turm, der aus der Erde wächst, mit vier leuchtenden Stockwerken (SEO-Schriftrollen, Vertriebskarte, Werbe-Feuerwerk, Schatzkammer ganz oben). Im Vordergrund steht die jeweilige Person vor dem Wahrzeichen ihrer Stadt, kein Text.\nV1 Hermann vor dem Aachener Dom · V2 Paul vor dem Völkerschlachtdenkmal in Leipzig · V3 Robin vor der Münchner Frauenkirche · V4 Johann vor dem JenTower in Jena, kommt gerade erst den Weg herauf.\n\nDies ist Variante V1 von 4.\nPro Bild nur diese eine Person, Gesicht und Frisur exakt wie auf dem Charakterblatt.\nDie ersten 1 Bilder sind Charakterblätter (Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Gebiet West: Hermann übernimmt."
+    },
+    {
+        "ziel":  "Bilder/Earthbender Ascension_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Paul.png"
+                   ],
+        "prompt":  "Ein magischer Turm, der aus der Erde wächst, mit vier leuchtenden Stockwerken (SEO-Schriftrollen, Vertriebskarte, Werbe-Feuerwerk, Schatzkammer ganz oben). Im Vordergrund steht die jeweilige Person vor dem Wahrzeichen ihrer Stadt, kein Text.\nV1 Hermann vor dem Aachener Dom · V2 Paul vor dem Völkerschlachtdenkmal in Leipzig · V3 Robin vor der Münchner Frauenkirche · V4 Johann vor dem JenTower in Jena, kommt gerade erst den Weg herauf.\n\nDies ist Variante V2 von 4.\nPro Bild nur diese eine Person, Gesicht und Frisur exakt wie auf dem Charakterblatt.\nDie ersten 1 Bilder sind Charakterblätter (Paul in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „War eh meine Idee.“ — Paul"
+    },
+    {
+        "ziel":  "Bilder/Earthbender Ascension_3.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Robin.png"
+                   ],
+        "prompt":  "Ein magischer Turm, der aus der Erde wächst, mit vier leuchtenden Stockwerken (SEO-Schriftrollen, Vertriebskarte, Werbe-Feuerwerk, Schatzkammer ganz oben). Im Vordergrund steht die jeweilige Person vor dem Wahrzeichen ihrer Stadt, kein Text.\nV1 Hermann vor dem Aachener Dom · V2 Paul vor dem Völkerschlachtdenkmal in Leipzig · V3 Robin vor der Münchner Frauenkirche · V4 Johann vor dem JenTower in Jena, kommt gerade erst den Weg herauf.\n\nDies ist Variante V3 von 4.\nPro Bild nur diese eine Person, Gesicht und Frisur exakt wie auf dem Charakterblatt.\nDie ersten 1 Bilder sind Charakterblätter (Robin in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Robin hat das Logo schon fertig."
+    },
+    {
+        "ziel":  "Bilder/Earthbender Ascension_4.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Johann.png"
+                   ],
+        "prompt":  "Ein magischer Turm, der aus der Erde wächst, mit vier leuchtenden Stockwerken (SEO-Schriftrollen, Vertriebskarte, Werbe-Feuerwerk, Schatzkammer ganz oben). Im Vordergrund steht die jeweilige Person vor dem Wahrzeichen ihrer Stadt, kein Text.\nV1 Hermann vor dem Aachener Dom · V2 Paul vor dem Völkerschlachtdenkmal in Leipzig · V3 Robin vor der Münchner Frauenkirche · V4 Johann vor dem JenTower in Jena, kommt gerade erst den Weg herauf.\n\nDies ist Variante V4 von 4.\nJohann mit seinem markanten Schnurrbart, genau wie auf dem Charakterblatt – nicht Robin. Kopf und Körper zeigen in dieselbe Richtung: Er steigt den Weg zum Turm hinauf und schaut dabei nach vorn, natürliche Haltung, kein verdrehter Kopf.\nPro Bild nur diese eine Person, Gesicht und Frisur exakt wie auf dem Charakterblatt.\nDie ersten 1 Bilder sind Charakterblätter (Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Ich komm später dazu.“ — Johann"
+    },
+    {
+        "ziel":  "Bilder/Hard-Hitting Question_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Paul.png",
+                       "Bilder/_Charakterblatt_Hermann.png",
+                       "Fotos/Nachlieferung/Paul_gestikuliert.png"
+                   ],
+        "prompt":  "Paul zeigt mit dem Finger auf ein umständliches, wackeliges Gerät aus Zahnrädern, und eine grüne Kraftwelle schießt aus seinem Finger und bringt es zum Einsturz. Hermann steht daneben mit Schraubenschlüssel und offenem Mund.\n\nDies ist Exemplar 1 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nPauls Gestik aus dem Foto übernehmen.\nDie ersten 2 Bilder sind Charakterblätter (Paul, Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Hermann baute zwei Wochen lang. Paul stellte eine Frage."
+    },
+    {
+        "ziel":  "Bilder/Hard-Hitting Question_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Paul.png",
+                       "Bilder/_Charakterblatt_Hermann.png",
+                       "Fotos/Nachlieferung/Paul_gestikuliert.png"
+                   ],
+        "prompt":  "Paul zeigt mit dem Finger auf ein umständliches, wackeliges Gerät aus Zahnrädern, und eine grüne Kraftwelle schießt aus seinem Finger und bringt es zum Einsturz. Hermann steht daneben mit Schraubenschlüssel und offenem Mund.\n\nDies ist Exemplar 2 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nPauls Gestik aus dem Foto übernehmen.\nDie ersten 2 Bilder sind Charakterblätter (Paul, Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Klar geht das effizienter. Aber dann versteh ich\u0027s ja nicht.“ — Hermann"
+    },
+    {
+        "ziel":  "Bilder/Hearth Elemental_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Hermann.png",
+                       "Bilder/_Charakterblatt_Robin.png",
+                       "Bilder/_Charakterblatt_Paul.png",
+                       "Bilder/_Charakterblatt_Johann.png",
+                       "Bilder/_Charakterblatt_Max.png",
+                       "Fotos/Gruppe/Garten-Jena/Vicky-Robin-Johann__IMG-20230813-WA0049.jpg",
+                       "Fotos/Gruppe/Garten-Jena/Robin-Vicky__IMG_20250809_234522.jpg"
+                   ],
+        "prompt":  "Ein riesiges, gutmütiges Feuerelementar wächst aus einem Lagerfeuer in einem nächtlichen Garten, um es herum sitzen fünf Freunde mit Cocktails und lachen. Funken, Sterne, warme Sommernacht.\nV1–V4: jeweils ein anderer Freund im Vordergrund (Hermann am Shaker, Johann mit Gin, Max erzählt, Paul gestikuliert).\n\nDies ist Variante V1 von 4.\nDie Fotos zeigen nur die Kulisse (Garten, Lagerfeuer). Die fünf Freunde nach den Charakterblättern einsetzen, keine weiteren Personen.\nDie ersten 5 Bilder sind Charakterblätter (Hermann, Robin, Paul, Johann, Max in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Noch einen? Ich hab da was Neues.“ — Hermann"
+    },
+    {
+        "ziel":  "Bilder/Hearth Elemental_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Hermann.png",
+                       "Bilder/_Charakterblatt_Robin.png",
+                       "Bilder/_Charakterblatt_Paul.png",
+                       "Bilder/_Charakterblatt_Johann.png",
+                       "Bilder/_Charakterblatt_Max.png",
+                       "Fotos/Gruppe/Garten-Jena/Vicky-Robin-Johann__IMG-20230813-WA0049.jpg",
+                       "Fotos/Gruppe/Garten-Jena/Robin-Vicky__IMG_20250809_234522.jpg"
+                   ],
+        "prompt":  "Ein riesiges, gutmütiges Feuerelementar wächst aus einem Lagerfeuer in einem nächtlichen Garten, um es herum sitzen fünf Freunde mit Cocktails und lachen. Funken, Sterne, warme Sommernacht.\nV1–V4: jeweils ein anderer Freund im Vordergrund (Hermann am Shaker, Johann mit Gin, Max erzählt, Paul gestikuliert).\n\nDies ist Variante V2 von 4.\nDie Fotos zeigen nur die Kulisse (Garten, Lagerfeuer). Die fünf Freunde nach den Charakterblättern einsetzen, keine weiteren Personen.\nDie ersten 5 Bilder sind Charakterblätter (Hermann, Robin, Paul, Johann, Max in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Gin geht immer.“ — Johann"
+    },
+    {
+        "ziel":  "Bilder/Hearth Elemental_3.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Hermann.png",
+                       "Bilder/_Charakterblatt_Robin.png",
+                       "Bilder/_Charakterblatt_Paul.png",
+                       "Bilder/_Charakterblatt_Johann.png",
+                       "Bilder/_Charakterblatt_Max.png",
+                       "Fotos/Gruppe/Garten-Jena/Vicky-Robin-Johann__IMG-20230813-WA0049.jpg",
+                       "Fotos/Gruppe/Garten-Jena/Robin-Vicky__IMG_20250809_234522.jpg"
+                   ],
+        "prompt":  "Ein riesiges, gutmütiges Feuerelementar wächst aus einem Lagerfeuer in einem nächtlichen Garten, um es herum sitzen fünf Freunde mit Cocktails und lachen. Funken, Sterne, warme Sommernacht.\nV1–V4: jeweils ein anderer Freund im Vordergrund (Hermann am Shaker, Johann mit Gin, Max erzählt, Paul gestikuliert).\n\nDies ist Variante V3 von 4.\nDie Fotos zeigen nur die Kulisse (Garten, Lagerfeuer). Die fünf Freunde nach den Charakterblättern einsetzen, keine weiteren Personen.\nDie ersten 5 Bilder sind Charakterblätter (Hermann, Robin, Paul, Johann, Max in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Jede Geschichte legt ein Scheit nach."
+    },
+    {
+        "ziel":  "Bilder/Hearth Elemental_4.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Hermann.png",
+                       "Bilder/_Charakterblatt_Robin.png",
+                       "Bilder/_Charakterblatt_Paul.png",
+                       "Bilder/_Charakterblatt_Johann.png",
+                       "Bilder/_Charakterblatt_Max.png",
+                       "Fotos/Gruppe/Garten-Jena/Vicky-Robin-Johann__IMG-20230813-WA0049.jpg",
+                       "Fotos/Gruppe/Garten-Jena/Robin-Vicky__IMG_20250809_234522.jpg"
+                   ],
+        "prompt":  "Ein riesiges, gutmütiges Feuerelementar wächst aus einem Lagerfeuer in einem nächtlichen Garten, um es herum sitzen fünf Freunde mit Cocktails und lachen. Funken, Sterne, warme Sommernacht.\nV1–V4: jeweils ein anderer Freund im Vordergrund (Hermann am Shaker, Johann mit Gin, Max erzählt, Paul gestikuliert).\n\nDies ist Variante V4 von 4.\nDie Fotos zeigen nur die Kulisse (Garten, Lagerfeuer). Die fünf Freunde nach den Charakterblättern einsetzen, keine weiteren Personen.\nDie ersten 5 Bilder sind Charakterblätter (Hermann, Robin, Paul, Johann, Max in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Paul erklärt das Feuer. Das Feuer nickt."
+    },
+    {
+        "ziel":  "Bilder/Keen-Eyed Curator_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Max.png",
+                       "Bilder/_Charakterblatt_Robin.png",
+                       "Fotos/Nachlieferung/Max_im_Restaurant.jpg"
+                   ],
+        "prompt":  "Max als eleganter Waschbär-Gourmet (Max\u0027 Gesichtszüge erkennbar) mit Monokel an einem edlen Tisch, vor ihm vier winzige, kunstvoll angerichtete Gänge, die magisch leuchten. Robin sitzt ihm gegenüber und hebt das Glas.\n\nDies ist Exemplar 2 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nDas Restaurant-Foto als Vorlage für Ort und Stimmung.\nDie ersten 2 Bilder sind Charakterblätter (Max, Robin in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Robin zahlt mit der Dividende. Max erklärt dafür, warum der Schaum hält."
+    },
+    {
+        "ziel":  "Bilder/Lumbering Worldwagon_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Hermann.png",
+                       "Bilder/_Charakterblatt_Robin.png",
+                       "Bilder/_Charakterblatt_Paul.png",
+                       "Bilder/_Charakterblatt_Johann.png",
+                       "Bilder/_Charakterblatt_Max.png",
+                       "Fotos/Themen/Rennrad-Werkstatt/Max__IMG-20260425-WA0006.jpg"
+                   ],
+        "prompt":  "Ein gewaltiges, magisch-mechanisches Gefährt mit Hypercar-Silhouette, aber aus Erde, Wurzeln und Messing; Max schraubt mit Ingenieursbrille am offenen Motor, vier Freunde schieben hinten an. Kroatische Küste im Hintergrund. Kein Markenlogo.\n\nMax schraubt (Haltung wie auf dem Foto), die vier anderen schieben hinten an.\nDie ersten 5 Bilder sind Charakterblätter (Hermann, Robin, Paul, Johann, Max in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Ein Prototyp mit über tausend PS. Anschieben müssen trotzdem vier Mann."
+    },
+    {
+        "ziel":  "Bilder/Meltstrider\u0027s Resolve_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Robin.png",
+                       "Bilder/_Charakterblatt_Johann.png",
+                       "Fotos/Nachlieferung/Johann_und_Robin_zocken_zwar_Poolbilliard_aber_als_Sinnbild.jpg"
+                   ],
+        "prompt":  "Robin und Johann als zwei Champions in einer magischen Arena, Rücken an Rücken kämpfend, umgeben von leuchtenden Fähigkeiten-Effekten; im Vordergrund leere Bierflaschen und ein Laptop-Glimmen. Nachtstimmung.\n\nDies ist Exemplar 1 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nDas Foto ist nur ein Sinnbild für die beiden als Team.\nDie ersten 2 Bilder sind Charakterblätter (Robin, Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Eine Runde noch, dann schlaf ich.“ — Robin, Runde 1"
+    },
+    {
+        "ziel":  "Bilder/Meltstrider\u0027s Resolve_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Robin.png",
+                       "Bilder/_Charakterblatt_Johann.png",
+                       "Fotos/Nachlieferung/Johann_und_Robin_zocken_zwar_Poolbilliard_aber_als_Sinnbild.jpg"
+                   ],
+        "prompt":  "Robin und Johann als zwei Champions in einer magischen Arena, Rücken an Rücken kämpfend, umgeben von leuchtenden Fähigkeiten-Effekten; im Vordergrund leere Bierflaschen und ein Laptop-Glimmen. Nachtstimmung.\n\nDies ist Exemplar 2 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nDas Foto ist nur ein Sinnbild für die beiden als Team.\nDie ersten 2 Bilder sind Charakterblätter (Robin, Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Gank Mid, jetzt!“ — Johann, Runde 12"
+    },
+    {
+        "ziel":  "Bilder/Meltstrider\u0027s Resolve_3.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Robin.png",
+                       "Bilder/_Charakterblatt_Johann.png",
+                       "Fotos/Nachlieferung/Johann_und_Robin_zocken_zwar_Poolbilliard_aber_als_Sinnbild.jpg"
+                   ],
+        "prompt":  "Robin und Johann als zwei Champions in einer magischen Arena, Rücken an Rücken kämpfend, umgeben von leuchtenden Fähigkeiten-Effekten; im Vordergrund leere Bierflaschen und ein Laptop-Glimmen. Nachtstimmung.\n\nDies ist Exemplar 3 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nDas Foto ist nur ein Sinnbild für die beiden als Team.\nDie ersten 2 Bilder sind Charakterblätter (Robin, Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Runde 20. Draußen wird\u0027s hell. Drinnen geht\u0027s um alles."
+    },
+    {
+        "ziel":  "Bilder/Meltstrider\u0027s Resolve_4.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Robin.png",
+                       "Bilder/_Charakterblatt_Johann.png",
+                       "Fotos/Themen/YouTube-Verkleidung/Johann__IMG-20250531-WA0087.jpg"
+                   ],
+        "prompt":  "Johann als wilder Krieger nach dem „John Wolv“-Foto: nackter Oberkörper, Jeans, lange Klingen in den Händen, entschlossener Blick. Er steht in einer magischen Arena Rücken an Rücken mit Robin, beide umgeben von grünen Kampfeffekten. Episch, dramatisches Gegenlicht.\n\nDies ist Exemplar 4 von 4: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nDas Foto ist die Vorlage für Johanns Verkleidung und Pose.\nDie ersten 2 Bilder sind Charakterblätter (Robin, Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Die Krallen waren Deko. Der Blick nicht."
+    },
+    {
+        "ziel":  "Bilder/Sazh\u0027s Chocobo_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Robin.png",
+                       "Bilder/_Charakterblatt_Hermann.png"
+                   ],
+        "prompt":  "Ein flauschiger, gelber Laufvogel, der auf einer grünen Weide steht und mit jedem Schritt, den er auf neues Land setzt, etwas größer und goldener wird; Robin und Hermann füttern ihn geduldig mit kleinen Münzen.\nV1–V4: Küken · Jungvogel · stattlich · riesig und golden.\n\nDies ist Variante V1 von 4.\nDie ersten 2 Bilder sind Charakterblätter (Robin, Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Jeden Monat ein bisschen Futter. Nicht hinsehen, nicht nervös werden."
+    },
+    {
+        "ziel":  "Bilder/Sazh\u0027s Chocobo_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Robin.png",
+                       "Bilder/_Charakterblatt_Hermann.png"
+                   ],
+        "prompt":  "Ein flauschiger, gelber Laufvogel, der auf einer grünen Weide steht und mit jedem Schritt, den er auf neues Land setzt, etwas größer und goldener wird; Robin und Hermann füttern ihn geduldig mit kleinen Münzen.\nV1–V4: Küken · Jungvogel · stattlich · riesig und golden.\n\nDies ist Variante V2 von 4.\nDie ersten 2 Bilder sind Charakterblätter (Robin, Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Hermann hat genau einen ETF. Den füttert er mit Hingabe."
+    },
+    {
+        "ziel":  "Bilder/Sazh\u0027s Chocobo_3.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Robin.png",
+                       "Bilder/_Charakterblatt_Hermann.png"
+                   ],
+        "prompt":  "Ein flauschiger, gelber Laufvogel, der auf einer grünen Weide steht und mit jedem Schritt, den er auf neues Land setzt, etwas größer und goldener wird; Robin und Hermann füttern ihn geduldig mit kleinen Münzen.\nV1–V4: Küken · Jungvogel · stattlich · riesig und golden.\n\nDies ist Variante V3 von 4.\nDie ersten 2 Bilder sind Charakterblätter (Robin, Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Langweilig ist das neue Reich.“ — Robin"
+    },
+    {
+        "ziel":  "Bilder/Sazh\u0027s Chocobo_4.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Robin.png",
+                       "Bilder/_Charakterblatt_Hermann.png"
+                   ],
+        "prompt":  "Ein flauschiger, gelber Laufvogel, der auf einer grünen Weide steht und mit jedem Schritt, den er auf neues Land setzt, etwas größer und goldener wird; Robin und Hermann füttern ihn geduldig mit kleinen Münzen.\nV1–V4: Küken · Jungvogel · stattlich · riesig und golden.\n\nDies ist Variante V4 von 4.\nDie ersten 2 Bilder sind Charakterblätter (Robin, Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Während Paul zockte, wuchs Hermanns Vogel einfach weiter. Langsam. Golden."
+    },
+    {
+        "ziel":  "Bilder/Spell Snare_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Johann.png",
+                       "Bilder/_Charakterblatt_Hermann.png"
+                   ],
+        "prompt":  "Johann blickt skeptisch auf ein magisches Glas, dessen Inhalt in einem blauen Wirbel verschwindet; neben ihm hält Hermann ein offensichtlich leeres Glas strahlend hoch. Humorvolle Gegensätze.\n\nDies ist Exemplar 1 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nDie ersten 2 Bilder sind Charakterblätter (Johann, Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Bei Johann ist das Glas halb leer. Bei Hermann ist es noch halb voll, wenn es längst ausgetrunken im Spüler steht."
+    },
+    {
+        "ziel":  "Bilder/Spell Snare_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Johann.png",
+                       "Bilder/_Charakterblatt_Hermann.png"
+                   ],
+        "prompt":  "Johann blickt skeptisch auf ein magisches Glas, dessen Inhalt in einem blauen Wirbel verschwindet; neben ihm hält Hermann ein offensichtlich leeres Glas strahlend hoch. Humorvolle Gegensätze.\n\nDies ist Exemplar 2 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nDie ersten 2 Bilder sind Charakterblätter (Johann, Hermann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Klingt gut. Und was kann schiefgehen?“ — Johann, bei jeder Idee von Hermann"
+    },
+    {
+        "ziel":  "Bilder/Sunderflock_4.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Hermann.png",
+                       "Bilder/_Charakterblatt_Robin.png",
+                       "Bilder/_Charakterblatt_Paul.png",
+                       "Bilder/_Charakterblatt_Johann.png",
+                       "Bilder/_Charakterblatt_Max.png"
+                   ],
+        "prompt":  "Ein prächtiges, schwebendes Schloss aus Wolken, Zahnrädern, Kaffeedampf und Cocktailgläsern hoch über einer Landschaft. Auf dem Balkon steht Hermann, verträumt lächelnd, mit einem Bauplan in der Hand. Unter dem Schloss sieht man, dass es auf sehr dünnen Fäden hängt. Blau-violetter Himmel, Sonnenuntergang.\nV1 im Bau · V2 fertig · V3 mit Kreditbriefen als Wolken · V4 seine Freunde schauen kopfschüttelnd von unten zu.\n\nDies ist Variante V4 von 4.\nHermann steht auf dem Balkon, seine vier Freunde stehen unten und schauen kopfschüttelnd hoch.\nDie ersten 5 Bilder sind Charakterblätter (Hermann, Robin, Paul, Johann, Max in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): „Und wo ist da die Treppe, Hermann?“ — Johann"
+    },
+    {
+        "ziel":  "Bilder/Vibrant Outburst_1.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Paul.png",
+                       "Bilder/_Charakterblatt_Johann.png",
+                       "Fotos/Nachlieferung/Seifenblasen_ersatz.jpg",
+                       "Fotos/Gruppe/Hochzeit/Paul__IMG-20250905-WA0021.jpg"
+                   ],
+        "prompt":  "Paul und Johann schreiten in festlicher Kleidung durch einen Kirchengang und feuern aus riesigen magischen Kanonen Seifenblasen, die als blau-rote Energiekugeln explodieren; das Publikum ist vor Staunen erstarrt. Jubelnde, epische Stimmung.\n\nDies ist Exemplar 1 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nFoto 1 gibt die Stimmung, Foto 2 die Seifenblasen-Pistole als Vorlage.\nDie ersten 2 Bilder sind Charakterblätter (Paul, Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Andere streuen Blüten. Paul und Johann luden durch."
+    },
+    {
+        "ziel":  "Bilder/Vibrant Outburst_2.png",
+        "format":  "1536x1024",
+        "bilder":  [
+                       "Bilder/_Charakterblatt_Paul.png",
+                       "Bilder/_Charakterblatt_Johann.png",
+                       "Fotos/Nachlieferung/Seifenblasen_ersatz.jpg",
+                       "Fotos/Gruppe/Hochzeit/Paul__IMG-20250905-WA0021.jpg"
+                   ],
+        "prompt":  "Paul und Johann schreiten in festlicher Kleidung durch einen Kirchengang und feuern aus riesigen magischen Kanonen Seifenblasen, die als blau-rote Energiekugeln explodieren; das Publikum ist vor Staunen erstarrt. Jubelnde, epische Stimmung.\n\nDies ist Exemplar 2 von 2: Variiere Situation, Perspektive und Lichtstimmung gegenüber den anderen Exemplaren.\nFoto 1 gibt die Stimmung, Foto 2 die Seifenblasen-Pistole als Vorlage.\nDie ersten 2 Bilder sind Charakterblätter (Paul, Johann in dieser Reihenfolge): Gesichter exakt so übernehmen.\nDie weiteren Fotos sind Vorlage für Ort, Pose, Kleidung oder Gegenstände.\nDas Bild soll zum Kartenspruch passen (den Spruch NICHT ins Bild schreiben): Zur Trauung zogen Paul und Johann ein: mit lauter Musik, riesigen Seifenblasenkanonen und null Gnade fürs Publikum."
+    }
+]
