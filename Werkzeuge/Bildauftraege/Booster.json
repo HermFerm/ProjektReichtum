@@ -1,0 +1,54 @@
+[
+  {
+    "ziel": "Bilder/Booster_Robin.png",
+    "format": "1024x1536",
+    "bilder": [
+      "Bilder/_Charakterblatt_Robin.png"
+    ],
+    "prompt": "Hochformat-Cover für die Booster-Verpackung eines Fantasy-Sammelkartenspiels, gemalt wie die großen Charakter-Cover echter Booster. WICHTIGER BILDAUFBAU: Das obere Viertel des Bildes ist nur stimmungsvoller Hintergrund (Himmel, Licht, Funken) ohne Kopf und ohne wichtige Details, dort kommt später ein Logo hin. Der Kopf liegt vollständig im Bild, mittig, zwischen 28 % und 45 % der Bildhöhe, groß und gut erkennbar. Das untere Viertel ist dunkler und ruhiger (Umhang, Nebel, Glut), dort kommt später ein Titel hin. Seitlich mindestens 10 % Abstand zu Gesicht und Händen. Kräftige Hauptfarbe Smaragdgrün und Gold, leuchtende Magie-Effekte, dunkle Vignette an den Rändern. Kein Text, keine Buchstaben, keine Logos, kein Rahmen.\nMotiv: Robin als Finanz-Druide, Hüftbild, heroische Pose: Aus seiner erhobenen Hand wächst ein junger goldener Baum, um den goldene Münzen und Blätter in einer aufsteigenden Spirale wirbeln (der Zinseszins). Grüner Mantel mit Goldstickerei, verschmitztes Lächeln. Hintergrund: verwunschener Garten mit Laternen und goldenem Gegenlicht.\nDas Bild ist Robins Charakterblatt: Gesicht exakt so übernehmen."
+  },
+  {
+    "ziel": "Bilder/Booster_Hermann.png",
+    "format": "1024x1536",
+    "bilder": [
+      "Bilder/_Charakterblatt_Hermann.png"
+    ],
+    "prompt": "Hochformat-Cover für die Booster-Verpackung eines Fantasy-Sammelkartenspiels, gemalt wie die großen Charakter-Cover echter Booster. WICHTIGER BILDAUFBAU: Das obere Viertel des Bildes ist nur stimmungsvoller Hintergrund (Himmel, Licht, Funken) ohne Kopf und ohne wichtige Details, dort kommt später ein Logo hin. Der Kopf liegt vollständig im Bild, mittig, zwischen 28 % und 45 % der Bildhöhe, groß und gut erkennbar. Das untere Viertel ist dunkler und ruhiger (Umhang, Nebel, Glut), dort kommt später ein Titel hin. Seitlich mindestens 10 % Abstand zu Gesicht und Händen. Kräftige Hauptfarbe Himmelblau und Silber, leuchtende Magie-Effekte, dunkle Vignette an den Rändern. Kein Text, keine Buchstaben, keine Logos, kein Rahmen.\nMotiv: Hermann als Luftschloss-Architekt, Hüftbild: Er hält eine leuchtende Bauzeichnung hoch und blickt zufrieden, hinter und über ihm zeichnen blaue magische Linien ein prachtvolles Schloss aus Wolken in den Abendhimmel. Mantel mit Zahnrad-Schnallen, lockige Haare im Wind.\nDas Bild ist Hermanns Charakterblatt: Gesicht exakt so übernehmen."
+  },
+  {
+    "ziel": "Bilder/Booster_Paul.png",
+    "format": "1024x1536",
+    "bilder": [
+      "Bilder/_Charakterblatt_Paul.png"
+    ],
+    "prompt": "Hochformat-Cover für die Booster-Verpackung eines Fantasy-Sammelkartenspiels, gemalt wie die großen Charakter-Cover echter Booster. WICHTIGER BILDAUFBAU: Das obere Viertel des Bildes ist nur stimmungsvoller Hintergrund (Himmel, Licht, Funken) ohne Kopf und ohne wichtige Details, dort kommt später ein Logo hin. Der Kopf liegt vollständig im Bild, mittig, zwischen 28 % und 45 % der Bildhöhe, groß und gut erkennbar. Das untere Viertel ist dunkler und ruhiger (Umhang, Nebel, Glut), dort kommt später ein Titel hin. Seitlich mindestens 10 % Abstand zu Gesicht und Händen. Kräftige Hauptfarbe Feuerrot und Glut-Orange, leuchtende Magie-Effekte, dunkle Vignette an den Rändern. Kein Text, keine Buchstaben, keine Logos, kein Rahmen.\nMotiv: Paul als feuriger Redner und Kriegsherr, Hüftbild, entschlossene Pose: Er streckt eine Hand nach vorn, in der eine Flamme lodert, rote Funken und Glutbrocken wirbeln um ihn, Hintergrund Gewitterwolken und Lava-Glühen. Dunkle Rüstung mit Umhang, selbstbewusster Blick.\nDas Bild ist Pauls Charakterblatt: Gesicht exakt so übernehmen."
+  },
+  {
+    "ziel": "Bilder/Booster_Johann.png",
+    "format": "1024x1536",
+    "bilder": [
+      "Bilder/_Charakterblatt_Johann.png"
+    ],
+    "prompt": "Hochformat-Cover für die Booster-Verpackung eines Fantasy-Sammelkartenspiels, gemalt wie die großen Charakter-Cover echter Booster. WICHTIGER BILDAUFBAU: Das obere Viertel des Bildes ist nur stimmungsvoller Hintergrund (Himmel, Licht, Funken) ohne Kopf und ohne wichtige Details, dort kommt später ein Logo hin. Der Kopf liegt vollständig im Bild, mittig, zwischen 28 % und 45 % der Bildhöhe, groß und gut erkennbar. Das untere Viertel ist dunkler und ruhiger (Umhang, Nebel, Glut), dort kommt später ein Titel hin. Seitlich mindestens 10 % Abstand zu Gesicht und Händen. Kräftige Hauptfarbe Erdbraun, Kupfer und Waldgrün, leuchtende Magie-Effekte, dunkle Vignette an den Rändern. Kein Text, keine Buchstaben, keine Logos, kein Rahmen.\nMotiv: Johann als Baumeister und Heimwerker, Hüftbild: schwerer Hammer lässig über der Schulter, um ihn herum schweben Steine, Holzbalken und Dachziegel, die sich magisch zu einem Haus zusammenfügen. Lederschürze mit Werkzeug, breites Grinsen. Hintergrund: Bergwald im Abendlicht.\nDas Bild ist Johanns Charakterblatt: Gesicht exakt so übernehmen."
+  },
+  {
+    "ziel": "Bilder/Booster_Max.png",
+    "format": "1024x1536",
+    "bilder": [
+      "Bilder/_Charakterblatt_Max.png"
+    ],
+    "prompt": "Hochformat-Cover für die Booster-Verpackung eines Fantasy-Sammelkartenspiels, gemalt wie die großen Charakter-Cover echter Booster. WICHTIGER BILDAUFBAU: Das obere Viertel des Bildes ist nur stimmungsvoller Hintergrund (Himmel, Licht, Funken) ohne Kopf und ohne wichtige Details, dort kommt später ein Logo hin. Der Kopf liegt vollständig im Bild, mittig, zwischen 28 % und 45 % der Bildhöhe, groß und gut erkennbar. Das untere Viertel ist dunkler und ruhiger (Umhang, Nebel, Glut), dort kommt später ein Titel hin. Seitlich mindestens 10 % Abstand zu Gesicht und Händen. Kräftige Hauptfarbe Violett mit Blau und Rot, leuchtende Magie-Effekte, dunkle Vignette an den Rändern. Kein Text, keine Buchstaben, keine Logos, kein Rahmen.\nMotiv: Max als Ingenieur und Tänzer, Hüftbild, dynamische Tanzpose: Aus Blitzen geformte Pferde in Blau und Rot galoppieren in einem Wirbel um ihn, in seiner Hand glüht ein kleiner magischer Turbolader. Weißes Hemd mit Fliege unter einem eleganten Mantel, Brille, breites Lächeln.\nDas Bild ist Maxs Charakterblatt: Gesicht exakt so übernehmen."
+  },
+  {
+    "ziel": "Bilder/Booster_Gruppe.png",
+    "format": "1024x1536",
+    "bilder": [
+      "Bilder/_Charakterblatt_Robin.png",
+      "Bilder/_Charakterblatt_Hermann.png",
+      "Bilder/_Charakterblatt_Paul.png",
+      "Bilder/_Charakterblatt_Johann.png",
+      "Bilder/_Charakterblatt_Max.png"
+    ],
+    "prompt": "Hochformat-Cover für die Booster-Verpackung eines Fantasy-Sammelkartenspiels, gemalt wie die großen Charakter-Cover echter Booster. WICHTIGER BILDAUFBAU: Das obere Viertel des Bildes ist nur stimmungsvoller Hintergrund (Himmel, Licht, Funken) ohne Kopf und ohne wichtige Details, dort kommt später ein Logo hin. Alle fünf Köpfe liegen vollständig im Bild zwischen 30 % und 50 % der Bildhöhe, nebeneinander in einem leichten Bogen, keiner verdeckt. Das untere Viertel ist dunkler und ruhiger (Umhang, Nebel, Glut), dort kommt später ein Titel hin. Seitlich mindestens 10 % Abstand zu Gesicht und Händen. Kräftige Hauptfarbe Gold und warmes Bernstein, leuchtende Magie-Effekte, dunkle Vignette an den Rändern. Kein Text, keine Buchstaben, keine Logos, kein Rahmen.\nMotiv: Die fünf Freunde als Abenteurergruppe vor dem offenen Tor einer Schatzkammer voller Goldmünzen, Arm in Arm, siegessicher und fröhlich, goldenes Licht strömt aus der Kammer.\nDie Bilder sind die Charakterblätter von Robin, Hermann, Paul, Johann und Max (in dieser Reihenfolge): Gesichter exakt so übernehmen, jede Person genau einmal, keine weiteren Personen."
+  }
+]

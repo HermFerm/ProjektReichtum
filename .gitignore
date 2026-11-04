@@ -14,3 +14,6 @@ Fotos/Sonstiges/
 Karten/png/
 Karten/png-test/
 Karten/*.mse-set
+# Zwischenbilder der Booster-Schnittmuster (neu erzeugen mit Entwuerfe/Booster/bau_schnittmuster.py)
+Druck/booster/png/
+Druck/booster/*.html

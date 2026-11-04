@@ -434,8 +434,26 @@ Quelle: `Vorlagen/Beschreibung der Gang.docx`. Die Zuordnung jeder Karte steht i
   - Inhalt: Deck 1 mit 144 Karten (S33), Deck 2 mit 36 Holo-Karten („Holographic foil (front)“, 30,65 €), gleiche Rückseite.
   - **Erwartete Ankunft: Fr 13.11. bis Mi 18.11.** (gerechnet in Werktagen).
   - Standardversand (18,99 €, 12–18 Tage) wurde verworfen, weil er im ungünstigsten Fall erst am 30.11. ankommt.
-  - Bestellnummer und Sendungsnummer: _bitte nachtragen_
+  - **Bestellnummer: 161104266519**, Sendungsnummer: _noch offen_
 - **Bis zur Lieferung täglich die MPC-Mails prüfen**, auch den Spam-Ordner. Bei einer Ablehnung den Antworttext aus `Druck/Bestellanleitung.md` (Abschnitt 7) verwenden.
+
+**Update 04.11.2026, Faltbooster (Entwurf v2):**
+
+- Richtung B „Booster klassisch“ gewählt (Hermann). v2 orientiert sich an echten Play-Boostern: Kartenzahl und „DEUTSCH 37+“ oben, Logo „Projekt Reichtum“ mit Münze und Goldschnörkeln, eine Heldenfigur über die ganze Fläche, Titel „Betongold vs. Börsenparkett“, farbiges Band „PLAY-BOOSTER“, Hinweis „1 Holo-Karte in jedem Booster!“, Türnummer als Münze.
+- 6 eigene Booster-Motive im Hochformat (`Bilder/Booster_<Robin|Hermann|Paul|Johann|Max|Gruppe>.png`, 0,39 $). Die Köpfe liegen bewusst unter dem Logo.
+- Zuordnung: Gruppe in Tür 1 und 24, Robin in Tür 6 (Nikolaus), sonst reihum Hermann, Paul, Johann, Max, Robin. Sonderbänder für Tür 1, 6, 17, 20, 23, 24.
+- Generator `Entwuerfe/Booster/bau_booster.py --v2 <Türen>`, Beispiele Tür 1–6 in `uebersicht_v2_1.jpg`.
+- Bauform: flache Hülle mit Klebenaht hinten, Enden flachgedrückt und verklebt. Vorderseite 72 × 104 mm, mit den Pressnähten 134 mm. Schnittmuster etwa 162 × 134 mm, 2 pro A4.
+
+**Update 04.11.2026, Faltbooster fertig:**
+
+- Entwurf v2 abgenommen (Hermann: „richtig geil“). Altersangabe auf **„DEUTSCH 36+“** geändert, weil Robin 36 ist. Die Gesichter auf den 6 Booster-Motiven sind von Hermann bestätigt.
+- **Druckdatei: `Druck/booster/Booster_Schnittmuster.pdf`**, 13 Seiten A4: Seite 1 Bastelanleitung, dann 12 Bögen mit je 2 Boostern (Tür 1–24), 300 dpi, 2 mm Beschnitt, Schnitt- und Falzmarken außerhalb.
+- Bauform: [Rücken A 12 mm][Seite][Vorderseite 72 mm][Seite][Rücken B 60 mm][Lasche 8 mm] × 134 mm. Die Naht liegt außermittig, damit kein Text über die Naht läuft.
+- Seitenbreite (Dicke) nach Kartenzahl: 4 mm (6–7 Karten), 5 mm (Tür 2), 6 mm (Tür 23, 24), 9 mm (Tür 1), 11 mm (Tür 17).
+- Rückseite: Logo, „Tür N · X Karten, davon Y Holo-Karten“ (aus der Packliste), Spaß-Strichcode, „Nicht geeignet für Personen unter 36.“
+- Generator: `Entwuerfe/Booster/bau_schnittmuster.py [Türen]`. Die Zwischenbilder in `Druck/booster/png/` sind nicht im Repo.
+- **Drucken:** Copyshop, A4, 250–300 g/m², Maßstab 100 %, einseitig. Seite 1 auf normalem Papier. 1–2 Bögen extra für einen Probe-Booster.
 
 **Kalender (offen):** Hermann hat noch keinen. Idee: eine **Booster-Display-Box** aus dem Bastelladen (Pappschachtel oder Holzkiste, ummantelt mit einem Druck aus dem Copyshop), in der die 24 nummerierten Booster stehen wie in einem echten Display.
 - Maße grob: Booster etwa 72 × 105 × 4 mm, Tür 1 dicker. Dazu Bau-Sheets. Die Box also innen etwa 160 × 85 × 110 mm.
