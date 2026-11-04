@@ -428,6 +428,15 @@ Quelle: `Vorlagen/Beschreibung der Gang.docx`. Die Zuordnung jeder Karte steht i
 - Umsetzung: Liste `$holo` in `Druckdaten-erzeugen.ps1`, Ausgabe `Druck/holo/`, Spalte „Druck“ in der Packliste. `Pruefung.ps1` prüft 144 + 36, Holo in jedem Booster und keine Karte in beiden Decks: alles in Ordnung.
 - `Druck/Bestellanleitung.md` ist auf zwei Decks umgestellt.
 
+**Update 04.11.2026, BESTELLT:**
+
+- **MPC-Bestellung am Mi 04.11.2026 abgeschickt**, Versand **Express** (70,30 €, laut MPC 7–10 Tage).
+  - Inhalt: Deck 1 mit 144 Karten (S33), Deck 2 mit 36 Holo-Karten („Holographic foil (front)“, 30,65 €), gleiche Rückseite.
+  - **Erwartete Ankunft: Fr 13.11. bis Mi 18.11.** (gerechnet in Werktagen).
+  - Standardversand (18,99 €, 12–18 Tage) wurde verworfen, weil er im ungünstigsten Fall erst am 30.11. ankommt.
+  - Bestellnummer und Sendungsnummer: _bitte nachtragen_
+- **Bis zur Lieferung täglich die MPC-Mails prüfen**, auch den Spam-Ordner. Bei einer Ablehnung den Antworttext aus `Druck/Bestellanleitung.md` (Abschnitt 7) verwenden.
+
 **Kalender (offen):** Hermann hat noch keinen. Idee: eine **Booster-Display-Box** aus dem Bastelladen (Pappschachtel oder Holzkiste, ummantelt mit einem Druck aus dem Copyshop), in der die 24 nummerierten Booster stehen wie in einem echten Display.
 - Maße grob: Booster etwa 72 × 105 × 4 mm, Tür 1 dicker. Dazu Bau-Sheets. Die Box also innen etwa 160 × 85 × 110 mm.
 - Ein Schubladen-Kalender passt nur, wenn die Fächer innen mindestens 7,5 × 10,5 × 1 cm haben. Die meisten sind zu klein.
