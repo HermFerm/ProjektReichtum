@@ -66,6 +66,7 @@ Quellen ändern, dann die Skripte der Reihe nach neu starten. **Erzeugte Dateien
 | `Karten/` | MSE-Set, Set-Symbol, `png/` (153 Karten = 150 + 3 Saga-Beilegkarten von Esper Origins) |
 | `Druck/` | Druckdaten für **zwei MPC-Decks**: `vorderseiten/` (144, normal) und `holo/` (36, „Holographic foil (front)“: eine Karte pro Booster, Spielmarken, Titelkarte; Liste `$holo` in `Druckdaten-erzeugen.ps1`), dazu `rueckseite.png` für beide, `Packliste.csv` (Karte → Tür, Spalte „Druck“ normal/Holo), `Bestellanleitung.md` (MPC) |
 | `Entwuerfe/Sonderkarten/bau_sonderkarten.py` | Titelkarte und 4 Trennkarten im Anteilschein-Stil → `Karten/sonder/` (schon im Druckformat). `Druckdaten-erzeugen.ps1` übernimmt sie und erzeugt dazu die gekennzeichneten Ersatzkarten (Liste `$ersatz`). |
+| `Entwuerfe/Booster/bau_booster.py`, `bau_schnittmuster.py` | Faltbooster (Play-Booster-Stil, „DEUTSCH 36+“): Vorderseite je Tür (`--v2 <Türen>`), Rückseite und Schnittmuster → `Druck/booster/Booster_Schnittmuster.pdf` (13 Seiten A4, 2 Booster pro Blatt). Motive `Bilder/Booster_<Held>.png`, Zuordnung in `held_fuer()`, Sonderbänder in `SONDER_BAND`. |
 | `Entwuerfe/Rueckseite/bau_rueckseite.py` | Rückseite (Variante B Anteilschein, ENTSCHIEDEN 03.11.) → `Druck/rueckseite.png` |
 | `Entwuerfe/` | Gestaltungsentwürfe (Rahmenvergleich, Rückseite …) |
 | `Foto-Wunschliste.md` | Wunschliste und Abgleich: Fotobasis ist vollständig, offen ist nur das echte Seifenblasen-Foto (optional) |
