@@ -419,6 +419,15 @@ Quelle: `Vorlagen/Beschreibung der Gang.docx`. Die Zuordnung jeder Karte steht i
 - **Bestellanleitung:** `Druck/Bestellanleitung.md`, mit Antworttext für den Fall einer Urheberrechts-Ablehnung.
 - Zur Überlegung für die Bau-Sheets: Welche 12 Karten im Landfall-Hauptdeck für das Sideboard („mit Gutachter“) rausgehen, ist noch nicht festgelegt.
 
+**Update 04.11.2026, Holo-Karten:**
+
+- **ENTSCHIEDEN (Hermann):** Holo-Karten ja, MPC-Folienbooster nein. MPC mischt alle Karten zufällig auf die Packs, einen festen Inhalt pro Pack gibt es erst ab 1.000 Packs. Leere Folienpacks zum Selbstbefüllen kosten etwa 112 $ für 30 Packs. Die Booster werden also Faltbooster aus dem Copyshop.
+- **Zweites MPC-Deck „Holographic foil (front)“, 36 Karten, 30,65 €.** Das normale Deck hat jetzt 144 Karten. Zusammen bleiben es 180.
+- Holo pro Booster (ersetzt die normale Version): Tür 1 Alpenpass, 2 Puzzle-Adventskalender, 3 Klippenspringer, 4 „Einzig logische Meinung“, 5 Johann der Heimwerker, 6 Der Zinseszins, 7 Der Turbolader, 8 Johanns Haus, 9 Kroatische Küste, 10 WhatsApp-Gruppe, 11 Saaleufer Jena, 12 Max im Sternerestaurant, 13 A9 München–Jena, 14 Oktoberfest, 15 „Da les ich mich mal ein“, 16 Johanns Sauna, 18 Hermanns Luftschloss, 19 Pauls Feedbackgespräch, 21 Max zieht den Stecker (mythisch), 22 Paul, nicht diskutierbar, 24 Bugatti.
+- Außerdem holo: alle 14 Spielmarken und die Titelkarte.
+- Umsetzung: Liste `$holo` in `Druckdaten-erzeugen.ps1`, Ausgabe `Druck/holo/`, Spalte „Druck“ in der Packliste. `Pruefung.ps1` prüft 144 + 36, Holo in jedem Booster und keine Karte in beiden Decks: alles in Ordnung.
+- `Druck/Bestellanleitung.md` ist auf zwei Decks umgestellt.
+
 **Kalender (offen):** Hermann hat noch keinen. Idee: eine **Booster-Display-Box** aus dem Bastelladen (Pappschachtel oder Holzkiste, ummantelt mit einem Druck aus dem Copyshop), in der die 24 nummerierten Booster stehen wie in einem echten Display.
 - Maße grob: Booster etwa 72 × 105 × 4 mm, Tür 1 dicker. Dazu Bau-Sheets. Die Box also innen etwa 160 × 85 × 110 mm.
 - Ein Schubladen-Kalender passt nur, wenn die Fächer innen mindestens 7,5 × 10,5 × 1 cm haben. Die meisten sind zu klein.

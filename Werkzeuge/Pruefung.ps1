@@ -117,12 +117,21 @@ Write-Host "  Info: $($karten.Count) Karten im Set, davon $fl mit Flavortext"
 
 # ---------- 4. Druckdaten
 Write-Host "`n4. Druckdaten"
-$vs = @(Get-ChildItem "$root\Druck\vorderseiten" -Filter *.png)
+# Zwei MPC-Decks (ENTSCHIEDEN 04.11.): normal 144 Karten, Holo („Holographic foil (front)“) 36 Karten
+$normal = @(Get-ChildItem "$root\Druck\vorderseiten" -Filter *.png)
+$holo = @(Get-ChildItem "$root\Druck\holo" -Filter *.png -ErrorAction SilentlyContinue)
+$vs = $normal + $holo
 $sonder = @(Get-ChildItem "$root\Karten\sonder" -Filter *.png -ErrorAction SilentlyContinue).Count
 $ersatz = @($vs | Where-Object { $_.BaseName -match '_Ersatz$' }).Count
 $soll = $karten.Count + $sonder + $ersatz
 if ($vs.Count -eq $soll) { OK "$($vs.Count) Vorderseiten = $($karten.Count) aus dem Set + $sonder Sonderkarten + $ersatz Ersatzkarten" } else { Fehler "$($vs.Count) Vorderseiten, erwartet $soll" }
-if ($vs.Count -eq 180) { OK 'genau 180 Karten = MPC-Stufe „bis 180“ voll belegt' } elseif ($vs.Count -lt 180) { Write-Host "  Info: $(180 - $vs.Count) Plätze in der Stufe bis 180 frei" } else { Fehler "$($vs.Count) Karten: über der Stufe bis 180" }
+if ($normal.Count -eq 144) { OK 'normales Deck: 144 Karten (MPC-Stufe bis 144 voll)' } else { Fehler "normales Deck hat $($normal.Count) statt 144 Karten" }
+if ($holo.Count -eq 36) { OK 'Holo-Deck: 36 Karten (MPC-Stufe bis 36 voll)' } else { Fehler "Holo-Deck hat $($holo.Count) statt 36 Karten" }
+$doppelt = @($holo | Where-Object { Test-Path (Join-Path "$root\Druck\vorderseiten" $_.Name) })
+if ($doppelt) { Fehler "in beiden Decks: $($doppelt.Name -join ', ')" } else { OK 'keine Karte in beiden Decks' }
+$ohneHolo = @(Import-Csv "$root\Planungstabelle.csv" -Delimiter ';' -Encoding UTF8 | Where-Object { [int]$_.'Tür' -gt 1 } | ForEach-Object { [int]$_.'Tür' } | Select-Object -Unique |
+  Where-Object { $t = '{0:D2}_' -f $_; -not ($holo | Where-Object { $_.Name.StartsWith($t) -and $_.Name -notmatch 'Token|Titelkarte|Trennkarte' }) })
+if ($ohneHolo) { Fehler "Booster ohne Holo-Karte: Tür $($ohneHolo -join ', ')" } else { OK 'jeder Booster hat eine Holo-Karte' }
 $falsch = 0
 foreach ($f in $vs + @(Get-Item "$root\Druck\rueckseite.png" -ErrorAction SilentlyContinue)) {
   if (-not $f) { continue }

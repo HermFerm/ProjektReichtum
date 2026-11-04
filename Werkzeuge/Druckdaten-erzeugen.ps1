@@ -87,10 +87,29 @@ foreach ($e in $ersatz) {
   $c.Save((Join-Path $ziel ('{0:D2}_{1}_Ersatz.png' -f $ersatzTuer, $e)), [System.Drawing.Imaging.ImageFormat]::Png); $c.Dispose(); $n++
 }
 
+# Holo-Deck: zweites MPC-Deck mit „Holographic foil (front)“ (ENTSCHIEDEN 04.11.). Pro Booster eine besondere Karte
+# (ersetzt die normale Version, daher verschoben statt kopiert), dazu alle Spielmarken und die Titelkarte = 36 Karten.
+# Das normale Deck behält 144 Karten. Die Ersatzkarten oben sind schon vorher aus den normalen Versionen entstanden.
+$holoZiel = "$root\Druck\holo"
+Remove-Item $holoZiel -Recurse -Force -ErrorAction SilentlyContinue
+New-Item -ItemType Directory -Force $holoZiel | Out-Null
+$holo = @(
+  '01_Mountain_1', '02_Esper Origins_1', '03_Slickshot Show-Off_1', '04_Pompous Battlemage_1', '05_Icetill Explorer_1',
+  '06_Mightform Harmonizer_2', '07_Mossborn Hydra_1', '08_Ba Sing Se_1', '09_Spirebluff Canal_2', '10_Multiversal Passage_1',
+  '11_Riverpyre Verge_3', '12_Keen-Eyed Curator_1', '13_Fabled Passage_4', '14_Sapling Nursery_2', '15_Flow State_2',
+  '16_Steam Vents_4', '18_Sunderflock_1', '19_Traumatic Critique_1', '21_Torpor Orb_2', '22_Surrak Elusive Hunter_2',
+  '24_Lumbering Worldwagon_1', '01_Titelkarte_1')
+$holo += @(Get-ChildItem $ziel -Filter '*_Token-*.png' | ForEach-Object BaseName)
+foreach ($h in $holo) {
+  $p = Join-Path $ziel "$h.png"
+  if (-not (Test-Path $p)) { throw "Holo-Karte fehlt: $h" }
+  Move-Item $p $holoZiel
+}
+
 # Packliste: welche Karte in welches Türchen
 $rows = Import-Csv "$root\Planungstabelle.csv" -Delimiter ';' -Encoding UTF8
 $marken = if (Test-Path "$root\Spielmarken.csv") { Import-Csv "$root\Spielmarken.csv" -Delimiter ';' -Encoding UTF8 } else { @() }
-$liste = foreach ($f in Get-ChildItem $ziel -Filter *.png | Sort-Object Name) {
+$liste = foreach ($f in @(Get-ChildItem $ziel -Filter *.png) + @(Get-ChildItem $holoZiel -Filter *.png) | Sort-Object Name) {
   if ($f.BaseName -notmatch '^(\d+)_(.+)_(\d+)(_Rueckseite|_Ersatz)?$') { continue }
   $tuer = [int]$matches[1]; $karte = $matches[2]; $ex = $matches[3]; $rs = $matches[4] -eq '_Rueckseite'; $ers = $matches[4] -eq '_Ersatz'
   if ($ers) {
@@ -116,5 +135,7 @@ $liste = foreach ($f in Get-ChildItem $ziel -Filter *.png | Sort-Object Name) {
     Deck = $(if ($r) { $r.Deck } else { '' })
   }
 }
+$holoNamen = @(Get-ChildItem $holoZiel -Filter *.png | ForEach-Object Name)
+$liste = $liste | Select-Object *, @{ n = 'Druck'; e = { if ($holoNamen -contains $_.Datei) { 'Holo' } else { 'Normal' } } }
 $liste | Export-Csv "$root\Druck\Packliste.csv" -Delimiter ';' -NoTypeInformation -Encoding UTF8
-"Druckbilder: $n ($Breite × $Hoehe px, 300 dpi) in $ziel"
+"Druckbilder: $n ($Breite × $Hoehe px, 300 dpi): $(@(Get-ChildItem $ziel -Filter *.png).Count) normal in $ziel, $($holoNamen.Count) Holo in $holoZiel"

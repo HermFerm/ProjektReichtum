@@ -7,10 +7,14 @@ Punkte, die ich (Claude) nur aus der Recherche kenne und nicht im Shop gesehen h
 
 1. Prüfung laufen lassen. Ganz unten muss „Alles in Ordnung.“ stehen:
    `powershell -ExecutionPolicy Bypass -File Werkzeuge\Pruefung.ps1`
-2. Dateien bereitlegen:
-   - `Druck/vorderseiten/`: **180 PNG** (150 Karten, 3 Saga-Beilegkarten, 14 Spielmarken, 5 Titel-/Trennkarten, 8 Ersatzkarten)
-   - `Druck/rueckseite.png`: eine Rückseite für alle
+2. Dateien bereitlegen. Es sind **zwei Decks** mit derselben Rückseite (ENTSCHIEDEN 04.11.):
+   - **Deck 1 „normal“:** `Druck/vorderseiten/`, **144 PNG**
+   - **Deck 2 „Holo“:** `Druck/holo/`, **36 PNG**: eine besondere Karte pro Booster (Tür 1–24), alle 14 Spielmarken und die Titelkarte
+   - `Druck/rueckseite.png`: eine Rückseite für beide Decks
    - Format jeweils 822 × 1122 px bei 300 dpi. Das ist genau die MPC-Vorlage für 63,5 × 88,9 mm mit Beschnitt.
+   - Zusammen 180 Karten: 150 Karten, 3 Saga-Beilegkarten, 14 Spielmarken, 5 Titel-/Trennkarten, 8 Ersatzkarten.
+
+Die Schritte 1–5 machst du **zweimal**, einmal pro Deck. Beide Decks kommen in denselben Warenkorb.
 
 ## 1. Produkt wählen
 
@@ -23,8 +27,8 @@ Punkte, die ich (Claude) nur aus der Recherche kenne und nicht im Shop gesehen h
 | Option | Auswahl | Warum |
 |---|---|---|
 | Kartenkarton | **S33 Superior Smooth** (schwarzer Kern) | Kommt Magic-Karten am nächsten. Der schwarze Kern macht die Karte blickdicht. |
-| Anzahl | **180 Karten** (Stufe „bis 180“), 1 Deck | Wir haben genau 180. |
-| Druck | beidseitig farbig | Vorder- und Rückseite sind bedruckt |
+| Anzahl | Deck 1: **144 Karten**, Deck 2: **36 Karten**, je 1 Deck | Beide Stufen sind genau voll. |
+| Druck | Deck 1: beidseitig farbig. Deck 2: **„Holographic foil (front)“** (Preis laut Konfigurator 30,65 €) | Holo nur vorne, die Rückseite bleibt gleich |
 | Oberfläche | Standard/glatt, **kein Leinen (Linen)** | Leinen fühlt sich wie Pokerkarten an |
 | Ecken | abgerundet (Standard) | |
 | Verpackung | die günstigste (z. B. Folie) | Die Karten wandern ohnehin in die Booster. |
@@ -32,9 +36,10 @@ Punkte, die ich (Claude) nur aus der Recherche kenne und nicht im Shop gesehen h
 ## 3. Vorderseiten hochladen
 
 1. Für die Vorderseite **„unterschiedliche Bilder“** wählen ⚠
-2. Alle 180 Dateien aus `Druck/vorderseiten/` auf einmal markieren und hochladen. Sie dürfen automatisch auf die Plätze verteilt werden. Die Reihenfolge ist egal, denn das Sortieren übernimmt die Packliste.
+2. Deck 1: alle 144 Dateien aus `Druck/vorderseiten/` auf einmal markieren und hochladen. Deck 2: die 36 aus `Druck/holo/`. Sie dürfen automatisch auf die Plätze verteilt werden. Die Reihenfolge ist egal, denn das Sortieren übernimmt die Packliste.
 3. Kontrollieren:
-   - Jedes Bild ist **genau einmal** belegt, insgesamt 180, kein Platz bleibt leer.
+   - Jedes Bild ist **genau einmal** belegt, also 144 bzw. 36, kein Platz bleibt leer.
+   - Beim Holo-Deck wirklich „Holographic (front)“ gewählt, nicht „front & back“.
    - Bei der Bildeinpassung **nichts zuschneiden oder zoomen** lassen („Fit“ statt „Fill“, falls gefragt) ⚠
 
 ## 4. Rückseite hochladen
@@ -53,7 +58,8 @@ Stichprobe ansehen, die Schnittlinie wird im Editor angezeigt:
 ## 6. Warenkorb und Versand
 
 - Versand: **Express** (laut MPC 3 Tage Fertigung + 2–3 Tage Transport). Standard ist für unseren Termin zu knapp.
-- Erwartete Kosten: etwa 48 $ für die Karten plus Express-Versand, grob 50–80 € gesamt. Steuern/Zoll für DE im Warenkorb prüfen ⚠
+- Erwartete Kosten: Deck 1 (144, S33) grob 40–45 $ (geschätzt aus der Preisstaffel) plus Holo-Deck 30,65 € plus Express-Versand. Steuern/Zoll für DE im Warenkorb prüfen ⚠
+- Ob die Holo-Fertigung länger dauert, zeigt der Warenkorb bzw. das Lieferdatum. Liegt es nach dem 20.11., melde dich, dann überlegen wir, ob wir auf Holo verzichten.
 - Lieferadresse: zu dir. Packen und Versand an Robin übernimmst du.
 
 ## 7. Nach der Bestellung
@@ -72,6 +78,7 @@ Stichprobe ansehen, die Schnittlinie wird im Editor angezeigt:
 
 ## 8. Wenn die Karten da sind
 
-- Zählen (180) und mit `Druck/Packliste.csv` nach Türen sortieren. Die Spalte „Tür“ sagt, wohin jede Karte gehört.
+- Zählen (144 + 36) und mit `Druck/Packliste.csv` nach Türen sortieren. Die Spalte „Tür“ sagt, wohin jede Karte gehört, die Spalte „Druck“, ob sie aus dem Holo-Deck kommt.
+- Die Holo-Karte jedes Boosters am besten als **letzte Karte** in den Booster legen, wie bei echten Boostern.
 - Die Ersatzkarten erkennst du an der kleinen Aufschrift „ERSATZ“ unten im schwarzen Rand. Sie gehören ins „Ersatzteillager“ in Tür 17.
 - Mischtest: Rückseiten von 10 zufälligen Karten vergleichen. Sie müssen gleich aussehen.

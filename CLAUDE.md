@@ -64,7 +64,7 @@ Quellen ändern, dann die Skripte der Reihe nach neu starten. **Erzeugte Dateien
 | `Werkzeuge/Druckdaten-erzeugen.ps1` | Druckbilder mit 3 mm Beschnitt (822 × 1122 px, 300 dpi) nach `Druck/vorderseiten/` + `Druck/Packliste.csv` (Karte → Türchen) |
 | `Bilder/` | 150 fertige Kartenbilder `<Karte>_<Exemplar>.png`, Charakterblätter `_Charakterblatt_<Name>.png`, verworfene Versionen in `_verworfen/` |
 | `Karten/` | MSE-Set, Set-Symbol, `png/` (153 Karten = 150 + 3 Saga-Beilegkarten von Esper Origins) |
-| `Druck/` | Druckdaten (180 Vorderseiten + `rueckseite.png`), `Packliste.csv` (Karte → Tür), `Bestellanleitung.md` (MPC) |
+| `Druck/` | Druckdaten für **zwei MPC-Decks**: `vorderseiten/` (144, normal) und `holo/` (36, „Holographic foil (front)“: eine Karte pro Booster, Spielmarken, Titelkarte; Liste `$holo` in `Druckdaten-erzeugen.ps1`), dazu `rueckseite.png` für beide, `Packliste.csv` (Karte → Tür, Spalte „Druck“ normal/Holo), `Bestellanleitung.md` (MPC) |
 | `Entwuerfe/Sonderkarten/bau_sonderkarten.py` | Titelkarte und 4 Trennkarten im Anteilschein-Stil → `Karten/sonder/` (schon im Druckformat). `Druckdaten-erzeugen.ps1` übernimmt sie und erzeugt dazu die gekennzeichneten Ersatzkarten (Liste `$ersatz`). |
 | `Entwuerfe/Rueckseite/bau_rueckseite.py` | Rückseite (Variante B Anteilschein, ENTSCHIEDEN 03.11.) → `Druck/rueckseite.png` |
 | `Entwuerfe/` | Gestaltungsentwürfe (Rahmenvergleich, Rückseite …) |
